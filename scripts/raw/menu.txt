@@ -1,0 +1,243 @@
+# Formato: nome | preço | disponível | grupos de opções | descrição
+# Levantado do cardápio atual (pedir.delivery/app/pizzariaabbondanza) em 11/10/2026.
+## prato-do-dia
+672 - Virado à paulista | 28 | 1 | | @1
+673 - Costela com batata | 27 | 1 | | @1
+680 - Frango ao molho | 27 | 1 | | @2
+649 - Strogonoff de carne | 28 | 0 | | @2
+677 - Costela ao molho barbecue | 30 | 0 | | @2
+674 - Feijoada individual | 30 | 1 | | @3,6
+675 - Feijoada para 2 pessoas | 60 | 1 | | @3,6
+648 - Strogonoff de frango | 26 | 1 | | @3
+650 - Frango assado | 29 | 0 | | @4
+678 - Penne com parmegiana de frango | 29 | 1 | | @4
+681 - Penne com parmegiana de carne | 35 | 1 | | @4
+651 - Filé de tilápia com baião | 30 | 1 | | @5
+452 - Filé de tilápia grelhado | 30 | 1 | | @5
+679 - Salmão grelhado com batata sauté | 42 | 1 | | @5
+652 - Churrasco com baião | 30 | 1 | | @6
+653 - Churrasco | 28 | 1 | | @6
+## marmitex
+Contra filé | 30 | 1 | guarnicao | Acompanha arroz, feijão e salada
+Filé de frango | 26 | 1 | guarnicao | Acompanha arroz, feijão e salada
+Frango a passarinho | 25 | 1 | guarnicao | Acompanha arroz, feijão e salada
+Calabresa fresca | 26 | 1 | guarnicao | Acompanha arroz, feijão, salada e vinagrete
+Calabresa defumada acebolada | 26 | 1 | guarnicao | Acompanha arroz, feijão, salada e vinagrete
+Filé de peixe à milanesa | 29 | 1 | guarnicao | Acompanha arroz, feijão e salada
+Fígado acebolado | 24 | 1 | guarnicao | Acompanha arroz, feijão e salada
+Filé de frango à milanesa | 27 | 1 | guarnicao | Acompanha arroz, feijão e salada
+Contra filé à parmegiana | 35 | 1 | guarnicao | Acompanha arroz, feijão e salada
+Frango à parmegiana | 29 | 1 | guarnicao | Acompanha arroz, feijão e salada
+Bisteca | 25 | 1 | guarnicao | Acompanha arroz, feijão e salada
+Omelete | 25 | 1 | guarnicao | Acompanha arroz, feijão e salada
+452 - Peixe grelhado | 30 | 1 | guarnicao | Acompanha arroz, feijão e salada
+477 - Contra filé à parmegiana 2 | 29 | 1 | | Acompanha somente arroz e fritas
+478 - Filé de frango à parmegiana 2 | 25 | 1 | | Acompanha somente arroz e fritas
+360 - Salada completa | 24 | 1 | | Ovo cozido, alface, tomate, palmito, presunto, queijo, rúcula, tomate seco, cenoura, brócolis e milho
+322 - Fitness | 24 | 1 | | Arroz integral, ovo cozido, filé de frango, legumes e salada
+558 - Nhoque à bolonhesa | 24.9 | 1 | adic_nhoque |
+Bowl de espaguete | 25 | 1 | sabor_bowl |
+579 - Sobrecoxa desossada | 28 | 1 | | Arroz, salada primavera (repolho, vinagrete, cenoura e maionese) e batata frita
+644 - Panqueca de carne | 22 | 1 | |
+645 - Panqueca de frango com catupiry | 22 | 1 | |
+646 - Panqueca de presunto e queijo | 22 | 1 | |
+658 - Panqueca de dois queijos | 24 | 1 | |
+657 - Panqueca de carne com queijo | 24 | 1 | |
+656 - Panqueca de calabresa com queijo | 24 | 1 | |
+655 - Panqueca de calabresa com catupiry | 24 | 1 | |
+## lanches
+235 - Bauru | 18 | 1 | adic_lanche,retirar | Pão francês, presunto, queijo e tomate
+236 - Hambúrguer | 18 | 1 | pao,adic_lanche,retirar | Pão e hambúrguer
+237 - Misto quente | 18 | 1 | adic_lanche,retirar | Pão francês, presunto e queijo
+238 - X-Burguer | 19 | 1 | pao,adic_lanche,retirar | Hambúrguer e queijo
+239 - X-Salada | 19 | 1 | pao,adic_lanche,retirar | Hambúrguer, queijo, alface e tomate
+240 - X-Bacon | 20 | 1 | pao,adic_lanche,retirar | Hambúrguer, queijo, bacon, alface e tomate
+241 - X-Egg | 20 | 1 | pao,adic_lanche,retirar | Ovo, hambúrguer, queijo, alface e tomate
+242 - X-Americano | 21 | 1 | pao,adic_lanche,retirar | Hambúrguer, queijo, presunto e ovo
+243 - X-Calabresa | 21 | 1 | pao,adic_lanche,retirar | Hambúrguer, queijo, calabresa, alface e tomate
+244 - X-Tudo | 21 | 1 | pao,adic_lanche,retirar | Hambúrguer, presunto, queijo, ovo, bacon, alface e tomate
+270 - X-Frango | 23 | 1 | adic_lanche,retirar | Pão francês, filé de frango, vinagrete e queijo
+269 - X-Churrasco | 23 | 1 | adic_lanche,retirar | Pão francês, contra filé, vinagrete e queijo
+341 - X-Bacon duplo | 24 | 1 | pao,adic_lanche,retirar | 2 hambúrgueres, bacon, cheddar, cebola empanada e queijo
+343 - X-Cheddar | 23 | 1 | pao,adic_lanche,retirar | Hambúrguer, cebola empanada, bacon, salada e cheddar
+245 - X-Abbondanza | 26 | 1 | pao,adic_lanche,retirar | 2 hambúrgueres, calabresa, presunto, bacon, ovo, mussarela, cheddar, catupiry, alface e tomate
+342 - X-Calabresa vinagrete | 23 | 1 | adic_lanche,retirar | Pão francês, calabresa fresca, vinagrete e queijo
+344 - X-Turbinado | 30 | 1 | pao,adic_lanche,retirar | 2 hambúrgueres, cebola, queijo, salada, ovo, cheddar, bacon e presunto
+271 - X-Abbondanza especial | 30 | 1 | pao,adic_lanche,retirar | 3 hambúrgueres, calabresa, presunto, lombo, bacon, ovo, mussarela, cheddar, catupiry, molho vinagrete, alface e tomate
+463 - Steak Abbondanza | 24 | 1 | pao,adic_lanche,retirar | Steak de frango, anéis de cebola, salada, cheddar e molho especial
+516 - Calaburguer | 24 | 1 | pao,adic_lanche,retirar | Hambúrguer de calabresa fresca, anéis de cebola, molho especial, queijo, bacon, alface e tomate
+517 - X-Milanesa | 24 | 1 | pao,adic_lanche,retirar | Filé de frango à milanesa, anéis de cebola, queijo, bacon e molho especial
+689 - Xis Gaúcho | 39 | 1 | | Isca de contra filé, vinagrete, queijo e milho
+690 - Xis Tudão | 36 | 1 | | Hambúrguer, ovo, presunto, queijo, bacon e salada
+691 - Xis Cheddar | 33 | 1 | | Hambúrguer, queijo cheddar, milho e vinagrete
+692 - Xis Frango | 36 | 1 | | Isca de filé de frango, mussarela, alface e tomate
+693 - Xis Linguiça | 35 | 1 | | Calabresa fresca, mussarela e vinagrete
+694 - Xis Mignon | 46 | 1 | | Filé mignon, mussarela, catupiry, alface e tomate
+695 - Xis Costela | 42 | 1 | | Costela desfiada, cebola no barbecue, mussarela, alface e tomate
+696 - Xis Egg Burguer | 32 | 1 | | Hambúrguer, ovo, mussarela, alface e tomate
+697 - Xis Pernil | 40 | 1 | | Pernil suíno desfiado, vinagrete, mussarela e barbecue
+## lanches-artesanais
+589 - American Burger | 24 | 1 | pao_art,ponto,adic_art | Pão selado na manteiga, maionese caseira, hambúrguer artesanal 130g, queijo, ovo e presunto
+590 - Bacon Turbo | 27 | 1 | pao_art,ponto,adic_art | Pão selado na manteiga, maionese caseira, hambúrguer artesanal 130g, barbecue, bacon, cebola roxa, queijo, cheddar, alface e tomate
+591 - Hunger Burger | 28 | 1 | pao_art,ponto,adic_art | Pão selado na manteiga, maionese caseira, hambúrguer artesanal 130g, queijo, cebola roxa fatiada e picles de pepino artesanal
+551 - Cheese Burger | 20 | 1 | pao_art,ponto,adic_art | Pão selado na manteiga, maionese caseira, hambúrguer artesanal 130g e queijo
+552 - Cheese Salada | 21 | 1 | pao_art,ponto,adic_art | Pão selado na manteiga, maionese caseira, hambúrguer artesanal 130g, queijo, alface e tomate
+553 - Cheese Bacon | 22 | 1 | pao_art,ponto,adic_art | Pão selado na manteiga, maionese caseira, hambúrguer artesanal 130g, queijo e bacon
+555 - Cheese Egg | 21 | 1 | pao_art,ponto,adic_art | Pão selado na manteiga, maionese caseira, hambúrguer artesanal 130g, queijo e ovo
+554 - Cheese Bacon Onion | 23 | 1 | pao_art,ponto,adic_art | Pão selado na manteiga, maionese caseira, hambúrguer artesanal 130g, queijo, bacon e anéis de cebola empanada
+556 - Cheddar Onion Duplo | 26 | 1 | pao_art,ponto,adic_art | Pão selado na manteiga, maionese caseira, 2 hambúrgueres artesanais 130g, queijo cheddar e anéis de cebola empanada
+609 - Burguer Costela | 27 | 1 | pao_art,ponto,adic_art | Hambúrguer artesanal, cebola roxa, costela desfiada e queijo cheddar fatiado
+## esfihas-salgadas
+329 - Carne | 4.25 | 1 | compl_salg | O tempero da carne é à base de vinagrete
+361 - Carne com queijo | 4.5 | 1 | compl_salg |
+371 - Carne com catupiry | 4.5 | 1 | compl_salg |
+383 - Carne com cheddar | 4.5 | 1 | compl_salg |
+353 - Calabresa | 4.25 | 1 | compl_salg | Somente calabresa
+332 - Calabresa com queijo | 4.5 | 1 | compl_salg |
+346 - Calabresa com catupiry | 4.5 | 1 | compl_salg |
+415 - Calabresa com cheddar | 4.5 | 1 | compl_salg |
+526 - Calabresa II | 5 | 1 | compl_salg | Calabresa fatiada, mussarela e cebola
+392 - Escarola com queijo | 4.5 | 1 | compl_salg |
+394 - Escarola com catupiry | 4.5 | 1 | compl_salg |
+364 - Bacon com queijo | 4.5 | 1 | compl_salg |
+372 - Bacon com catupiry | 4.5 | 1 | compl_salg |
+440 - Bacon com cheddar | 4.5 | 1 | compl_salg |
+334 - Presunto | 4.25 | 1 | compl_salg | Somente presunto
+379 - Presunto com queijo | 4.5 | 1 | compl_salg |
+495 - Presunto com catupiry | 4.5 | 1 | compl_salg |
+331 - Frango | 4.25 | 1 | compl_salg | Somente frango
+376 - Frango com queijo | 4.5 | 1 | compl_salg |
+333 - Frango com catupiry | 4.5 | 1 | compl_salg |
+414 - Frango com cheddar | 4.5 | 1 | compl_salg |
+330 - Queijo | 4.5 | 1 | compl_salg |
+363 - 2 queijos | 5 | 1 | compl_salg | Mussarela e catupiry
+411 - 3 queijos | 5 | 1 | compl_salg | Mussarela, catupiry e parmesão
+418 - 4 queijos | 5.5 | 1 | compl_salg | Mussarela, catupiry, parmesão e provolone
+373 - Catupiry | 4.5 | 1 | compl_salg | Somente catupiry puro
+365 - Napolitana | 4.5 | 1 | compl_salg | Mussarela, parmesão e rodelas de tomate
+362 - Alho | 4.5 | 1 | compl_salg | Alho e mussarela
+391 - Pepperone com queijo | 4.5 | 1 | compl_salg |
+397 - Pepperone com catupiry | 4.5 | 1 | compl_salg |
+396 - Pepperone com cheddar | 4.5 | 1 | compl_salg |
+413 - Bauru | 4.5 | 1 | compl_salg | Presunto, mussarela e tomate
+448 - Palmito com catupiry | 4.5 | 1 | compl_salg |
+409 - Palmito com queijo | 4.5 | 1 | compl_salg |
+640 - Palmito com cheddar | 4.5 | 1 | compl_salg |
+428 - Portuguesa | 5 | 1 | compl_salg | Presunto, mussarela, ovo e ervilha
+400 - Rúcula | 5.5 | 1 | compl_salg | Rúcula, tomate seco e mussarela
+445 - Lombo com queijo | 5 | 1 | compl_salg |
+446 - Lombo com catupiry | 5 | 1 | compl_salg |
+401 - Peito de peru com queijo | 5.5 | 1 | compl_salg |
+457 - Peito de peru com catupiry | 5.5 | 1 | compl_salg |
+395 - Atum | 5.5 | 1 | compl_salg | Somente atum
+441 - Atum com queijo | 5.5 | 1 | compl_salg |
+442 - Atum com catupiry | 5.5 | 1 | compl_salg |
+430 - Brócolis com queijo | 5 | 1 | compl_salg |
+468 - Brócolis com catupiry | 5 | 1 | compl_salg |
+350 - Milho com queijo | 4.5 | 1 | compl_salg |
+377 - Milho com catupiry | 4.5 | 1 | compl_salg |
+528 - Hot dog com cheddar | 5 | 1 | compl_salg | Cheddar, salsicha e batata palha
+550 - Hot dog com queijo | 5 | 1 | compl_salg | Mussarela, salsicha e batata palha
+592 - Berinjela | 4.25 | 1 | compl_salg | Somente berinjela
+594 - Berinjela com queijo | 4.5 | 1 | compl_salg |
+593 - Berinjela com catupiry | 4.5 | 1 | compl_salg |
+## esfihas-doces
+492 - Chocouva | 5.25 | 1 | compl_doce | Chocolate ao leite com uva verde
+337 - Brigadeiro | 5.25 | 1 | compl_doce | Chocolate ao leite e granulado
+339 - Confete | 5.25 | 1 | compl_doce | Chocolate ao leite e confete
+340 - Crocante | 5.25 | 1 | compl_doce | Chocolate ao leite e bolinhas de cereal cobertas com chocolate
+335 - Prestígio | 5.25 | 1 | compl_doce | Chocolate ao leite, coco ralado e leite condensado
+352 - Romeu e Julieta | 5.25 | 1 | compl_doce | Mussarela e goiabada
+520 - Romeu e Julieta II | 5.25 | 1 | compl_doce | Catupiry e goiabada
+435 - Mesclada | 5.25 | 1 | compl_doce | Chocolate ao leite e chocolate branco
+416 - Banana | 5.25 | 1 | compl_doce | Banana, canela e leite condensado
+467 - Banana II | 5.25 | 1 | compl_doce | Banana, canela, leite condensado e mussarela
+417 - Chocobana | 5.25 | 1 | compl_doce | Banana e chocolate ao leite
+374 - Chocolate | 5.25 | 1 | compl_doce | Apenas chocolate ao leite
+479 - Chocolate branco | 5.25 | 1 | compl_doce | Apenas chocolate branco
+503 - Kit Kat | 5.25 | 1 | compl_doce | Chocolate ao leite e Kit Kat
+519 - Bis | 5.25 | 1 | compl_doce | Chocolate ao leite, chocolate branco e Bis
+494 - Três desejos | 5.25 | 1 | compl_doce | Chocolate ao leite, chocolate branco e doce de leite
+502 - Paçoca | 5.25 | 1 | compl_doce | Chocolate ao leite e paçoca
+338 - Amendoim | 5.25 | 1 | compl_doce | Chocolate ao leite e amendoim granulado
+518 - Brigadeiro colorido | 5.25 | 1 | compl_doce | Chocolate branco e granulado colorido
+584 - Tortuguita ao leite | 5.5 | 1 | compl_doce | Chocolate ao leite e Tortuguita branca
+585 - Tortuguita chocolate branco | 5.5 | 1 | compl_doce | Chocolate branco com Tortuguita de chocolate ao leite
+600 - Chokito | 5.25 | 1 | compl_doce | Chocolate ao leite, doce de leite e bolinhas de arroz
+549 - Uvagresco | 5.25 | 1 | compl_doce | Chocolate branco, farofa de Negresco, uva verde e leite condensado
+493 - Morangresco | 5.25 | 1 | compl_doce | Chocolate branco, farofa de Negresco, morango e leite condensado
+522 - Sensação branco | 5.25 | 1 | compl_doce | Chocolate branco e morango
+336 - Sensação | 5.25 | 1 | compl_doce | Chocolate ao leite, morango e granulado de chocolate
+608 - Sensação duo | 5.25 | 1 | compl_doce | Chocolate ao leite, chocolate branco e morango
+685 - Uva com Ninho | 6 | 1 | | Chocolate branco, uva e leite Ninho
+## porcoes
+669 - Isca de tilápia 500g | 60 | 1 | adic_porcao | Acompanha maionese e limão
+253 - Batata frita 400g | 22 | 1 | adic_porcao | Acompanha maionese temperada e ketchup
+254 - Frango a passarinho 500g | 39 | 1 | adic_porcao | Acompanha maionese temperada e limão
+261 - Mandioca 500g | 25 | 1 | adic_porcao | Acompanha maionese temperada e ketchup
+256 - Calabresa acebolada 500g | 32 | 1 | adic_porcao | Acompanha maionese temperada e pão
+351 - Anéis de cebola 500g | 27 | 1 | adic_porcao | Acompanha maionese temperada e ketchup
+421 - Isca de frango 500g | 39 | 1 | adic_porcao | Acompanha maionese temperada e ketchup
+Meia batata frita 230g | 16 | 1 | adic_porcao | Acompanha maionese temperada e ketchup
+Meia isca de frango 300g | 25 | 1 | | Acompanha maionese temperada e ketchup
+Meia frango a passarinho 300g | 25 | 1 | adic_porcao | Acompanha maionese temperada e limão
+Meia mandioca 300g | 18 | 1 | adic_porcao | Acompanha maionese temperada e ketchup
+Meia anéis de cebola 300g | 20 | 1 | adic_porcao | Acompanha maionese temperada e ketchup
+Meia calabresa acebolada 300g | 21 | 1 | adic_porcao | Acompanha maionese temperada e pão
+Mini batata frita 150g | 11 | 1 | | Não acompanha molho
+Mini mandioca 200g | 12 | 1 | | Não acompanha molho
+Mini anéis de cebola 200g | 13 | 1 | | Não acompanha molho
+## beirutes
+246 - Beirute Calabresa | 26 | 1 | adic_beirute | Calabresa, cebola, catupiry, alface e tomate
+247 - Beirute Cheddar | 26 | 1 | adic_beirute | Queijo cheddar, milho, bacon, alface e tomate
+248 - Beirute Frango | 26 | 1 | adic_beirute | Frango desfiado, catupiry, milho, alface e tomate
+426 - Beirute de Hambúrguer | 26 | 1 | adic_beirute | 3 hambúrgueres, queijo, ovo, alface e tomate
+249 - Beirute Lombo | 26 | 1 | adic_beirute | Lombo, cebola, milho, catupiry, alface e tomate
+250 - Beirute Tradicional | 26 | 1 | adic_beirute | Mussarela, presunto, alface e tomate
+251 - Beirute Filé de frango | 30 | 1 | adic_beirute | Filé de frango, queijo, ovo, alface e tomate
+252 - Beirute Contra filé | 31 | 1 | adic_beirute | Contra filé, queijo, ovo, alface e tomate
+664 - Beirute de peito de peru | 30 | 1 | adic_beirute | Peito de peru, palmito, catupiry, mussarela, alface e tomate
+665 - Beirute de churrasco | 28 | 1 | adic_beirute | Calabresa fresca, vinagrete, queijo, alface e tomate
+666 - Beirute de parmegiana de frango | 34 | 1 | adic_beirute | Filé de frango à parmegiana, alface e tomate
+667 - Beirute artesanal | 32 | 1 | adic_beirute | 2 hambúrgueres artesanais, ovo, mussarela, presunto, alface e tomate
+670 - Beirute de rosbife | 36 | 1 | adic_beirute | Rosbife, cheddar, ovo, alface e tomate
+671 - Beirute de filé mignon | 39 | 1 | adic_beirute | Filé mignon, catupiry, orégano, alface e tomate
+## combos
+Super combo de esfihas | 60 | 1 | | 5 de queijo, 5 de calabresa, 5 de carne e Guaraná 1L
+388 - Combo 1 | 76.9 | 1 | pao_combo | 3 X-Salada, anéis de cebola, fritas e Coca-Cola 2L
+407 - Combo 2 | 68 | 1 | pao_combo | 3 X-Bacon, anéis de cebola e fritas
+425 - Combo 3 | 77 | 1 | pao_combo | 4 X-Salada, fritas e Coca-Cola 2L
+450 - Combo Casal | 52 | 1 | esfihas_doces_2,pao_combo | 1 X-Salada, 1 X-Tudo, 2 refrigerantes 200ml e 2 esfihas doces
+472 - Combo Kids | 29 | 1 | | 1 X-Salada, nuggets, batata smile e refri 237ml
+Combo Individual | 28 | 1 | | 1 X-Cheddar, 1 esfiha de confete e 1 refrigerante 200ml
+Combo Esfiha nº 1 | 57.5 | 1 | | 5 de frango com catupiry, 5 de carne e 5 de queijo
+Combo Esfiha nº 2 | 88 | 1 | | 10 de carne, 10 de queijo e 1 refrigerante de 1 litro
+Combo Esfiha nº 3 | 71 | 1 | | 4 de calabresa, 4 de carne, 4 de queijo, 4 de bauru e 1 refrigerante de 1 litro
+Combo Esfiha nº 4 | 58 | 1 | | 3 de calabresa com queijo, 3 de atum com queijo, 3 de frango com queijo, 3 de carne com queijo e 1 Guaraná 1L
+Combo Esfiha nº 5 | 42 | 1 | esfihas_doces_2 | 2 de carne, 2 de queijo, 2 de frango com catupiry, 2 de calabresa e 2 doces
+Combo Esfiha nº 6 | 115 | 1 | | 6 de bacon, 6 de carne, 6 de frango com catupiry, 6 de queijo, 6 de calabresa com queijo e 1 Guaraná 2L
+Combo Tudão | 134 | 1 | | 2 X-Salada, 2 X-Tudo, 2 X-Bacon e anéis de cebola
+## combos-artesanais
+595 - Combo Clássico | 73 | 1 | | 3 Cheese Salada, fritas e Guaraná 1L
+596 - Combo Infantil | 24 | 1 | | 1 Cheese Burger, batata smile e refri 200ml
+598 - Combo Family | 103 | 1 | | 2 Cheese Bacon, 2 Cheese Salada, anéis de cebola, fritas e Guaraná 2L
+597 - Combo Casalzão | 63 | 1 | esfihas_doces_2 | 1 Cheese Bacon Onion, 1 American Burger, fritas, 1 Guaraná 600ml e 2 esfihas doces
+599 - Combo Turbo | 80 | 1 | | 3 Bacon Turbo e fritas com cheddar e bacon por cima
+## sobremesas
+272 - Mini pudim 80g | 9.99 | 0 | |
+279 - Torta de abacaxi 80g | 9.99 | 1 | |
+278 - Torta mousse de brigadeiro 80g | 9.99 | 0 | |
+273 - Torta holandesa 80g | 9.99 | 1 | |
+639 - Mini pavê crocante | 9.99 | 0 | |
+277 - Mousse de chocolate 80g | 9.99 | 0 | |
+654 - Pavê de bombom | 9.99 | 0 | |
+327 - Torta de frutas vermelhas | 9.99 | 0 | |
+612 - Torta de pistache | 9.99 | 0 | |
+280 - Torta de maracujá com chocolate | 9.99 | 1 | |
+## vinhos
+Vinho Dom Bosco suave 700ml | 24 | 1 | |
+Vinho San Tomé suave 1L | 27 | 1 | |
+Vinho Chalise suave 700ml | 22 | 0 | |
+Vinho Country Wine suave 700ml | 20 | 0 | |
+Vinho Sangue de Boi seco | 20 | 0 | |
+Vinho Quinta do Morgado | 24 | 0 | |

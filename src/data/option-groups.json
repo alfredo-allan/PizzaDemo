@@ -1,0 +1,1210 @@
+[
+  {
+    "id": "pao",
+    "name": "Pão",
+    "min": 1,
+    "max": 1,
+    "options": [
+      {
+        "id": "pao-com-gergelim",
+        "name": "Com gergelim",
+        "price": 0
+      },
+      {
+        "id": "pao-brioche",
+        "name": "Brioche",
+        "price": 1.5
+      }
+    ]
+  },
+  {
+    "id": "pao_art",
+    "name": "Pão",
+    "min": 1,
+    "max": 1,
+    "options": [
+      {
+        "id": "pao_art-brioche",
+        "name": "Brioche",
+        "price": 0
+      },
+      {
+        "id": "pao_art-com-gergelim",
+        "name": "Com gergelim",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": "pao_combo",
+    "name": "Trocar o pão",
+    "min": 0,
+    "max": 1,
+    "options": [
+      {
+        "id": "pao_combo-todos-no-pao-brioche",
+        "name": "Todos no pão brioche",
+        "price": 4.5
+      }
+    ]
+  },
+  {
+    "id": "ponto",
+    "name": "Ponto da carne",
+    "min": 1,
+    "max": 1,
+    "options": [
+      {
+        "id": "ponto-mal-passada",
+        "name": "Mal passada",
+        "price": 0
+      },
+      {
+        "id": "ponto-ao-ponto",
+        "name": "Ao ponto",
+        "price": 0
+      },
+      {
+        "id": "ponto-bem-passada",
+        "name": "Bem passada",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": "adic_lanche",
+    "name": "Adicionais",
+    "min": 0,
+    "max": 10,
+    "options": [
+      {
+        "id": "adic_lanche-hamburguer-extra",
+        "name": "Hambúrguer extra",
+        "price": 4
+      },
+      {
+        "id": "adic_lanche-bacon",
+        "name": "Bacon",
+        "price": 2.5
+      },
+      {
+        "id": "adic_lanche-ovo",
+        "name": "Ovo",
+        "price": 2
+      },
+      {
+        "id": "adic_lanche-cheddar",
+        "name": "Cheddar",
+        "price": 5
+      },
+      {
+        "id": "adic_lanche-catupiry",
+        "name": "Catupiry",
+        "price": 8
+      },
+      {
+        "id": "adic_lanche-mussarela-extra",
+        "name": "Mussarela extra",
+        "price": 5
+      },
+      {
+        "id": "adic_lanche-presunto",
+        "name": "Presunto",
+        "price": 3
+      },
+      {
+        "id": "adic_lanche-pepperoni",
+        "name": "Pepperoni",
+        "price": 3
+      },
+      {
+        "id": "adic_lanche-milho",
+        "name": "Milho",
+        "price": 2
+      },
+      {
+        "id": "adic_lanche-file-de-frango",
+        "name": "Filé de frango",
+        "price": 7
+      },
+      {
+        "id": "adic_lanche-carne-seca",
+        "name": "Carne seca",
+        "price": 7
+      },
+      {
+        "id": "adic_lanche-aneis-de-cebola-no-lanche",
+        "name": "Anéis de cebola no lanche",
+        "price": 3
+      },
+      {
+        "id": "adic_lanche-maionese-no-copinho",
+        "name": "Maionese no copinho",
+        "price": 3
+      },
+      {
+        "id": "adic_lanche-cheddar-no-copinho",
+        "name": "Cheddar no copinho",
+        "price": 2.5
+      }
+    ]
+  },
+  {
+    "id": "adic_art",
+    "name": "Adicionais",
+    "min": 0,
+    "max": 5,
+    "options": [
+      {
+        "id": "adic_art-hamburguer-extra",
+        "name": "Hambúrguer extra",
+        "price": 7
+      },
+      {
+        "id": "adic_art-bacon",
+        "name": "Bacon",
+        "price": 3
+      },
+      {
+        "id": "adic_art-cheddar",
+        "name": "Cheddar",
+        "price": 5
+      },
+      {
+        "id": "adic_art-catupiry",
+        "name": "Catupiry",
+        "price": 8
+      },
+      {
+        "id": "adic_art-vinagrete",
+        "name": "Vinagrete",
+        "price": 2
+      },
+      {
+        "id": "adic_art-salada",
+        "name": "Salada",
+        "price": 2
+      },
+      {
+        "id": "adic_art-aneis-de-cebola-no-lanche",
+        "name": "Anéis de cebola no lanche",
+        "price": 3
+      },
+      {
+        "id": "adic_art-ovo",
+        "name": "Ovo",
+        "price": 2
+      },
+      {
+        "id": "adic_art-maionese-da-casa-75g",
+        "name": "Maionese da casa 75g",
+        "price": 3
+      },
+      {
+        "id": "adic_art-trocar-fritas-por-aneis-de-cebola",
+        "name": "Trocar fritas por anéis de cebola",
+        "price": 3
+      }
+    ]
+  },
+  {
+    "id": "retirar",
+    "name": "Retirar ingredientes",
+    "min": 0,
+    "max": 6,
+    "options": [
+      {
+        "id": "retirar-sem-salada",
+        "name": "Sem salada",
+        "price": 0
+      },
+      {
+        "id": "retirar-sem-tomate",
+        "name": "Sem tomate",
+        "price": 0
+      },
+      {
+        "id": "retirar-sem-alface",
+        "name": "Sem alface",
+        "price": 0
+      },
+      {
+        "id": "retirar-sem-maionese",
+        "name": "Sem maionese",
+        "price": 0
+      },
+      {
+        "id": "retirar-sem-ovo",
+        "name": "Sem ovo",
+        "price": 0
+      },
+      {
+        "id": "retirar-sem-queijo",
+        "name": "Sem queijo",
+        "price": 0
+      },
+      {
+        "id": "retirar-sem-vinagrete",
+        "name": "Sem vinagrete",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": "guarnicao",
+    "name": "Guarnição",
+    "min": 1,
+    "max": 1,
+    "options": [
+      {
+        "id": "guarnicao-batata-frita",
+        "name": "Batata frita",
+        "price": 0
+      },
+      {
+        "id": "guarnicao-polenta-frita",
+        "name": "Polenta frita",
+        "price": 0
+      },
+      {
+        "id": "guarnicao-mandioca",
+        "name": "Mandioca",
+        "price": 0
+      },
+      {
+        "id": "guarnicao-pure-de-batata",
+        "name": "Purê de batata",
+        "price": 0
+      },
+      {
+        "id": "guarnicao-legumes",
+        "name": "Legumes",
+        "price": 0
+      },
+      {
+        "id": "guarnicao-dois-ovos",
+        "name": "Dois ovos",
+        "price": 0
+      },
+      {
+        "id": "guarnicao-aneis-de-cebola",
+        "name": "Anéis de cebola",
+        "price": 0
+      },
+      {
+        "id": "guarnicao-salada-extra",
+        "name": "Salada extra",
+        "price": 0
+      },
+      {
+        "id": "guarnicao-fritas-e-1-ovo",
+        "name": "Fritas e 1 ovo",
+        "price": 2
+      },
+      {
+        "id": "guarnicao-fritas-e-2-ovos-fritos",
+        "name": "Fritas e 2 ovos fritos",
+        "price": 4
+      },
+      {
+        "id": "guarnicao-sem-salada-com-mais-fritas",
+        "name": "Sem salada, com mais fritas",
+        "price": 2
+      },
+      {
+        "id": "guarnicao-sem-salada-com-macarrao",
+        "name": "Sem salada, com macarrão",
+        "price": 2
+      }
+    ]
+  },
+  {
+    "id": "adic_porcao",
+    "name": "Adicionais",
+    "min": 0,
+    "max": 3,
+    "options": [
+      {
+        "id": "adic_porcao-maionese-extra",
+        "name": "Maionese extra",
+        "price": 2
+      },
+      {
+        "id": "adic_porcao-cheddar",
+        "name": "Cheddar",
+        "price": 2
+      },
+      {
+        "id": "adic_porcao-cheddar-e-bacon-fatiado-por-cima",
+        "name": "Cheddar e bacon fatiado por cima",
+        "price": 7
+      },
+      {
+        "id": "adic_porcao-cheddar-e-farofa-de-bacon-por-cima",
+        "name": "Cheddar e farofa de bacon por cima",
+        "price": 7
+      }
+    ]
+  },
+  {
+    "id": "adic_beirute",
+    "name": "Adicionais",
+    "min": 0,
+    "max": 11,
+    "options": [
+      {
+        "id": "adic_beirute-maionese-no-copinho",
+        "name": "Maionese no copinho",
+        "price": 3
+      },
+      {
+        "id": "adic_beirute-mussarela-extra",
+        "name": "Mussarela extra",
+        "price": 8
+      },
+      {
+        "id": "adic_beirute-cheddar-extra",
+        "name": "Cheddar extra",
+        "price": 5
+      },
+      {
+        "id": "adic_beirute-catupiry-extra",
+        "name": "Catupiry extra",
+        "price": 8
+      },
+      {
+        "id": "adic_beirute-milho",
+        "name": "Milho",
+        "price": 2
+      },
+      {
+        "id": "adic_beirute-presunto",
+        "name": "Presunto",
+        "price": 4
+      },
+      {
+        "id": "adic_beirute-calabresa",
+        "name": "Calabresa",
+        "price": 5
+      },
+      {
+        "id": "adic_beirute-bacon",
+        "name": "Bacon",
+        "price": 5
+      },
+      {
+        "id": "adic_beirute-pepperoni",
+        "name": "Pepperoni",
+        "price": 4
+      },
+      {
+        "id": "adic_beirute-lombo",
+        "name": "Lombo",
+        "price": 4
+      },
+      {
+        "id": "adic_beirute-ovo",
+        "name": "Ovo",
+        "price": 2
+      },
+      {
+        "id": "adic_beirute-sem-cebola",
+        "name": "Sem cebola",
+        "price": 0
+      },
+      {
+        "id": "adic_beirute-sem-alface",
+        "name": "Sem alface",
+        "price": 0
+      },
+      {
+        "id": "adic_beirute-sem-tomate",
+        "name": "Sem tomate",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": "compl_salg",
+    "name": "Complementos",
+    "min": 0,
+    "max": 5,
+    "options": [
+      {
+        "id": "compl_salg-bacon",
+        "name": "Bacon",
+        "price": 0.5
+      },
+      {
+        "id": "compl_salg-calabresa",
+        "name": "Calabresa",
+        "price": 0.75
+      },
+      {
+        "id": "compl_salg-lombo",
+        "name": "Lombo",
+        "price": 2
+      },
+      {
+        "id": "compl_salg-presunto",
+        "name": "Presunto",
+        "price": 2
+      },
+      {
+        "id": "compl_salg-pepperoni",
+        "name": "Pepperoni",
+        "price": 2
+      },
+      {
+        "id": "compl_salg-alho",
+        "name": "Alho",
+        "price": 0.5
+      },
+      {
+        "id": "compl_salg-cebola",
+        "name": "Cebola",
+        "price": 0.5
+      },
+      {
+        "id": "compl_salg-milho",
+        "name": "Milho",
+        "price": 0.5
+      },
+      {
+        "id": "compl_salg-palmito",
+        "name": "Palmito",
+        "price": 0.5
+      },
+      {
+        "id": "compl_salg-tomate",
+        "name": "Tomate",
+        "price": 0.5
+      }
+    ]
+  },
+  {
+    "id": "compl_doce",
+    "name": "Complementos",
+    "min": 0,
+    "max": 5,
+    "options": [
+      {
+        "id": "compl_doce-chocolate-ao-leite-extra",
+        "name": "Chocolate ao leite extra",
+        "price": 2
+      },
+      {
+        "id": "compl_doce-chocolate-branco-extra",
+        "name": "Chocolate branco extra",
+        "price": 2
+      },
+      {
+        "id": "compl_doce-uva",
+        "name": "Uva",
+        "price": 0.25
+      },
+      {
+        "id": "compl_doce-banana",
+        "name": "Banana",
+        "price": 0.5
+      },
+      {
+        "id": "compl_doce-leite-condensado",
+        "name": "Leite condensado",
+        "price": 1
+      },
+      {
+        "id": "compl_doce-doce-de-leite",
+        "name": "Doce de leite",
+        "price": 1
+      },
+      {
+        "id": "compl_doce-coco",
+        "name": "Coco",
+        "price": 1
+      },
+      {
+        "id": "compl_doce-confete",
+        "name": "Confete",
+        "price": 2
+      },
+      {
+        "id": "compl_doce-granulado",
+        "name": "Granulado",
+        "price": 0.25
+      }
+    ]
+  },
+  {
+    "id": "esfihas_doces_2",
+    "name": "Escolha as 2 esfihas doces",
+    "min": 2,
+    "max": 2,
+    "options": [
+      {
+        "id": "esfihas_doces_2-chocouva",
+        "name": "Chocouva",
+        "price": 0
+      },
+      {
+        "id": "esfihas_doces_2-brigadeiro",
+        "name": "Brigadeiro",
+        "price": 0
+      },
+      {
+        "id": "esfihas_doces_2-confete",
+        "name": "Confete",
+        "price": 0
+      },
+      {
+        "id": "esfihas_doces_2-crocante",
+        "name": "Crocante",
+        "price": 0
+      },
+      {
+        "id": "esfihas_doces_2-prestigio",
+        "name": "Prestígio",
+        "price": 0
+      },
+      {
+        "id": "esfihas_doces_2-romeu-e-julieta",
+        "name": "Romeu e Julieta",
+        "price": 0
+      },
+      {
+        "id": "esfihas_doces_2-mesclada",
+        "name": "Mesclada",
+        "price": 0
+      },
+      {
+        "id": "esfihas_doces_2-banana",
+        "name": "Banana",
+        "price": 0
+      },
+      {
+        "id": "esfihas_doces_2-chocobana",
+        "name": "Chocobana",
+        "price": 0
+      },
+      {
+        "id": "esfihas_doces_2-chocolate",
+        "name": "Chocolate",
+        "price": 0
+      },
+      {
+        "id": "esfihas_doces_2-kit-kat",
+        "name": "Kit Kat",
+        "price": 0
+      },
+      {
+        "id": "esfihas_doces_2-bis",
+        "name": "Bis",
+        "price": 0
+      },
+      {
+        "id": "esfihas_doces_2-tres-desejos",
+        "name": "Três desejos",
+        "price": 0
+      },
+      {
+        "id": "esfihas_doces_2-pacoca",
+        "name": "Paçoca",
+        "price": 0
+      },
+      {
+        "id": "esfihas_doces_2-amendoim",
+        "name": "Amendoim",
+        "price": 0
+      },
+      {
+        "id": "esfihas_doces_2-brigadeiro-colorido",
+        "name": "Brigadeiro colorido",
+        "price": 0
+      },
+      {
+        "id": "esfihas_doces_2-chokito",
+        "name": "Chokito",
+        "price": 0
+      },
+      {
+        "id": "esfihas_doces_2-uvagresco",
+        "name": "Uvagresco",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": "adic_nhoque",
+    "name": "Adicionais",
+    "min": 0,
+    "max": 1,
+    "options": [
+      {
+        "id": "adic_nhoque-com-mussarela",
+        "name": "Com mussarela",
+        "price": 3
+      },
+      {
+        "id": "adic_nhoque-com-parmesao",
+        "name": "Com parmesão",
+        "price": 1
+      }
+    ]
+  },
+  {
+    "id": "sabor_bowl",
+    "name": "Acompanhamento",
+    "min": 1,
+    "max": 1,
+    "options": [
+      {
+        "id": "sabor_bowl-almondega",
+        "name": "Almôndega",
+        "price": 0
+      },
+      {
+        "id": "sabor_bowl-isca-de-frango",
+        "name": "Isca de frango",
+        "price": 0
+      },
+      {
+        "id": "sabor_bowl-frango-a-passarinho",
+        "name": "Frango a passarinho",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": "promo37",
+    "name": "Sabores (até 2)",
+    "min": 1,
+    "max": 2,
+    "options": [
+      {
+        "id": "promo37-mussarela",
+        "name": "Mussarela",
+        "price": 0
+      },
+      {
+        "id": "promo37-calabresa",
+        "name": "Calabresa",
+        "price": 0
+      },
+      {
+        "id": "promo37-escarola",
+        "name": "Escarola",
+        "price": 0
+      },
+      {
+        "id": "promo37-bauru",
+        "name": "Bauru",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": "esfiha_terca",
+    "name": "Sabor",
+    "min": 1,
+    "max": 1,
+    "options": [
+      {
+        "id": "esfiha_terca-carne",
+        "name": "Carne",
+        "price": 0
+      },
+      {
+        "id": "esfiha_terca-calabresa",
+        "name": "Calabresa",
+        "price": 0
+      },
+      {
+        "id": "esfiha_terca-queijo",
+        "name": "Queijo",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": "esfiha_quinta",
+    "name": "Sabor",
+    "min": 1,
+    "max": 1,
+    "options": [
+      {
+        "id": "esfiha_quinta-carne",
+        "name": "Carne",
+        "price": 0
+      },
+      {
+        "id": "esfiha_quinta-escarola",
+        "name": "Escarola",
+        "price": 0
+      },
+      {
+        "id": "esfiha_quinta-calabresa",
+        "name": "Calabresa",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": "quinta_salgada",
+    "name": "Pizza grande salgada",
+    "min": 1,
+    "max": 1,
+    "options": [
+      {
+        "id": "quinta_salgada-alho",
+        "name": "Alho",
+        "price": 0
+      },
+      {
+        "id": "quinta_salgada-bauru",
+        "name": "Bauru",
+        "price": 0
+      },
+      {
+        "id": "quinta_salgada-portuguesa",
+        "name": "Portuguesa",
+        "price": 0
+      },
+      {
+        "id": "quinta_salgada-calabresa",
+        "name": "Calabresa",
+        "price": 0
+      },
+      {
+        "id": "quinta_salgada-napolitana",
+        "name": "Napolitana",
+        "price": 0
+      },
+      {
+        "id": "quinta_salgada-milho",
+        "name": "Milho",
+        "price": 0
+      },
+      {
+        "id": "quinta_salgada-toscana",
+        "name": "Toscana",
+        "price": 0
+      },
+      {
+        "id": "quinta_salgada-dois-queijos",
+        "name": "Dois queijos",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": "quinta_doce",
+    "name": "Broto doce",
+    "min": 1,
+    "max": 1,
+    "options": [
+      {
+        "id": "quinta_doce-amendoim",
+        "name": "Amendoim",
+        "price": 0
+      },
+      {
+        "id": "quinta_doce-banana",
+        "name": "Banana",
+        "price": 0
+      },
+      {
+        "id": "quinta_doce-brigadeiro",
+        "name": "Brigadeiro",
+        "price": 0
+      },
+      {
+        "id": "quinta_doce-chocobana",
+        "name": "Chocobana",
+        "price": 0
+      },
+      {
+        "id": "quinta_doce-crocante",
+        "name": "Crocante",
+        "price": 0
+      },
+      {
+        "id": "quinta_doce-confete",
+        "name": "Confete",
+        "price": 0
+      },
+      {
+        "id": "quinta_doce-prestigio",
+        "name": "Prestígio",
+        "price": 0
+      },
+      {
+        "id": "quinta_doce-romeu-e-julieta",
+        "name": "Romeu e Julieta",
+        "price": 0
+      },
+      {
+        "id": "quinta_doce-sensacao",
+        "name": "Sensação",
+        "price": 0
+      },
+      {
+        "id": "quinta_doce-mesclada",
+        "name": "Mesclada",
+        "price": 0
+      },
+      {
+        "id": "quinta_doce-chocouva",
+        "name": "Chocouva",
+        "price": 0
+      },
+      {
+        "id": "quinta_doce-tres-desejos",
+        "name": "Três desejos",
+        "price": 0
+      },
+      {
+        "id": "quinta_doce-pacoca",
+        "name": "Paçoca",
+        "price": 0
+      },
+      {
+        "id": "quinta_doce-kit-kat",
+        "name": "Kit Kat",
+        "price": 0
+      },
+      {
+        "id": "quinta_doce-bis",
+        "name": "Bis",
+        "price": 0
+      },
+      {
+        "id": "quinta_doce-chocolate-branco",
+        "name": "Chocolate branco",
+        "price": 0
+      },
+      {
+        "id": "quinta_doce-chokito",
+        "name": "Chokito",
+        "price": 0
+      },
+      {
+        "id": "quinta_doce-caribe",
+        "name": "Caribe",
+        "price": 0
+      },
+      {
+        "id": "quinta_doce-pistache",
+        "name": "Pistache",
+        "price": 0
+      },
+      {
+        "id": "quinta_doce-ouro-branco",
+        "name": "Ouro Branco",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": "quarta_sabor",
+    "name": "Sabores tradicionais (até 2)",
+    "min": 1,
+    "max": 2,
+    "options": [
+      {
+        "id": "quarta_sabor-alho-frito",
+        "name": "Alho frito",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-baiana",
+        "name": "Baiana",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-bauru",
+        "name": "Bauru",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-calabresa",
+        "name": "Calabresa",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-escarola",
+        "name": "Escarola",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-marguerita",
+        "name": "Marguerita",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-mussarela",
+        "name": "Mussarela",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-milho-verde",
+        "name": "Milho verde",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-napolitana",
+        "name": "Napolitana",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-toscana",
+        "name": "Toscana",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-bacon",
+        "name": "Bacon",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-brocolis",
+        "name": "Brócolis",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-calabresa-ii",
+        "name": "Calabresa II",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-escarola-ii",
+        "name": "Escarola II",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-rucula",
+        "name": "Rúcula",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-a-moda",
+        "name": "À moda",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-bacon-ii",
+        "name": "Bacon II",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-berinjela",
+        "name": "Berinjela",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-brocolis-ii",
+        "name": "Brócolis II",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-calabresa-iii",
+        "name": "Calabresa III",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-cheddar",
+        "name": "Cheddar",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-dois-queijos",
+        "name": "Dois queijos",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-lombo",
+        "name": "Lombo",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-milho-verde-ii",
+        "name": "Milho verde II",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-namorados",
+        "name": "Namorados",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-palmito",
+        "name": "Palmito",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-portuguesa",
+        "name": "Portuguesa",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-pomodoro",
+        "name": "Pomodoro",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-tres-queijos",
+        "name": "Três queijos",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-tomate-seco",
+        "name": "Tomate seco",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-atum",
+        "name": "Atum",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-strogonoff",
+        "name": "Strogonoff",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-catupiry",
+        "name": "Catupiry",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-caipira",
+        "name": "Caipira",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-champignon",
+        "name": "Champignon",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-frango",
+        "name": "Frango",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-gorgonzola",
+        "name": "Gorgonzola",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-jardineira",
+        "name": "Jardineira",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-lombo-ii",
+        "name": "Lombo II",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-pepperoni",
+        "name": "Pepperoni",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-palmito-ii",
+        "name": "Palmito II",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-palha",
+        "name": "Palha",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-provolone",
+        "name": "Provolone",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-peruana",
+        "name": "Peruana",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-quatro-queijos",
+        "name": "Quatro queijos",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-siciliana",
+        "name": "Siciliana",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-vegetariana",
+        "name": "Vegetariana",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-atum-ii",
+        "name": "Atum II",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-baiacatu",
+        "name": "Baiacatu",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-brocolis-especial",
+        "name": "Brócolis especial",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-calabresa-especial",
+        "name": "Calabresa especial",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-catupiry-ii",
+        "name": "Catupiry II",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-carijo",
+        "name": "Carijó",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-cinco-queijos",
+        "name": "Cinco queijos",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-diplomata",
+        "name": "Diplomata",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-feitico",
+        "name": "Feitiço",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-francesa",
+        "name": "Francesa",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-frango-ii",
+        "name": "Frango II",
+        "price": 0
+      },
+      {
+        "id": "quarta_sabor-frango-especial",
+        "name": "Frango especial",
+        "price": 0
+      }
+    ]
+  }
+]

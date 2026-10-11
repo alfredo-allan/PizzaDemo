@@ -1,0 +1,219 @@
+[
+  {
+    "id": "u-admin",
+    "name": "Gerência Abbondanza",
+    "email": "admin@demo.com",
+    "phone": "11966123043",
+    "password": "demo1234",
+    "role": "ADMIN",
+    "twoFactor": false,
+    "sinceMinutes": 576000,
+    "addresses": []
+  },
+  {
+    "id": "u-cliente",
+    "name": "Cliente Demo",
+    "email": "cliente@demo.com",
+    "phone": "11987650001",
+    "password": "demo1234",
+    "role": "CLIENTE",
+    "twoFactor": false,
+    "sinceMinutes": 89280,
+    "addresses": [
+      {
+        "id": "a1",
+        "label": "Casa",
+        "cep": "04255000",
+        "street": "Rua São João Clímaco",
+        "number": "480",
+        "complement": "Apto 32",
+        "district": "São João Clímaco",
+        "city": "São Paulo",
+        "state": "SP"
+      },
+      {
+        "id": "a2",
+        "label": "Trabalho",
+        "cep": "04206000",
+        "street": "Rua Bom Pastor",
+        "number": "1200",
+        "complement": "Sala 5",
+        "district": "Ipiranga",
+        "city": "São Paulo",
+        "state": "SP"
+      }
+    ]
+  },
+  {
+    "id": "u-3",
+    "name": "Marina Tavares",
+    "email": "marina.tavares@exemplo.com",
+    "phone": "11991230045",
+    "password": "demo1234",
+    "role": "CLIENTE",
+    "twoFactor": true,
+    "sinceMinutes": 302400,
+    "addresses": [
+      {
+        "id": "a1",
+        "label": "Casa",
+        "cep": "04243000",
+        "street": "Rua Padre Arlindo Vieira",
+        "number": "215",
+        "complement": "",
+        "district": "Vila Vermelha",
+        "city": "São Paulo",
+        "state": "SP"
+      }
+    ]
+  },
+  {
+    "id": "u-4",
+    "name": "Rogério Nakamura",
+    "email": "rogerio.n@exemplo.com",
+    "phone": "11974410882",
+    "password": "demo1234",
+    "role": "CLIENTE",
+    "twoFactor": false,
+    "sinceMinutes": 188640,
+    "addresses": [
+      {
+        "id": "a1",
+        "label": "Casa",
+        "cep": "04180000",
+        "street": "Estrada das Lágrimas",
+        "number": "2310",
+        "complement": "Casa 2",
+        "district": "Jardim Maria Estela",
+        "city": "São Paulo",
+        "state": "SP"
+      }
+    ]
+  },
+  {
+    "id": "u-5",
+    "name": "Dona Cida Ferraz",
+    "email": "cida.ferraz@exemplo.com",
+    "phone": "11955507731",
+    "password": "demo1234",
+    "role": "CLIENTE",
+    "twoFactor": false,
+    "sinceMinutes": 558720,
+    "addresses": [
+      {
+        "id": "a1",
+        "label": "Casa",
+        "cep": "04240010",
+        "street": "Rua Luís Abbondanza",
+        "number": "112",
+        "complement": "",
+        "district": "São João Clímaco",
+        "city": "São Paulo",
+        "state": "SP"
+      }
+    ]
+  },
+  {
+    "id": "u-6",
+    "name": "Thiago Brandão",
+    "email": "thiago.brandao@exemplo.com",
+    "phone": "11983326610",
+    "password": "demo1234",
+    "role": "CLIENTE",
+    "twoFactor": false,
+    "sinceMinutes": 25920,
+    "addresses": [
+      {
+        "id": "a1",
+        "label": "Casa",
+        "cep": "04230000",
+        "street": "Avenida Almirante Delamare",
+        "number": "1574",
+        "complement": "Bloco B, apto 14",
+        "district": "Cidade Nova Heliópolis",
+        "city": "São Paulo",
+        "state": "SP"
+      }
+    ]
+  },
+  {
+    "id": "u-7",
+    "name": "Larissa Okoye",
+    "email": "larissa.ok@exemplo.com",
+    "phone": "11996647120",
+    "password": "demo1234",
+    "role": "CLIENTE",
+    "twoFactor": true,
+    "sinceMinutes": 12960,
+    "addresses": [
+      {
+        "id": "a1",
+        "label": "Casa",
+        "cep": "09550000",
+        "street": "Rua Visconde de Inhaúma",
+        "number": "87",
+        "complement": "",
+        "district": "Oswaldo Cruz",
+        "city": "São Caetano do Sul",
+        "state": "SP"
+      },
+      {
+        "id": "a2",
+        "label": "Mãe",
+        "cep": "04248000",
+        "street": "Rua Coronel Silva Castro",
+        "number": "53",
+        "complement": "",
+        "district": "São João Clímaco",
+        "city": "São Paulo",
+        "state": "SP"
+      }
+    ]
+  },
+  {
+    "id": "u-8",
+    "name": "Seu Agenor Pinto",
+    "email": "agenor.pinto@exemplo.com",
+    "phone": "11940028922",
+    "password": "demo1234",
+    "role": "CLIENTE",
+    "twoFactor": false,
+    "sinceMinutes": 4320,
+    "addresses": [
+      {
+        "id": "a1",
+        "label": "Casa",
+        "cep": "04253000",
+        "street": "Rua Vergueiro",
+        "number": "8800",
+        "complement": "",
+        "district": "Vila Firmiano Pinto",
+        "city": "São Paulo",
+        "state": "SP"
+      }
+    ]
+  },
+  {
+    "id": "u-9",
+    "name": "Bianca Leme",
+    "email": "bia.leme@exemplo.com",
+    "phone": "11978801456",
+    "password": "demo1234",
+    "role": "CLIENTE",
+    "twoFactor": false,
+    "sinceMinutes": 1440,
+    "addresses": [
+      {
+        "id": "a1",
+        "label": "República",
+        "cep": "04266060",
+        "street": "Rua Silva Bueno",
+        "number": "1811",
+        "complement": "Fundos",
+        "district": "Ipiranga",
+        "city": "São Paulo",
+        "state": "SP"
+      }
+    ]
+  }
+]

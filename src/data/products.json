@@ -1,0 +1,5620 @@
+[
+  {
+    "id": "promo-pizza-37",
+    "name": "Pizza grande por R$ 37",
+    "description": "Mussarela, calabresa, escarola ou bauru. Todo dia, pedindo até as 20h.",
+    "price": 37,
+    "categoryId": "promocoes",
+    "available": true,
+    "image": "1541745537411-b8046dc6d66c",
+    "groups": [
+      "promo37"
+    ],
+    "until": "20:00",
+    "featured": true
+  },
+  {
+    "id": "promo-esfiha-terca",
+    "name": "Esfihas de terça",
+    "description": "Carne, calabresa ou queijo por R$ 2,99 cada.",
+    "price": 2.99,
+    "categoryId": "promocoes",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "esfiha_terca"
+    ],
+    "weekdays": [
+      2
+    ]
+  },
+  {
+    "id": "promo-pizza-quarta",
+    "name": "Pizza grande de quarta",
+    "description": "Qualquer sabor tradicional, até 2 sabores.",
+    "price": 42,
+    "categoryId": "promocoes",
+    "available": true,
+    "image": "1590947132387-155cc02f3212",
+    "groups": [
+      "quarta_sabor"
+    ],
+    "weekdays": [
+      3
+    ]
+  },
+  {
+    "id": "promo-broto-quarta",
+    "name": "Broto de quarta",
+    "description": "Qualquer sabor tradicional no broto.",
+    "price": 32,
+    "categoryId": "promocoes",
+    "available": true,
+    "image": "1594007654729-407eedc4be65",
+    "groups": [
+      "quarta_sabor"
+    ],
+    "weekdays": [
+      3
+    ]
+  },
+  {
+    "id": "promo-combo-quinta",
+    "name": "Combo de quinta",
+    "description": "1 pizza grande salgada, 1 broto doce e Guaraná 1L.",
+    "price": 69.9,
+    "categoryId": "promocoes",
+    "available": true,
+    "image": "1628840042765-356cda07504e",
+    "groups": [
+      "quinta_salgada",
+      "quinta_doce"
+    ],
+    "weekdays": [
+      4
+    ]
+  },
+  {
+    "id": "promo-esfiha-quinta",
+    "name": "Esfihas de quinta",
+    "description": "Carne, escarola ou calabresa por R$ 3,50 cada.",
+    "price": 3.5,
+    "categoryId": "promocoes",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "esfiha_quinta"
+    ],
+    "weekdays": [
+      4
+    ]
+  },
+  {
+    "id": "prato-do-dia-672",
+    "code": "672",
+    "name": "Virado à paulista",
+    "description": "",
+    "price": 28,
+    "categoryId": "prato-do-dia",
+    "available": true,
+    "image": "1555939594-58d7cb561ad1",
+    "groups": [],
+    "weekdays": [
+      1
+    ]
+  },
+  {
+    "id": "prato-do-dia-673",
+    "code": "673",
+    "name": "Costela com batata",
+    "description": "",
+    "price": 27,
+    "categoryId": "prato-do-dia",
+    "available": true,
+    "image": "1544025162-d76694265947",
+    "groups": [],
+    "weekdays": [
+      1
+    ]
+  },
+  {
+    "id": "prato-do-dia-680",
+    "code": "680",
+    "name": "Frango ao molho",
+    "description": "",
+    "price": 27,
+    "categoryId": "prato-do-dia",
+    "available": true,
+    "image": "1504674900247-0877df9cc836",
+    "groups": [],
+    "weekdays": [
+      2
+    ]
+  },
+  {
+    "id": "prato-do-dia-649",
+    "code": "649",
+    "name": "Strogonoff de carne",
+    "description": "",
+    "price": 28,
+    "categoryId": "prato-do-dia",
+    "available": false,
+    "image": "1529042410759-befb1204b468",
+    "groups": [],
+    "weekdays": [
+      2
+    ]
+  },
+  {
+    "id": "prato-do-dia-677",
+    "code": "677",
+    "name": "Costela ao molho barbecue",
+    "description": "",
+    "price": 30,
+    "categoryId": "prato-do-dia",
+    "available": false,
+    "image": "1558030006-450675393462",
+    "groups": [],
+    "weekdays": [
+      2
+    ]
+  },
+  {
+    "id": "prato-do-dia-674",
+    "code": "674",
+    "name": "Feijoada individual",
+    "description": "",
+    "price": 30,
+    "categoryId": "prato-do-dia",
+    "available": true,
+    "image": "1432139555190-58524dae6a55",
+    "groups": [],
+    "weekdays": [
+      3,
+      6
+    ]
+  },
+  {
+    "id": "prato-do-dia-675",
+    "code": "675",
+    "name": "Feijoada para 2 pessoas",
+    "description": "",
+    "price": 60,
+    "categoryId": "prato-do-dia",
+    "available": true,
+    "image": "1555939594-58d7cb561ad1",
+    "groups": [],
+    "weekdays": [
+      3,
+      6
+    ]
+  },
+  {
+    "id": "prato-do-dia-648",
+    "code": "648",
+    "name": "Strogonoff de frango",
+    "description": "",
+    "price": 26,
+    "categoryId": "prato-do-dia",
+    "available": true,
+    "image": "1504674900247-0877df9cc836",
+    "groups": [],
+    "weekdays": [
+      3
+    ]
+  },
+  {
+    "id": "prato-do-dia-650",
+    "code": "650",
+    "name": "Frango assado",
+    "description": "",
+    "price": 29,
+    "categoryId": "prato-do-dia",
+    "available": false,
+    "image": "1626082927389-6cd097cdc6ec",
+    "groups": [],
+    "weekdays": [
+      4
+    ]
+  },
+  {
+    "id": "prato-do-dia-678",
+    "code": "678",
+    "name": "Penne com parmegiana de frango",
+    "description": "",
+    "price": 29,
+    "categoryId": "prato-do-dia",
+    "available": true,
+    "image": "1621996346565-e3dbc646d9a9",
+    "groups": [],
+    "weekdays": [
+      4
+    ]
+  },
+  {
+    "id": "prato-do-dia-681",
+    "code": "681",
+    "name": "Penne com parmegiana de carne",
+    "description": "",
+    "price": 35,
+    "categoryId": "prato-do-dia",
+    "available": true,
+    "image": "1563379926898-05f4575a45d8",
+    "groups": [],
+    "weekdays": [
+      4
+    ]
+  },
+  {
+    "id": "prato-do-dia-651",
+    "code": "651",
+    "name": "Filé de tilápia com baião",
+    "description": "",
+    "price": 30,
+    "categoryId": "prato-do-dia",
+    "available": true,
+    "image": "1519708227418-c8fd9a32b7a2",
+    "groups": [],
+    "weekdays": [
+      5
+    ]
+  },
+  {
+    "id": "prato-do-dia-452",
+    "code": "452",
+    "name": "Filé de tilápia grelhado",
+    "description": "",
+    "price": 30,
+    "categoryId": "prato-do-dia",
+    "available": true,
+    "image": "1519708227418-c8fd9a32b7a2",
+    "groups": [],
+    "weekdays": [
+      5
+    ]
+  },
+  {
+    "id": "prato-do-dia-679",
+    "code": "679",
+    "name": "Salmão grelhado com batata sauté",
+    "description": "",
+    "price": 42,
+    "categoryId": "prato-do-dia",
+    "available": true,
+    "image": "1519708227418-c8fd9a32b7a2",
+    "groups": [],
+    "weekdays": [
+      5
+    ]
+  },
+  {
+    "id": "prato-do-dia-652",
+    "code": "652",
+    "name": "Churrasco com baião",
+    "description": "",
+    "price": 30,
+    "categoryId": "prato-do-dia",
+    "available": true,
+    "image": "1544025162-d76694265947",
+    "groups": [],
+    "weekdays": [
+      6
+    ]
+  },
+  {
+    "id": "prato-do-dia-653",
+    "code": "653",
+    "name": "Churrasco",
+    "description": "",
+    "price": 28,
+    "categoryId": "prato-do-dia",
+    "available": true,
+    "image": "1558030006-450675393462",
+    "groups": [],
+    "weekdays": [
+      6
+    ]
+  },
+  {
+    "id": "marmitex-contra-file",
+    "name": "Contra filé",
+    "description": "Acompanha arroz, feijão e salada",
+    "price": 30,
+    "categoryId": "marmitex",
+    "available": true,
+    "image": "1432139555190-58524dae6a55",
+    "groups": [
+      "guarnicao"
+    ]
+  },
+  {
+    "id": "marmitex-file-de-frango",
+    "name": "Filé de frango",
+    "description": "Acompanha arroz, feijão e salada",
+    "price": 26,
+    "categoryId": "marmitex",
+    "available": true,
+    "image": "1529042410759-befb1204b468",
+    "groups": [
+      "guarnicao"
+    ]
+  },
+  {
+    "id": "marmitex-frango-a-passarinho",
+    "name": "Frango a passarinho",
+    "description": "Acompanha arroz, feijão e salada",
+    "price": 25,
+    "categoryId": "marmitex",
+    "available": true,
+    "image": "1562967914-608f82629710",
+    "groups": [
+      "guarnicao"
+    ]
+  },
+  {
+    "id": "marmitex-calabresa-fresca",
+    "name": "Calabresa fresca",
+    "description": "Acompanha arroz, feijão, salada e vinagrete",
+    "price": 26,
+    "categoryId": "marmitex",
+    "available": true,
+    "image": "1555939594-58d7cb561ad1",
+    "groups": [
+      "guarnicao"
+    ]
+  },
+  {
+    "id": "marmitex-calabresa-defumada-acebolada",
+    "name": "Calabresa defumada acebolada",
+    "description": "Acompanha arroz, feijão, salada e vinagrete",
+    "price": 26,
+    "categoryId": "marmitex",
+    "available": true,
+    "image": "1544025162-d76694265947",
+    "groups": [
+      "guarnicao"
+    ]
+  },
+  {
+    "id": "marmitex-file-de-peixe-a-milanesa",
+    "name": "Filé de peixe à milanesa",
+    "description": "Acompanha arroz, feijão e salada",
+    "price": 29,
+    "categoryId": "marmitex",
+    "available": true,
+    "image": "1519708227418-c8fd9a32b7a2",
+    "groups": [
+      "guarnicao"
+    ]
+  },
+  {
+    "id": "marmitex-figado-acebolado",
+    "name": "Fígado acebolado",
+    "description": "Acompanha arroz, feijão e salada",
+    "price": 24,
+    "categoryId": "marmitex",
+    "available": true,
+    "image": "1558030006-450675393462",
+    "groups": [
+      "guarnicao"
+    ]
+  },
+  {
+    "id": "marmitex-file-de-frango-a-milanesa",
+    "name": "Filé de frango à milanesa",
+    "description": "Acompanha arroz, feijão e salada",
+    "price": 27,
+    "categoryId": "marmitex",
+    "available": true,
+    "image": "1504674900247-0877df9cc836",
+    "groups": [
+      "guarnicao"
+    ]
+  },
+  {
+    "id": "marmitex-contra-file-a-parmegiana",
+    "name": "Contra filé à parmegiana",
+    "description": "Acompanha arroz, feijão e salada",
+    "price": 35,
+    "categoryId": "marmitex",
+    "available": true,
+    "image": "1432139555190-58524dae6a55",
+    "groups": [
+      "guarnicao"
+    ]
+  },
+  {
+    "id": "marmitex-frango-a-parmegiana",
+    "name": "Frango à parmegiana",
+    "description": "Acompanha arroz, feijão e salada",
+    "price": 29,
+    "categoryId": "marmitex",
+    "available": true,
+    "image": "1529042410759-befb1204b468",
+    "groups": [
+      "guarnicao"
+    ]
+  },
+  {
+    "id": "marmitex-bisteca",
+    "name": "Bisteca",
+    "description": "Acompanha arroz, feijão e salada",
+    "price": 25,
+    "categoryId": "marmitex",
+    "available": true,
+    "image": "1555939594-58d7cb561ad1",
+    "groups": [
+      "guarnicao"
+    ]
+  },
+  {
+    "id": "marmitex-omelete",
+    "name": "Omelete",
+    "description": "Acompanha arroz, feijão e salada",
+    "price": 25,
+    "categoryId": "marmitex",
+    "available": true,
+    "image": "1504674900247-0877df9cc836",
+    "groups": [
+      "guarnicao"
+    ]
+  },
+  {
+    "id": "marmitex-452",
+    "code": "452",
+    "name": "Peixe grelhado",
+    "description": "Acompanha arroz, feijão e salada",
+    "price": 30,
+    "categoryId": "marmitex",
+    "available": true,
+    "image": "1519708227418-c8fd9a32b7a2",
+    "groups": [
+      "guarnicao"
+    ]
+  },
+  {
+    "id": "marmitex-477",
+    "code": "477",
+    "name": "Contra filé à parmegiana 2",
+    "description": "Acompanha somente arroz e fritas",
+    "price": 29,
+    "categoryId": "marmitex",
+    "available": true,
+    "image": "1544025162-d76694265947",
+    "groups": []
+  },
+  {
+    "id": "marmitex-478",
+    "code": "478",
+    "name": "Filé de frango à parmegiana 2",
+    "description": "Acompanha somente arroz e fritas",
+    "price": 25,
+    "categoryId": "marmitex",
+    "available": true,
+    "image": "1529042410759-befb1204b468",
+    "groups": []
+  },
+  {
+    "id": "marmitex-360",
+    "code": "360",
+    "name": "Salada completa",
+    "description": "Ovo cozido, alface, tomate, palmito, presunto, queijo, rúcula, tomate seco, cenoura, brócolis e milho",
+    "price": 24,
+    "categoryId": "marmitex",
+    "available": true,
+    "image": "1546069901-ba9599a7e63c",
+    "groups": []
+  },
+  {
+    "id": "marmitex-322",
+    "code": "322",
+    "name": "Fitness",
+    "description": "Arroz integral, ovo cozido, filé de frango, legumes e salada",
+    "price": 24,
+    "categoryId": "marmitex",
+    "available": true,
+    "image": "1512621776951-a57141f2eefd",
+    "groups": []
+  },
+  {
+    "id": "marmitex-558",
+    "code": "558",
+    "name": "Nhoque à bolonhesa",
+    "description": "",
+    "price": 24.9,
+    "categoryId": "marmitex",
+    "available": true,
+    "image": "1621996346565-e3dbc646d9a9",
+    "groups": [
+      "adic_nhoque"
+    ]
+  },
+  {
+    "id": "marmitex-bowl-de-espaguete",
+    "name": "Bowl de espaguete",
+    "description": "",
+    "price": 25,
+    "categoryId": "marmitex",
+    "available": true,
+    "image": "1563379926898-05f4575a45d8",
+    "groups": [
+      "sabor_bowl"
+    ]
+  },
+  {
+    "id": "marmitex-579",
+    "code": "579",
+    "name": "Sobrecoxa desossada",
+    "description": "Arroz, salada primavera (repolho, vinagrete, cenoura e maionese) e batata frita",
+    "price": 28,
+    "categoryId": "marmitex",
+    "available": true,
+    "image": "1626082927389-6cd097cdc6ec",
+    "groups": []
+  },
+  {
+    "id": "marmitex-644",
+    "code": "644",
+    "name": "Panqueca de carne",
+    "description": "",
+    "price": 22,
+    "categoryId": "marmitex",
+    "available": true,
+    "image": "1621996346565-e3dbc646d9a9",
+    "groups": []
+  },
+  {
+    "id": "marmitex-645",
+    "code": "645",
+    "name": "Panqueca de frango com catupiry",
+    "description": "",
+    "price": 22,
+    "categoryId": "marmitex",
+    "available": true,
+    "image": "1563379926898-05f4575a45d8",
+    "groups": []
+  },
+  {
+    "id": "marmitex-646",
+    "code": "646",
+    "name": "Panqueca de presunto e queijo",
+    "description": "",
+    "price": 22,
+    "categoryId": "marmitex",
+    "available": true,
+    "image": "1621996346565-e3dbc646d9a9",
+    "groups": []
+  },
+  {
+    "id": "marmitex-658",
+    "code": "658",
+    "name": "Panqueca de dois queijos",
+    "description": "",
+    "price": 24,
+    "categoryId": "marmitex",
+    "available": true,
+    "image": "1563379926898-05f4575a45d8",
+    "groups": []
+  },
+  {
+    "id": "marmitex-657",
+    "code": "657",
+    "name": "Panqueca de carne com queijo",
+    "description": "",
+    "price": 24,
+    "categoryId": "marmitex",
+    "available": true,
+    "image": "1621996346565-e3dbc646d9a9",
+    "groups": []
+  },
+  {
+    "id": "marmitex-656",
+    "code": "656",
+    "name": "Panqueca de calabresa com queijo",
+    "description": "",
+    "price": 24,
+    "categoryId": "marmitex",
+    "available": true,
+    "image": "1563379926898-05f4575a45d8",
+    "groups": []
+  },
+  {
+    "id": "marmitex-655",
+    "code": "655",
+    "name": "Panqueca de calabresa com catupiry",
+    "description": "",
+    "price": 24,
+    "categoryId": "marmitex",
+    "available": true,
+    "image": "1621996346565-e3dbc646d9a9",
+    "groups": []
+  },
+  {
+    "id": "lanches-235",
+    "code": "235",
+    "name": "Bauru",
+    "description": "Pão francês, presunto, queijo e tomate",
+    "price": 18,
+    "categoryId": "lanches",
+    "available": true,
+    "image": "1528735602780-2552fd46c7af",
+    "groups": [
+      "adic_lanche",
+      "retirar"
+    ]
+  },
+  {
+    "id": "lanches-236",
+    "code": "236",
+    "name": "Hambúrguer",
+    "description": "Pão e hambúrguer",
+    "price": 18,
+    "categoryId": "lanches",
+    "available": true,
+    "image": "1568901346375-23c9450c58cd",
+    "groups": [
+      "pao",
+      "adic_lanche",
+      "retirar"
+    ]
+  },
+  {
+    "id": "lanches-237",
+    "code": "237",
+    "name": "Misto quente",
+    "description": "Pão francês, presunto e queijo",
+    "price": 18,
+    "categoryId": "lanches",
+    "available": true,
+    "image": "1553909489-cd47e0907980",
+    "groups": [
+      "adic_lanche",
+      "retirar"
+    ]
+  },
+  {
+    "id": "lanches-238",
+    "code": "238",
+    "name": "X-Burguer",
+    "description": "Hambúrguer e queijo",
+    "price": 19,
+    "categoryId": "lanches",
+    "available": true,
+    "image": "1550547660-d9450f859349",
+    "groups": [
+      "pao",
+      "adic_lanche",
+      "retirar"
+    ]
+  },
+  {
+    "id": "lanches-239",
+    "code": "239",
+    "name": "X-Salada",
+    "description": "Hambúrguer, queijo, alface e tomate",
+    "price": 19,
+    "categoryId": "lanches",
+    "available": true,
+    "image": "1546069901-ba9599a7e63c",
+    "groups": [
+      "pao",
+      "adic_lanche",
+      "retirar"
+    ]
+  },
+  {
+    "id": "lanches-240",
+    "code": "240",
+    "name": "X-Bacon",
+    "description": "Hambúrguer, queijo, bacon, alface e tomate",
+    "price": 20,
+    "categoryId": "lanches",
+    "available": true,
+    "image": "1571091718767-18b5b1457add",
+    "groups": [
+      "pao",
+      "adic_lanche",
+      "retirar"
+    ]
+  },
+  {
+    "id": "lanches-241",
+    "code": "241",
+    "name": "X-Egg",
+    "description": "Ovo, hambúrguer, queijo, alface e tomate",
+    "price": 20,
+    "categoryId": "lanches",
+    "available": true,
+    "image": "1586190848861-99aa4a171e90",
+    "groups": [
+      "pao",
+      "adic_lanche",
+      "retirar"
+    ]
+  },
+  {
+    "id": "lanches-242",
+    "code": "242",
+    "name": "X-Americano",
+    "description": "Hambúrguer, queijo, presunto e ovo",
+    "price": 21,
+    "categoryId": "lanches",
+    "available": true,
+    "image": "1553979459-d2229ba7433b",
+    "groups": [
+      "pao",
+      "adic_lanche",
+      "retirar"
+    ]
+  },
+  {
+    "id": "lanches-243",
+    "code": "243",
+    "name": "X-Calabresa",
+    "description": "Hambúrguer, queijo, calabresa, alface e tomate",
+    "price": 21,
+    "categoryId": "lanches",
+    "available": true,
+    "image": "1558030006-450675393462",
+    "groups": [
+      "pao",
+      "adic_lanche",
+      "retirar"
+    ]
+  },
+  {
+    "id": "lanches-244",
+    "code": "244",
+    "name": "X-Tudo",
+    "description": "Hambúrguer, presunto, queijo, ovo, bacon, alface e tomate",
+    "price": 21,
+    "categoryId": "lanches",
+    "available": true,
+    "image": "1572802419224-296b0aeee0d9",
+    "groups": [
+      "pao",
+      "adic_lanche",
+      "retirar"
+    ]
+  },
+  {
+    "id": "lanches-270",
+    "code": "270",
+    "name": "X-Frango",
+    "description": "Pão francês, filé de frango, vinagrete e queijo",
+    "price": 23,
+    "categoryId": "lanches",
+    "available": true,
+    "image": "1509722747041-616f39b57569",
+    "groups": [
+      "adic_lanche",
+      "retirar"
+    ]
+  },
+  {
+    "id": "lanches-269",
+    "code": "269",
+    "name": "X-Churrasco",
+    "description": "Pão francês, contra filé, vinagrete e queijo",
+    "price": 23,
+    "categoryId": "lanches",
+    "available": true,
+    "image": "1432139555190-58524dae6a55",
+    "groups": [
+      "adic_lanche",
+      "retirar"
+    ]
+  },
+  {
+    "id": "lanches-341",
+    "code": "341",
+    "name": "X-Bacon duplo",
+    "description": "2 hambúrgueres, bacon, cheddar, cebola empanada e queijo",
+    "price": 24,
+    "categoryId": "lanches",
+    "available": true,
+    "image": "1550317138-10000687a72b",
+    "groups": [
+      "pao",
+      "adic_lanche",
+      "retirar"
+    ]
+  },
+  {
+    "id": "lanches-343",
+    "code": "343",
+    "name": "X-Cheddar",
+    "description": "Hambúrguer, cebola empanada, bacon, salada e cheddar",
+    "price": 23,
+    "categoryId": "lanches",
+    "available": true,
+    "image": "1565299507177-b0ac66763828",
+    "groups": [
+      "pao",
+      "adic_lanche",
+      "retirar"
+    ]
+  },
+  {
+    "id": "lanches-245",
+    "code": "245",
+    "name": "X-Abbondanza",
+    "description": "2 hambúrgueres, calabresa, presunto, bacon, ovo, mussarela, cheddar, catupiry, alface e tomate",
+    "price": 26,
+    "categoryId": "lanches",
+    "available": true,
+    "image": "1568901346375-23c9450c58cd",
+    "groups": [
+      "pao",
+      "adic_lanche",
+      "retirar"
+    ],
+    "featured": true
+  },
+  {
+    "id": "lanches-342",
+    "code": "342",
+    "name": "X-Calabresa vinagrete",
+    "description": "Pão francês, calabresa fresca, vinagrete e queijo",
+    "price": 23,
+    "categoryId": "lanches",
+    "available": true,
+    "image": "1555939594-58d7cb561ad1",
+    "groups": [
+      "adic_lanche",
+      "retirar"
+    ]
+  },
+  {
+    "id": "lanches-344",
+    "code": "344",
+    "name": "X-Turbinado",
+    "description": "2 hambúrgueres, cebola, queijo, salada, ovo, cheddar, bacon e presunto",
+    "price": 30,
+    "categoryId": "lanches",
+    "available": true,
+    "image": "1550547660-d9450f859349",
+    "groups": [
+      "pao",
+      "adic_lanche",
+      "retirar"
+    ]
+  },
+  {
+    "id": "lanches-271",
+    "code": "271",
+    "name": "X-Abbondanza especial",
+    "description": "3 hambúrgueres, calabresa, presunto, lombo, bacon, ovo, mussarela, cheddar, catupiry, molho vinagrete, alface e tomate",
+    "price": 30,
+    "categoryId": "lanches",
+    "available": true,
+    "image": "1571091718767-18b5b1457add",
+    "groups": [
+      "pao",
+      "adic_lanche",
+      "retirar"
+    ]
+  },
+  {
+    "id": "lanches-463",
+    "code": "463",
+    "name": "Steak Abbondanza",
+    "description": "Steak de frango, anéis de cebola, salada, cheddar e molho especial",
+    "price": 24,
+    "categoryId": "lanches",
+    "available": true,
+    "image": "1586190848861-99aa4a171e90",
+    "groups": [
+      "pao",
+      "adic_lanche",
+      "retirar"
+    ]
+  },
+  {
+    "id": "lanches-516",
+    "code": "516",
+    "name": "Calaburguer",
+    "description": "Hambúrguer de calabresa fresca, anéis de cebola, molho especial, queijo, bacon, alface e tomate",
+    "price": 24,
+    "categoryId": "lanches",
+    "available": true,
+    "image": "1553979459-d2229ba7433b",
+    "groups": [
+      "pao",
+      "adic_lanche",
+      "retirar"
+    ]
+  },
+  {
+    "id": "lanches-517",
+    "code": "517",
+    "name": "X-Milanesa",
+    "description": "Filé de frango à milanesa, anéis de cebola, queijo, bacon e molho especial",
+    "price": 24,
+    "categoryId": "lanches",
+    "available": true,
+    "image": "1572802419224-296b0aeee0d9",
+    "groups": [
+      "pao",
+      "adic_lanche",
+      "retirar"
+    ]
+  },
+  {
+    "id": "lanches-689",
+    "code": "689",
+    "name": "Xis Gaúcho",
+    "description": "Isca de contra filé, vinagrete, queijo e milho",
+    "price": 39,
+    "categoryId": "lanches",
+    "available": true,
+    "image": "1550317138-10000687a72b",
+    "groups": []
+  },
+  {
+    "id": "lanches-690",
+    "code": "690",
+    "name": "Xis Tudão",
+    "description": "Hambúrguer, ovo, presunto, queijo, bacon e salada",
+    "price": 36,
+    "categoryId": "lanches",
+    "available": true,
+    "image": "1565299507177-b0ac66763828",
+    "groups": []
+  },
+  {
+    "id": "lanches-691",
+    "code": "691",
+    "name": "Xis Cheddar",
+    "description": "Hambúrguer, queijo cheddar, milho e vinagrete",
+    "price": 33,
+    "categoryId": "lanches",
+    "available": true,
+    "image": "1568901346375-23c9450c58cd",
+    "groups": []
+  },
+  {
+    "id": "lanches-692",
+    "code": "692",
+    "name": "Xis Frango",
+    "description": "Isca de filé de frango, mussarela, alface e tomate",
+    "price": 36,
+    "categoryId": "lanches",
+    "available": true,
+    "image": "1550547660-d9450f859349",
+    "groups": []
+  },
+  {
+    "id": "lanches-693",
+    "code": "693",
+    "name": "Xis Linguiça",
+    "description": "Calabresa fresca, mussarela e vinagrete",
+    "price": 35,
+    "categoryId": "lanches",
+    "available": true,
+    "image": "1571091718767-18b5b1457add",
+    "groups": []
+  },
+  {
+    "id": "lanches-694",
+    "code": "694",
+    "name": "Xis Mignon",
+    "description": "Filé mignon, mussarela, catupiry, alface e tomate",
+    "price": 46,
+    "categoryId": "lanches",
+    "available": true,
+    "image": "1586190848861-99aa4a171e90",
+    "groups": []
+  },
+  {
+    "id": "lanches-695",
+    "code": "695",
+    "name": "Xis Costela",
+    "description": "Costela desfiada, cebola no barbecue, mussarela, alface e tomate",
+    "price": 42,
+    "categoryId": "lanches",
+    "available": true,
+    "image": "1544025162-d76694265947",
+    "groups": []
+  },
+  {
+    "id": "lanches-696",
+    "code": "696",
+    "name": "Xis Egg Burguer",
+    "description": "Hambúrguer, ovo, mussarela, alface e tomate",
+    "price": 32,
+    "categoryId": "lanches",
+    "available": true,
+    "image": "1553979459-d2229ba7433b",
+    "groups": []
+  },
+  {
+    "id": "lanches-697",
+    "code": "697",
+    "name": "Xis Pernil",
+    "description": "Pernil suíno desfiado, vinagrete, mussarela e barbecue",
+    "price": 40,
+    "categoryId": "lanches",
+    "available": true,
+    "image": "1572802419224-296b0aeee0d9",
+    "groups": []
+  },
+  {
+    "id": "lanches-artesanais-589",
+    "code": "589",
+    "name": "American Burger",
+    "description": "Pão selado na manteiga, maionese caseira, hambúrguer artesanal 130g, queijo, ovo e presunto",
+    "price": 24,
+    "categoryId": "lanches-artesanais",
+    "available": true,
+    "image": "1550317138-10000687a72b",
+    "groups": [
+      "pao_art",
+      "ponto",
+      "adic_art"
+    ]
+  },
+  {
+    "id": "lanches-artesanais-590",
+    "code": "590",
+    "name": "Bacon Turbo",
+    "description": "Pão selado na manteiga, maionese caseira, hambúrguer artesanal 130g, barbecue, bacon, cebola roxa, queijo, cheddar, alface e tomate",
+    "price": 27,
+    "categoryId": "lanches-artesanais",
+    "available": true,
+    "image": "1565299507177-b0ac66763828",
+    "groups": [
+      "pao_art",
+      "ponto",
+      "adic_art"
+    ],
+    "featured": true
+  },
+  {
+    "id": "lanches-artesanais-591",
+    "code": "591",
+    "name": "Hunger Burger",
+    "description": "Pão selado na manteiga, maionese caseira, hambúrguer artesanal 130g, queijo, cebola roxa fatiada e picles de pepino artesanal",
+    "price": 28,
+    "categoryId": "lanches-artesanais",
+    "available": true,
+    "image": "1568901346375-23c9450c58cd",
+    "groups": [
+      "pao_art",
+      "ponto",
+      "adic_art"
+    ]
+  },
+  {
+    "id": "lanches-artesanais-551",
+    "code": "551",
+    "name": "Cheese Burger",
+    "description": "Pão selado na manteiga, maionese caseira, hambúrguer artesanal 130g e queijo",
+    "price": 20,
+    "categoryId": "lanches-artesanais",
+    "available": true,
+    "image": "1550547660-d9450f859349",
+    "groups": [
+      "pao_art",
+      "ponto",
+      "adic_art"
+    ]
+  },
+  {
+    "id": "lanches-artesanais-552",
+    "code": "552",
+    "name": "Cheese Salada",
+    "description": "Pão selado na manteiga, maionese caseira, hambúrguer artesanal 130g, queijo, alface e tomate",
+    "price": 21,
+    "categoryId": "lanches-artesanais",
+    "available": true,
+    "image": "1571091718767-18b5b1457add",
+    "groups": [
+      "pao_art",
+      "ponto",
+      "adic_art"
+    ]
+  },
+  {
+    "id": "lanches-artesanais-553",
+    "code": "553",
+    "name": "Cheese Bacon",
+    "description": "Pão selado na manteiga, maionese caseira, hambúrguer artesanal 130g, queijo e bacon",
+    "price": 22,
+    "categoryId": "lanches-artesanais",
+    "available": true,
+    "image": "1586190848861-99aa4a171e90",
+    "groups": [
+      "pao_art",
+      "ponto",
+      "adic_art"
+    ]
+  },
+  {
+    "id": "lanches-artesanais-555",
+    "code": "555",
+    "name": "Cheese Egg",
+    "description": "Pão selado na manteiga, maionese caseira, hambúrguer artesanal 130g, queijo e ovo",
+    "price": 21,
+    "categoryId": "lanches-artesanais",
+    "available": true,
+    "image": "1553979459-d2229ba7433b",
+    "groups": [
+      "pao_art",
+      "ponto",
+      "adic_art"
+    ]
+  },
+  {
+    "id": "lanches-artesanais-554",
+    "code": "554",
+    "name": "Cheese Bacon Onion",
+    "description": "Pão selado na manteiga, maionese caseira, hambúrguer artesanal 130g, queijo, bacon e anéis de cebola empanada",
+    "price": 23,
+    "categoryId": "lanches-artesanais",
+    "available": true,
+    "image": "1572802419224-296b0aeee0d9",
+    "groups": [
+      "pao_art",
+      "ponto",
+      "adic_art"
+    ]
+  },
+  {
+    "id": "lanches-artesanais-556",
+    "code": "556",
+    "name": "Cheddar Onion Duplo",
+    "description": "Pão selado na manteiga, maionese caseira, 2 hambúrgueres artesanais 130g, queijo cheddar e anéis de cebola empanada",
+    "price": 26,
+    "categoryId": "lanches-artesanais",
+    "available": true,
+    "image": "1550317138-10000687a72b",
+    "groups": [
+      "pao_art",
+      "ponto",
+      "adic_art"
+    ],
+    "featured": true
+  },
+  {
+    "id": "lanches-artesanais-609",
+    "code": "609",
+    "name": "Burguer Costela",
+    "description": "Hambúrguer artesanal, cebola roxa, costela desfiada e queijo cheddar fatiado",
+    "price": 27,
+    "categoryId": "lanches-artesanais",
+    "available": true,
+    "image": "1565299507177-b0ac66763828",
+    "groups": [
+      "pao_art",
+      "ponto",
+      "adic_art"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-329",
+    "code": "329",
+    "name": "Carne",
+    "description": "O tempero da carne é à base de vinagrete",
+    "price": 4.25,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-361",
+    "code": "361",
+    "name": "Carne com queijo",
+    "description": "",
+    "price": 4.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-371",
+    "code": "371",
+    "name": "Carne com catupiry",
+    "description": "",
+    "price": 4.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-383",
+    "code": "383",
+    "name": "Carne com cheddar",
+    "description": "",
+    "price": 4.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-353",
+    "code": "353",
+    "name": "Calabresa",
+    "description": "Somente calabresa",
+    "price": 4.25,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-332",
+    "code": "332",
+    "name": "Calabresa com queijo",
+    "description": "",
+    "price": 4.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-346",
+    "code": "346",
+    "name": "Calabresa com catupiry",
+    "description": "",
+    "price": 4.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-415",
+    "code": "415",
+    "name": "Calabresa com cheddar",
+    "description": "",
+    "price": 4.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-526",
+    "code": "526",
+    "name": "Calabresa II",
+    "description": "Calabresa fatiada, mussarela e cebola",
+    "price": 5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-392",
+    "code": "392",
+    "name": "Escarola com queijo",
+    "description": "",
+    "price": 4.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-394",
+    "code": "394",
+    "name": "Escarola com catupiry",
+    "description": "",
+    "price": 4.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-364",
+    "code": "364",
+    "name": "Bacon com queijo",
+    "description": "",
+    "price": 4.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-372",
+    "code": "372",
+    "name": "Bacon com catupiry",
+    "description": "",
+    "price": 4.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-440",
+    "code": "440",
+    "name": "Bacon com cheddar",
+    "description": "",
+    "price": 4.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-334",
+    "code": "334",
+    "name": "Presunto",
+    "description": "Somente presunto",
+    "price": 4.25,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-379",
+    "code": "379",
+    "name": "Presunto com queijo",
+    "description": "",
+    "price": 4.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-495",
+    "code": "495",
+    "name": "Presunto com catupiry",
+    "description": "",
+    "price": 4.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-331",
+    "code": "331",
+    "name": "Frango",
+    "description": "Somente frango",
+    "price": 4.25,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-376",
+    "code": "376",
+    "name": "Frango com queijo",
+    "description": "",
+    "price": 4.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-333",
+    "code": "333",
+    "name": "Frango com catupiry",
+    "description": "",
+    "price": 4.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-414",
+    "code": "414",
+    "name": "Frango com cheddar",
+    "description": "",
+    "price": 4.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-330",
+    "code": "330",
+    "name": "Queijo",
+    "description": "",
+    "price": 4.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-363",
+    "code": "363",
+    "name": "2 queijos",
+    "description": "Mussarela e catupiry",
+    "price": 5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-411",
+    "code": "411",
+    "name": "3 queijos",
+    "description": "Mussarela, catupiry e parmesão",
+    "price": 5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-418",
+    "code": "418",
+    "name": "4 queijos",
+    "description": "Mussarela, catupiry, parmesão e provolone",
+    "price": 5.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-373",
+    "code": "373",
+    "name": "Catupiry",
+    "description": "Somente catupiry puro",
+    "price": 4.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-365",
+    "code": "365",
+    "name": "Napolitana",
+    "description": "Mussarela, parmesão e rodelas de tomate",
+    "price": 4.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-362",
+    "code": "362",
+    "name": "Alho",
+    "description": "Alho e mussarela",
+    "price": 4.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-391",
+    "code": "391",
+    "name": "Pepperone com queijo",
+    "description": "",
+    "price": 4.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-397",
+    "code": "397",
+    "name": "Pepperone com catupiry",
+    "description": "",
+    "price": 4.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-396",
+    "code": "396",
+    "name": "Pepperone com cheddar",
+    "description": "",
+    "price": 4.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-413",
+    "code": "413",
+    "name": "Bauru",
+    "description": "Presunto, mussarela e tomate",
+    "price": 4.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-448",
+    "code": "448",
+    "name": "Palmito com catupiry",
+    "description": "",
+    "price": 4.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-409",
+    "code": "409",
+    "name": "Palmito com queijo",
+    "description": "",
+    "price": 4.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-640",
+    "code": "640",
+    "name": "Palmito com cheddar",
+    "description": "",
+    "price": 4.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-428",
+    "code": "428",
+    "name": "Portuguesa",
+    "description": "Presunto, mussarela, ovo e ervilha",
+    "price": 5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-400",
+    "code": "400",
+    "name": "Rúcula",
+    "description": "Rúcula, tomate seco e mussarela",
+    "price": 5.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-445",
+    "code": "445",
+    "name": "Lombo com queijo",
+    "description": "",
+    "price": 5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-446",
+    "code": "446",
+    "name": "Lombo com catupiry",
+    "description": "",
+    "price": 5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-401",
+    "code": "401",
+    "name": "Peito de peru com queijo",
+    "description": "",
+    "price": 5.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-457",
+    "code": "457",
+    "name": "Peito de peru com catupiry",
+    "description": "",
+    "price": 5.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-395",
+    "code": "395",
+    "name": "Atum",
+    "description": "Somente atum",
+    "price": 5.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-441",
+    "code": "441",
+    "name": "Atum com queijo",
+    "description": "",
+    "price": 5.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-442",
+    "code": "442",
+    "name": "Atum com catupiry",
+    "description": "",
+    "price": 5.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-430",
+    "code": "430",
+    "name": "Brócolis com queijo",
+    "description": "",
+    "price": 5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-468",
+    "code": "468",
+    "name": "Brócolis com catupiry",
+    "description": "",
+    "price": 5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-350",
+    "code": "350",
+    "name": "Milho com queijo",
+    "description": "",
+    "price": 4.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-377",
+    "code": "377",
+    "name": "Milho com catupiry",
+    "description": "",
+    "price": 4.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-528",
+    "code": "528",
+    "name": "Hot dog com cheddar",
+    "description": "Cheddar, salsicha e batata palha",
+    "price": 5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-550",
+    "code": "550",
+    "name": "Hot dog com queijo",
+    "description": "Mussarela, salsicha e batata palha",
+    "price": 5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-592",
+    "code": "592",
+    "name": "Berinjela",
+    "description": "Somente berinjela",
+    "price": 4.25,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-594",
+    "code": "594",
+    "name": "Berinjela com queijo",
+    "description": "",
+    "price": 4.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-salgadas-593",
+    "code": "593",
+    "name": "Berinjela com catupiry",
+    "description": "",
+    "price": 4.5,
+    "categoryId": "esfihas-salgadas",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_salg"
+    ]
+  },
+  {
+    "id": "esfihas-doces-492",
+    "code": "492",
+    "name": "Chocouva",
+    "description": "Chocolate ao leite com uva verde",
+    "price": 5.25,
+    "categoryId": "esfihas-doces",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_doce"
+    ]
+  },
+  {
+    "id": "esfihas-doces-337",
+    "code": "337",
+    "name": "Brigadeiro",
+    "description": "Chocolate ao leite e granulado",
+    "price": 5.25,
+    "categoryId": "esfihas-doces",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_doce"
+    ]
+  },
+  {
+    "id": "esfihas-doces-339",
+    "code": "339",
+    "name": "Confete",
+    "description": "Chocolate ao leite e confete",
+    "price": 5.25,
+    "categoryId": "esfihas-doces",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_doce"
+    ]
+  },
+  {
+    "id": "esfihas-doces-340",
+    "code": "340",
+    "name": "Crocante",
+    "description": "Chocolate ao leite e bolinhas de cereal cobertas com chocolate",
+    "price": 5.25,
+    "categoryId": "esfihas-doces",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_doce"
+    ]
+  },
+  {
+    "id": "esfihas-doces-335",
+    "code": "335",
+    "name": "Prestígio",
+    "description": "Chocolate ao leite, coco ralado e leite condensado",
+    "price": 5.25,
+    "categoryId": "esfihas-doces",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_doce"
+    ]
+  },
+  {
+    "id": "esfihas-doces-352",
+    "code": "352",
+    "name": "Romeu e Julieta",
+    "description": "Mussarela e goiabada",
+    "price": 5.25,
+    "categoryId": "esfihas-doces",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_doce"
+    ]
+  },
+  {
+    "id": "esfihas-doces-520",
+    "code": "520",
+    "name": "Romeu e Julieta II",
+    "description": "Catupiry e goiabada",
+    "price": 5.25,
+    "categoryId": "esfihas-doces",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_doce"
+    ]
+  },
+  {
+    "id": "esfihas-doces-435",
+    "code": "435",
+    "name": "Mesclada",
+    "description": "Chocolate ao leite e chocolate branco",
+    "price": 5.25,
+    "categoryId": "esfihas-doces",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_doce"
+    ]
+  },
+  {
+    "id": "esfihas-doces-416",
+    "code": "416",
+    "name": "Banana",
+    "description": "Banana, canela e leite condensado",
+    "price": 5.25,
+    "categoryId": "esfihas-doces",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_doce"
+    ]
+  },
+  {
+    "id": "esfihas-doces-467",
+    "code": "467",
+    "name": "Banana II",
+    "description": "Banana, canela, leite condensado e mussarela",
+    "price": 5.25,
+    "categoryId": "esfihas-doces",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_doce"
+    ]
+  },
+  {
+    "id": "esfihas-doces-417",
+    "code": "417",
+    "name": "Chocobana",
+    "description": "Banana e chocolate ao leite",
+    "price": 5.25,
+    "categoryId": "esfihas-doces",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_doce"
+    ]
+  },
+  {
+    "id": "esfihas-doces-374",
+    "code": "374",
+    "name": "Chocolate",
+    "description": "Apenas chocolate ao leite",
+    "price": 5.25,
+    "categoryId": "esfihas-doces",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_doce"
+    ]
+  },
+  {
+    "id": "esfihas-doces-479",
+    "code": "479",
+    "name": "Chocolate branco",
+    "description": "Apenas chocolate branco",
+    "price": 5.25,
+    "categoryId": "esfihas-doces",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_doce"
+    ]
+  },
+  {
+    "id": "esfihas-doces-503",
+    "code": "503",
+    "name": "Kit Kat",
+    "description": "Chocolate ao leite e Kit Kat",
+    "price": 5.25,
+    "categoryId": "esfihas-doces",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_doce"
+    ]
+  },
+  {
+    "id": "esfihas-doces-519",
+    "code": "519",
+    "name": "Bis",
+    "description": "Chocolate ao leite, chocolate branco e Bis",
+    "price": 5.25,
+    "categoryId": "esfihas-doces",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_doce"
+    ]
+  },
+  {
+    "id": "esfihas-doces-494",
+    "code": "494",
+    "name": "Três desejos",
+    "description": "Chocolate ao leite, chocolate branco e doce de leite",
+    "price": 5.25,
+    "categoryId": "esfihas-doces",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_doce"
+    ]
+  },
+  {
+    "id": "esfihas-doces-502",
+    "code": "502",
+    "name": "Paçoca",
+    "description": "Chocolate ao leite e paçoca",
+    "price": 5.25,
+    "categoryId": "esfihas-doces",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_doce"
+    ]
+  },
+  {
+    "id": "esfihas-doces-338",
+    "code": "338",
+    "name": "Amendoim",
+    "description": "Chocolate ao leite e amendoim granulado",
+    "price": 5.25,
+    "categoryId": "esfihas-doces",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_doce"
+    ]
+  },
+  {
+    "id": "esfihas-doces-518",
+    "code": "518",
+    "name": "Brigadeiro colorido",
+    "description": "Chocolate branco e granulado colorido",
+    "price": 5.25,
+    "categoryId": "esfihas-doces",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_doce"
+    ]
+  },
+  {
+    "id": "esfihas-doces-584",
+    "code": "584",
+    "name": "Tortuguita ao leite",
+    "description": "Chocolate ao leite e Tortuguita branca",
+    "price": 5.5,
+    "categoryId": "esfihas-doces",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_doce"
+    ]
+  },
+  {
+    "id": "esfihas-doces-585",
+    "code": "585",
+    "name": "Tortuguita chocolate branco",
+    "description": "Chocolate branco com Tortuguita de chocolate ao leite",
+    "price": 5.5,
+    "categoryId": "esfihas-doces",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_doce"
+    ]
+  },
+  {
+    "id": "esfihas-doces-600",
+    "code": "600",
+    "name": "Chokito",
+    "description": "Chocolate ao leite, doce de leite e bolinhas de arroz",
+    "price": 5.25,
+    "categoryId": "esfihas-doces",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_doce"
+    ]
+  },
+  {
+    "id": "esfihas-doces-549",
+    "code": "549",
+    "name": "Uvagresco",
+    "description": "Chocolate branco, farofa de Negresco, uva verde e leite condensado",
+    "price": 5.25,
+    "categoryId": "esfihas-doces",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_doce"
+    ]
+  },
+  {
+    "id": "esfihas-doces-493",
+    "code": "493",
+    "name": "Morangresco",
+    "description": "Chocolate branco, farofa de Negresco, morango e leite condensado",
+    "price": 5.25,
+    "categoryId": "esfihas-doces",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_doce"
+    ]
+  },
+  {
+    "id": "esfihas-doces-522",
+    "code": "522",
+    "name": "Sensação branco",
+    "description": "Chocolate branco e morango",
+    "price": 5.25,
+    "categoryId": "esfihas-doces",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_doce"
+    ]
+  },
+  {
+    "id": "esfihas-doces-336",
+    "code": "336",
+    "name": "Sensação",
+    "description": "Chocolate ao leite, morango e granulado de chocolate",
+    "price": 5.25,
+    "categoryId": "esfihas-doces",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_doce"
+    ]
+  },
+  {
+    "id": "esfihas-doces-608",
+    "code": "608",
+    "name": "Sensação duo",
+    "description": "Chocolate ao leite, chocolate branco e morango",
+    "price": 5.25,
+    "categoryId": "esfihas-doces",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": [
+      "compl_doce"
+    ]
+  },
+  {
+    "id": "esfihas-doces-685",
+    "code": "685",
+    "name": "Uva com Ninho",
+    "description": "Chocolate branco, uva e leite Ninho",
+    "price": 6,
+    "categoryId": "esfihas-doces",
+    "available": true,
+    "image": "1548369937-47519962c11a",
+    "groups": []
+  },
+  {
+    "id": "porcoes-669",
+    "code": "669",
+    "name": "Isca de tilápia 500g",
+    "description": "Acompanha maionese e limão",
+    "price": 60,
+    "categoryId": "porcoes",
+    "available": true,
+    "image": "1519708227418-c8fd9a32b7a2",
+    "groups": [
+      "adic_porcao"
+    ]
+  },
+  {
+    "id": "porcoes-253",
+    "code": "253",
+    "name": "Batata frita 400g",
+    "description": "Acompanha maionese temperada e ketchup",
+    "price": 22,
+    "categoryId": "porcoes",
+    "available": true,
+    "image": "1573080496219-bb080dd4f877",
+    "groups": [
+      "adic_porcao"
+    ],
+    "featured": true
+  },
+  {
+    "id": "porcoes-254",
+    "code": "254",
+    "name": "Frango a passarinho 500g",
+    "description": "Acompanha maionese temperada e limão",
+    "price": 39,
+    "categoryId": "porcoes",
+    "available": true,
+    "image": "1562967914-608f82629710",
+    "groups": [
+      "adic_porcao"
+    ]
+  },
+  {
+    "id": "porcoes-261",
+    "code": "261",
+    "name": "Mandioca 500g",
+    "description": "Acompanha maionese temperada e ketchup",
+    "price": 25,
+    "categoryId": "porcoes",
+    "available": true,
+    "image": "1576107232684-1279f390859f",
+    "groups": [
+      "adic_porcao"
+    ]
+  },
+  {
+    "id": "porcoes-256",
+    "code": "256",
+    "name": "Calabresa acebolada 500g",
+    "description": "Acompanha maionese temperada e pão",
+    "price": 32,
+    "categoryId": "porcoes",
+    "available": true,
+    "image": "1558030006-450675393462",
+    "groups": [
+      "adic_porcao"
+    ]
+  },
+  {
+    "id": "porcoes-351",
+    "code": "351",
+    "name": "Anéis de cebola 500g",
+    "description": "Acompanha maionese temperada e ketchup",
+    "price": 27,
+    "categoryId": "porcoes",
+    "available": true,
+    "image": "1639024471283-03518883512d",
+    "groups": [
+      "adic_porcao"
+    ]
+  },
+  {
+    "id": "porcoes-421",
+    "code": "421",
+    "name": "Isca de frango 500g",
+    "description": "Acompanha maionese temperada e ketchup",
+    "price": 39,
+    "categoryId": "porcoes",
+    "available": true,
+    "image": "1626082927389-6cd097cdc6ec",
+    "groups": [
+      "adic_porcao"
+    ]
+  },
+  {
+    "id": "porcoes-meia-batata-frita-230g",
+    "name": "Meia batata frita 230g",
+    "description": "Acompanha maionese temperada e ketchup",
+    "price": 16,
+    "categoryId": "porcoes",
+    "available": true,
+    "image": "1630384060421-cb20d0e0649d",
+    "groups": [
+      "adic_porcao"
+    ]
+  },
+  {
+    "id": "porcoes-meia-isca-de-frango-300g",
+    "name": "Meia isca de frango 300g",
+    "description": "Acompanha maionese temperada e ketchup",
+    "price": 25,
+    "categoryId": "porcoes",
+    "available": true,
+    "image": "1562967914-608f82629710",
+    "groups": []
+  },
+  {
+    "id": "porcoes-meia-frango-a-passarinho-300g",
+    "name": "Meia frango a passarinho 300g",
+    "description": "Acompanha maionese temperada e limão",
+    "price": 25,
+    "categoryId": "porcoes",
+    "available": true,
+    "image": "1626082927389-6cd097cdc6ec",
+    "groups": [
+      "adic_porcao"
+    ]
+  },
+  {
+    "id": "porcoes-meia-mandioca-300g",
+    "name": "Meia mandioca 300g",
+    "description": "Acompanha maionese temperada e ketchup",
+    "price": 18,
+    "categoryId": "porcoes",
+    "available": true,
+    "image": "1573080496219-bb080dd4f877",
+    "groups": [
+      "adic_porcao"
+    ]
+  },
+  {
+    "id": "porcoes-meia-aneis-de-cebola-300g",
+    "name": "Meia anéis de cebola 300g",
+    "description": "Acompanha maionese temperada e ketchup",
+    "price": 20,
+    "categoryId": "porcoes",
+    "available": true,
+    "image": "1639024471283-03518883512d",
+    "groups": [
+      "adic_porcao"
+    ]
+  },
+  {
+    "id": "porcoes-meia-calabresa-acebolada-300g",
+    "name": "Meia calabresa acebolada 300g",
+    "description": "Acompanha maionese temperada e pão",
+    "price": 21,
+    "categoryId": "porcoes",
+    "available": true,
+    "image": "1432139555190-58524dae6a55",
+    "groups": [
+      "adic_porcao"
+    ]
+  },
+  {
+    "id": "porcoes-mini-batata-frita-150g",
+    "name": "Mini batata frita 150g",
+    "description": "Não acompanha molho",
+    "price": 11,
+    "categoryId": "porcoes",
+    "available": true,
+    "image": "1576107232684-1279f390859f",
+    "groups": []
+  },
+  {
+    "id": "porcoes-mini-mandioca-200g",
+    "name": "Mini mandioca 200g",
+    "description": "Não acompanha molho",
+    "price": 12,
+    "categoryId": "porcoes",
+    "available": true,
+    "image": "1630384060421-cb20d0e0649d",
+    "groups": []
+  },
+  {
+    "id": "porcoes-mini-aneis-de-cebola-200g",
+    "name": "Mini anéis de cebola 200g",
+    "description": "Não acompanha molho",
+    "price": 13,
+    "categoryId": "porcoes",
+    "available": true,
+    "image": "1639024471283-03518883512d",
+    "groups": []
+  },
+  {
+    "id": "beirutes-246",
+    "code": "246",
+    "name": "Beirute Calabresa",
+    "description": "Calabresa, cebola, catupiry, alface e tomate",
+    "price": 26,
+    "categoryId": "beirutes",
+    "available": true,
+    "image": "1528735602780-2552fd46c7af",
+    "groups": [
+      "adic_beirute"
+    ]
+  },
+  {
+    "id": "beirutes-247",
+    "code": "247",
+    "name": "Beirute Cheddar",
+    "description": "Queijo cheddar, milho, bacon, alface e tomate",
+    "price": 26,
+    "categoryId": "beirutes",
+    "available": true,
+    "image": "1553909489-cd47e0907980",
+    "groups": [
+      "adic_beirute"
+    ]
+  },
+  {
+    "id": "beirutes-248",
+    "code": "248",
+    "name": "Beirute Frango",
+    "description": "Frango desfiado, catupiry, milho, alface e tomate",
+    "price": 26,
+    "categoryId": "beirutes",
+    "available": true,
+    "image": "1509722747041-616f39b57569",
+    "groups": [
+      "adic_beirute"
+    ]
+  },
+  {
+    "id": "beirutes-426",
+    "code": "426",
+    "name": "Beirute de Hambúrguer",
+    "description": "3 hambúrgueres, queijo, ovo, alface e tomate",
+    "price": 26,
+    "categoryId": "beirutes",
+    "available": true,
+    "image": "1528735602780-2552fd46c7af",
+    "groups": [
+      "adic_beirute"
+    ]
+  },
+  {
+    "id": "beirutes-249",
+    "code": "249",
+    "name": "Beirute Lombo",
+    "description": "Lombo, cebola, milho, catupiry, alface e tomate",
+    "price": 26,
+    "categoryId": "beirutes",
+    "available": true,
+    "image": "1553909489-cd47e0907980",
+    "groups": [
+      "adic_beirute"
+    ]
+  },
+  {
+    "id": "beirutes-250",
+    "code": "250",
+    "name": "Beirute Tradicional",
+    "description": "Mussarela, presunto, alface e tomate",
+    "price": 26,
+    "categoryId": "beirutes",
+    "available": true,
+    "image": "1509722747041-616f39b57569",
+    "groups": [
+      "adic_beirute"
+    ]
+  },
+  {
+    "id": "beirutes-251",
+    "code": "251",
+    "name": "Beirute Filé de frango",
+    "description": "Filé de frango, queijo, ovo, alface e tomate",
+    "price": 30,
+    "categoryId": "beirutes",
+    "available": true,
+    "image": "1528735602780-2552fd46c7af",
+    "groups": [
+      "adic_beirute"
+    ]
+  },
+  {
+    "id": "beirutes-252",
+    "code": "252",
+    "name": "Beirute Contra filé",
+    "description": "Contra filé, queijo, ovo, alface e tomate",
+    "price": 31,
+    "categoryId": "beirutes",
+    "available": true,
+    "image": "1553909489-cd47e0907980",
+    "groups": [
+      "adic_beirute"
+    ],
+    "featured": true
+  },
+  {
+    "id": "beirutes-664",
+    "code": "664",
+    "name": "Beirute de peito de peru",
+    "description": "Peito de peru, palmito, catupiry, mussarela, alface e tomate",
+    "price": 30,
+    "categoryId": "beirutes",
+    "available": true,
+    "image": "1509722747041-616f39b57569",
+    "groups": [
+      "adic_beirute"
+    ]
+  },
+  {
+    "id": "beirutes-665",
+    "code": "665",
+    "name": "Beirute de churrasco",
+    "description": "Calabresa fresca, vinagrete, queijo, alface e tomate",
+    "price": 28,
+    "categoryId": "beirutes",
+    "available": true,
+    "image": "1528735602780-2552fd46c7af",
+    "groups": [
+      "adic_beirute"
+    ]
+  },
+  {
+    "id": "beirutes-666",
+    "code": "666",
+    "name": "Beirute de parmegiana de frango",
+    "description": "Filé de frango à parmegiana, alface e tomate",
+    "price": 34,
+    "categoryId": "beirutes",
+    "available": true,
+    "image": "1553909489-cd47e0907980",
+    "groups": [
+      "adic_beirute"
+    ]
+  },
+  {
+    "id": "beirutes-667",
+    "code": "667",
+    "name": "Beirute artesanal",
+    "description": "2 hambúrgueres artesanais, ovo, mussarela, presunto, alface e tomate",
+    "price": 32,
+    "categoryId": "beirutes",
+    "available": true,
+    "image": "1509722747041-616f39b57569",
+    "groups": [
+      "adic_beirute"
+    ]
+  },
+  {
+    "id": "beirutes-670",
+    "code": "670",
+    "name": "Beirute de rosbife",
+    "description": "Rosbife, cheddar, ovo, alface e tomate",
+    "price": 36,
+    "categoryId": "beirutes",
+    "available": true,
+    "image": "1528735602780-2552fd46c7af",
+    "groups": [
+      "adic_beirute"
+    ]
+  },
+  {
+    "id": "beirutes-671",
+    "code": "671",
+    "name": "Beirute de filé mignon",
+    "description": "Filé mignon, catupiry, orégano, alface e tomate",
+    "price": 39,
+    "categoryId": "beirutes",
+    "available": true,
+    "image": "1553909489-cd47e0907980",
+    "groups": [
+      "adic_beirute"
+    ]
+  },
+  {
+    "id": "combos-super-combo-de-esfihas",
+    "name": "Super combo de esfihas",
+    "description": "5 de queijo, 5 de calabresa, 5 de carne e Guaraná 1L",
+    "price": 60,
+    "categoryId": "combos",
+    "available": true,
+    "image": "1594212699903-ec8a3eca50f5",
+    "groups": []
+  },
+  {
+    "id": "combos-388",
+    "code": "388",
+    "name": "Combo 1",
+    "description": "3 X-Salada, anéis de cebola, fritas e Coca-Cola 2L",
+    "price": 76.9,
+    "categoryId": "combos",
+    "available": true,
+    "image": "1561758033-d89a9ad46330",
+    "groups": [
+      "pao_combo"
+    ]
+  },
+  {
+    "id": "combos-407",
+    "code": "407",
+    "name": "Combo 2",
+    "description": "3 X-Bacon, anéis de cebola e fritas",
+    "price": 68,
+    "categoryId": "combos",
+    "available": true,
+    "image": "1594212699903-ec8a3eca50f5",
+    "groups": [
+      "pao_combo"
+    ]
+  },
+  {
+    "id": "combos-425",
+    "code": "425",
+    "name": "Combo 3",
+    "description": "4 X-Salada, fritas e Coca-Cola 2L",
+    "price": 77,
+    "categoryId": "combos",
+    "available": true,
+    "image": "1561758033-d89a9ad46330",
+    "groups": [
+      "pao_combo"
+    ]
+  },
+  {
+    "id": "combos-450",
+    "code": "450",
+    "name": "Combo Casal",
+    "description": "1 X-Salada, 1 X-Tudo, 2 refrigerantes 200ml e 2 esfihas doces",
+    "price": 52,
+    "categoryId": "combos",
+    "available": true,
+    "image": "1594212699903-ec8a3eca50f5",
+    "groups": [
+      "esfihas_doces_2",
+      "pao_combo"
+    ],
+    "featured": true
+  },
+  {
+    "id": "combos-472",
+    "code": "472",
+    "name": "Combo Kids",
+    "description": "1 X-Salada, nuggets, batata smile e refri 237ml",
+    "price": 29,
+    "categoryId": "combos",
+    "available": true,
+    "image": "1561758033-d89a9ad46330",
+    "groups": []
+  },
+  {
+    "id": "combos-combo-individual",
+    "name": "Combo Individual",
+    "description": "1 X-Cheddar, 1 esfiha de confete e 1 refrigerante 200ml",
+    "price": 28,
+    "categoryId": "combos",
+    "available": true,
+    "image": "1594212699903-ec8a3eca50f5",
+    "groups": []
+  },
+  {
+    "id": "combos-combo-esfiha-n-1",
+    "name": "Combo Esfiha nº 1",
+    "description": "5 de frango com catupiry, 5 de carne e 5 de queijo",
+    "price": 57.5,
+    "categoryId": "combos",
+    "available": true,
+    "image": "1561758033-d89a9ad46330",
+    "groups": []
+  },
+  {
+    "id": "combos-combo-esfiha-n-2",
+    "name": "Combo Esfiha nº 2",
+    "description": "10 de carne, 10 de queijo e 1 refrigerante de 1 litro",
+    "price": 88,
+    "categoryId": "combos",
+    "available": true,
+    "image": "1594212699903-ec8a3eca50f5",
+    "groups": []
+  },
+  {
+    "id": "combos-combo-esfiha-n-3",
+    "name": "Combo Esfiha nº 3",
+    "description": "4 de calabresa, 4 de carne, 4 de queijo, 4 de bauru e 1 refrigerante de 1 litro",
+    "price": 71,
+    "categoryId": "combos",
+    "available": true,
+    "image": "1561758033-d89a9ad46330",
+    "groups": []
+  },
+  {
+    "id": "combos-combo-esfiha-n-4",
+    "name": "Combo Esfiha nº 4",
+    "description": "3 de calabresa com queijo, 3 de atum com queijo, 3 de frango com queijo, 3 de carne com queijo e 1 Guaraná 1L",
+    "price": 58,
+    "categoryId": "combos",
+    "available": true,
+    "image": "1594212699903-ec8a3eca50f5",
+    "groups": []
+  },
+  {
+    "id": "combos-combo-esfiha-n-5",
+    "name": "Combo Esfiha nº 5",
+    "description": "2 de carne, 2 de queijo, 2 de frango com catupiry, 2 de calabresa e 2 doces",
+    "price": 42,
+    "categoryId": "combos",
+    "available": true,
+    "image": "1561758033-d89a9ad46330",
+    "groups": [
+      "esfihas_doces_2"
+    ]
+  },
+  {
+    "id": "combos-combo-esfiha-n-6",
+    "name": "Combo Esfiha nº 6",
+    "description": "6 de bacon, 6 de carne, 6 de frango com catupiry, 6 de queijo, 6 de calabresa com queijo e 1 Guaraná 2L",
+    "price": 115,
+    "categoryId": "combos",
+    "available": true,
+    "image": "1594212699903-ec8a3eca50f5",
+    "groups": []
+  },
+  {
+    "id": "combos-combo-tudao",
+    "name": "Combo Tudão",
+    "description": "2 X-Salada, 2 X-Tudo, 2 X-Bacon e anéis de cebola",
+    "price": 134,
+    "categoryId": "combos",
+    "available": true,
+    "image": "1561758033-d89a9ad46330",
+    "groups": []
+  },
+  {
+    "id": "combos-artesanais-595",
+    "code": "595",
+    "name": "Combo Clássico",
+    "description": "3 Cheese Salada, fritas e Guaraná 1L",
+    "price": 73,
+    "categoryId": "combos-artesanais",
+    "available": true,
+    "image": "1594212699903-ec8a3eca50f5",
+    "groups": []
+  },
+  {
+    "id": "combos-artesanais-596",
+    "code": "596",
+    "name": "Combo Infantil",
+    "description": "1 Cheese Burger, batata smile e refri 200ml",
+    "price": 24,
+    "categoryId": "combos-artesanais",
+    "available": true,
+    "image": "1561758033-d89a9ad46330",
+    "groups": []
+  },
+  {
+    "id": "combos-artesanais-598",
+    "code": "598",
+    "name": "Combo Family",
+    "description": "2 Cheese Bacon, 2 Cheese Salada, anéis de cebola, fritas e Guaraná 2L",
+    "price": 103,
+    "categoryId": "combos-artesanais",
+    "available": true,
+    "image": "1594212699903-ec8a3eca50f5",
+    "groups": []
+  },
+  {
+    "id": "combos-artesanais-597",
+    "code": "597",
+    "name": "Combo Casalzão",
+    "description": "1 Cheese Bacon Onion, 1 American Burger, fritas, 1 Guaraná 600ml e 2 esfihas doces",
+    "price": 63,
+    "categoryId": "combos-artesanais",
+    "available": true,
+    "image": "1561758033-d89a9ad46330",
+    "groups": [
+      "esfihas_doces_2"
+    ]
+  },
+  {
+    "id": "combos-artesanais-599",
+    "code": "599",
+    "name": "Combo Turbo",
+    "description": "3 Bacon Turbo e fritas com cheddar e bacon por cima",
+    "price": 80,
+    "categoryId": "combos-artesanais",
+    "available": true,
+    "image": "1594212699903-ec8a3eca50f5",
+    "groups": []
+  },
+  {
+    "id": "sobremesas-272",
+    "code": "272",
+    "name": "Mini pudim 80g",
+    "description": "",
+    "price": 9.99,
+    "categoryId": "sobremesas",
+    "available": false,
+    "image": "1565958011703-44f9829ba187",
+    "groups": []
+  },
+  {
+    "id": "sobremesas-279",
+    "code": "279",
+    "name": "Torta de abacaxi 80g",
+    "description": "",
+    "price": 9.99,
+    "categoryId": "sobremesas",
+    "available": true,
+    "image": "1488477181946-6428a0291777",
+    "groups": []
+  },
+  {
+    "id": "sobremesas-278",
+    "code": "278",
+    "name": "Torta mousse de brigadeiro 80g",
+    "description": "",
+    "price": 9.99,
+    "categoryId": "sobremesas",
+    "available": false,
+    "image": "1578985545062-69928b1d9587",
+    "groups": []
+  },
+  {
+    "id": "sobremesas-273",
+    "code": "273",
+    "name": "Torta holandesa 80g",
+    "description": "",
+    "price": 9.99,
+    "categoryId": "sobremesas",
+    "available": true,
+    "image": "1563805042-7684c019e1cb",
+    "groups": []
+  },
+  {
+    "id": "sobremesas-639",
+    "code": "639",
+    "name": "Mini pavê crocante",
+    "description": "",
+    "price": 9.99,
+    "categoryId": "sobremesas",
+    "available": false,
+    "image": "1565958011703-44f9829ba187",
+    "groups": []
+  },
+  {
+    "id": "sobremesas-277",
+    "code": "277",
+    "name": "Mousse de chocolate 80g",
+    "description": "",
+    "price": 9.99,
+    "categoryId": "sobremesas",
+    "available": false,
+    "image": "1488477181946-6428a0291777",
+    "groups": []
+  },
+  {
+    "id": "sobremesas-654",
+    "code": "654",
+    "name": "Pavê de bombom",
+    "description": "",
+    "price": 9.99,
+    "categoryId": "sobremesas",
+    "available": false,
+    "image": "1578985545062-69928b1d9587",
+    "groups": []
+  },
+  {
+    "id": "sobremesas-327",
+    "code": "327",
+    "name": "Torta de frutas vermelhas",
+    "description": "",
+    "price": 9.99,
+    "categoryId": "sobremesas",
+    "available": false,
+    "image": "1563805042-7684c019e1cb",
+    "groups": []
+  },
+  {
+    "id": "sobremesas-612",
+    "code": "612",
+    "name": "Torta de pistache",
+    "description": "",
+    "price": 9.99,
+    "categoryId": "sobremesas",
+    "available": false,
+    "image": "1565958011703-44f9829ba187",
+    "groups": []
+  },
+  {
+    "id": "sobremesas-280",
+    "code": "280",
+    "name": "Torta de maracujá com chocolate",
+    "description": "",
+    "price": 9.99,
+    "categoryId": "sobremesas",
+    "available": true,
+    "image": "1488477181946-6428a0291777",
+    "groups": []
+  },
+  {
+    "id": "vinhos-vinho-dom-bosco-suave-700ml",
+    "name": "Vinho Dom Bosco suave 700ml",
+    "description": "",
+    "price": 24,
+    "categoryId": "vinhos",
+    "available": true,
+    "image": "1510812431401-41d2bd2722f3",
+    "groups": []
+  },
+  {
+    "id": "vinhos-vinho-san-tome-suave-1l",
+    "name": "Vinho San Tomé suave 1L",
+    "description": "",
+    "price": 27,
+    "categoryId": "vinhos",
+    "available": true,
+    "image": "1506377247377-2a5b3b417ebb",
+    "groups": []
+  },
+  {
+    "id": "vinhos-vinho-chalise-suave-700ml",
+    "name": "Vinho Chalise suave 700ml",
+    "description": "",
+    "price": 22,
+    "categoryId": "vinhos",
+    "available": false,
+    "image": "1510812431401-41d2bd2722f3",
+    "groups": []
+  },
+  {
+    "id": "vinhos-vinho-country-wine-suave-700ml",
+    "name": "Vinho Country Wine suave 700ml",
+    "description": "",
+    "price": 20,
+    "categoryId": "vinhos",
+    "available": false,
+    "image": "1506377247377-2a5b3b417ebb",
+    "groups": []
+  },
+  {
+    "id": "vinhos-vinho-sangue-de-boi-seco",
+    "name": "Vinho Sangue de Boi seco",
+    "description": "",
+    "price": 20,
+    "categoryId": "vinhos",
+    "available": false,
+    "image": "1510812431401-41d2bd2722f3",
+    "groups": []
+  },
+  {
+    "id": "vinhos-vinho-quinta-do-morgado",
+    "name": "Vinho Quinta do Morgado",
+    "description": "",
+    "price": 24,
+    "categoryId": "vinhos",
+    "available": false,
+    "image": "1506377247377-2a5b3b417ebb",
+    "groups": []
+  },
+  {
+    "id": "pizza-01",
+    "code": "01",
+    "name": "Alho frito",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano e alho frito",
+    "price": 34,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1513104890138-7c749659a591",
+    "groups": [],
+    "sizes": {
+      "broto": 34,
+      "grande": 44
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-02",
+    "code": "02",
+    "name": "Baiana",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano, calabresa moída, pimenta, ovos e cebola",
+    "price": 33,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1565299624946-b28f40a0ae38",
+    "groups": [],
+    "sizes": {
+      "broto": 33,
+      "grande": 43
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-03",
+    "code": "03",
+    "name": "Bauru",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano, presunto moído e rodelas de tomate",
+    "price": 33,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1574071318508-1cdbab80d002",
+    "groups": [],
+    "sizes": {
+      "broto": 33,
+      "grande": 43
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-04",
+    "code": "04",
+    "name": "Calabresa",
+    "description": "Molho de tomate, azeitonas, orégano, calabresa fatiada e cebola",
+    "price": 33,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1628840042765-356cda07504e",
+    "groups": [],
+    "sizes": {
+      "broto": 33,
+      "grande": 43
+    },
+    "family": "tradicional",
+    "featured": true
+  },
+  {
+    "id": "pizza-05",
+    "code": "05",
+    "name": "Escarola",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano, escarola, cebola e bacon",
+    "price": 33,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1594007654729-407eedc4be65",
+    "groups": [],
+    "sizes": {
+      "broto": 33,
+      "grande": 43
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-06",
+    "code": "06",
+    "name": "Marguerita",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano, manjericão, rodelas de tomate e parmesão",
+    "price": 34,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1590947132387-155cc02f3212",
+    "groups": [],
+    "sizes": {
+      "broto": 34,
+      "grande": 44
+    },
+    "family": "tradicional",
+    "featured": true
+  },
+  {
+    "id": "pizza-07",
+    "code": "07",
+    "name": "Mussarela",
+    "description": "Molho de tomate, azeitonas, mussarela e orégano",
+    "price": 34,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1534308983496-4fabb1a015ee",
+    "groups": [],
+    "sizes": {
+      "broto": 34,
+      "grande": 44
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-08",
+    "code": "08",
+    "name": "Milho verde",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano e milho",
+    "price": 33,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1541745537411-b8046dc6d66c",
+    "groups": [],
+    "sizes": {
+      "broto": 33,
+      "grande": 43
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-09",
+    "code": "09",
+    "name": "Napolitana",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano, rodelas de tomate e parmesão",
+    "price": 34,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1601924582970-9238bcb495d9",
+    "groups": [],
+    "sizes": {
+      "broto": 34,
+      "grande": 44
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-10",
+    "code": "10",
+    "name": "Toscana",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano, calabresa moída, ovos e cebola",
+    "price": 33,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1585238342024-78d387f4a707",
+    "groups": [],
+    "sizes": {
+      "broto": 33,
+      "grande": 43
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-11",
+    "code": "11",
+    "name": "Bacon",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano, bacon e cebola",
+    "price": 34,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1576458088443-04a19bb13da6",
+    "groups": [],
+    "sizes": {
+      "broto": 34,
+      "grande": 44
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-12",
+    "code": "12",
+    "name": "Brócolis",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano, brócolis e bacon",
+    "price": 34,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1598023696416-0193a0bcd302",
+    "groups": [],
+    "sizes": {
+      "broto": 34,
+      "grande": 44
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-13",
+    "code": "13",
+    "name": "Calabresa II",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano, calabresa fatiada e cebola",
+    "price": 34,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1593560708920-61dd98c46a4e",
+    "groups": [],
+    "sizes": {
+      "broto": 34,
+      "grande": 44
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-14",
+    "code": "14",
+    "name": "Escarola II",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano, escarola, cebola, bacon e alho",
+    "price": 34,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1513104890138-7c749659a591",
+    "groups": [],
+    "sizes": {
+      "broto": 34,
+      "grande": 44
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-15",
+    "code": "15",
+    "name": "Rúcula",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano, rúcula e tomate seco",
+    "price": 34,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1565299624946-b28f40a0ae38",
+    "groups": [],
+    "sizes": {
+      "broto": 34,
+      "grande": 44
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-16",
+    "code": "16",
+    "name": "À moda",
+    "description": "Molho de tomate, azeitonas, orégano, presunto moído, ervilha, bacon, catupiry e tomate em rodelas",
+    "price": 35,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1574071318508-1cdbab80d002",
+    "groups": [],
+    "sizes": {
+      "broto": 35,
+      "grande": 45
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-17",
+    "code": "17",
+    "name": "Bacon II",
+    "description": "Molho de tomate, azeitonas, orégano, bacon, cebola e catupiry",
+    "price": 35,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1628840042765-356cda07504e",
+    "groups": [],
+    "sizes": {
+      "broto": 35,
+      "grande": 45
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-18",
+    "code": "18",
+    "name": "Berinjela",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano, berinjela e cebola",
+    "price": 35,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1594007654729-407eedc4be65",
+    "groups": [],
+    "sizes": {
+      "broto": 35,
+      "grande": 45
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-19",
+    "code": "19",
+    "name": "Brócolis II",
+    "description": "Molho de tomate, azeitonas, orégano, brócolis, catupiry e bacon",
+    "price": 35,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1590947132387-155cc02f3212",
+    "groups": [],
+    "sizes": {
+      "broto": 35,
+      "grande": 45
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-20",
+    "code": "20",
+    "name": "Calabresa III",
+    "description": "Molho de tomate, azeitonas, orégano, calabresa fatiada, cebola e catupiry",
+    "price": 35,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1534308983496-4fabb1a015ee",
+    "groups": [],
+    "sizes": {
+      "broto": 35,
+      "grande": 45
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-21",
+    "code": "21",
+    "name": "Cheddar",
+    "description": "Molho de tomate, azeitonas, orégano, cheddar, tomate fatiado e bacon",
+    "price": 35,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1541745537411-b8046dc6d66c",
+    "groups": [],
+    "sizes": {
+      "broto": 35,
+      "grande": 45
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-22",
+    "code": "22",
+    "name": "Dois queijos",
+    "description": "Molho de tomate, mussarela, catupiry, azeitonas e orégano",
+    "price": 34,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1601924582970-9238bcb495d9",
+    "groups": [],
+    "sizes": {
+      "broto": 34,
+      "grande": 44
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-23",
+    "code": "23",
+    "name": "Lombo",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano, lombo, cebola e milho",
+    "price": 35,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1585238342024-78d387f4a707",
+    "groups": [],
+    "sizes": {
+      "broto": 35,
+      "grande": 45
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-24",
+    "code": "24",
+    "name": "Milho verde II",
+    "description": "Molho de tomate, azeitonas, orégano, milho verde e catupiry",
+    "price": 35,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1576458088443-04a19bb13da6",
+    "groups": [],
+    "sizes": {
+      "broto": 35,
+      "grande": 45
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-25",
+    "code": "25",
+    "name": "Namorados",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano, champignon, cebola e palmito",
+    "price": 35,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1598023696416-0193a0bcd302",
+    "groups": [],
+    "sizes": {
+      "broto": 35,
+      "grande": 45
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-26",
+    "code": "26",
+    "name": "Palmito",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano e palmito",
+    "price": 35,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1593560708920-61dd98c46a4e",
+    "groups": [],
+    "sizes": {
+      "broto": 35,
+      "grande": 45
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-27",
+    "code": "27",
+    "name": "Portuguesa",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano, presunto moído, cebola e ovos",
+    "price": 35,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1513104890138-7c749659a591",
+    "groups": [],
+    "sizes": {
+      "broto": 35,
+      "grande": 45
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-28",
+    "code": "28",
+    "name": "Pomodoro",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano, tomate em fatias e alho frito",
+    "price": 35,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1565299624946-b28f40a0ae38",
+    "groups": [],
+    "sizes": {
+      "broto": 35,
+      "grande": 45
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-29",
+    "code": "29",
+    "name": "Três queijos",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano, catupiry e parmesão",
+    "price": 35,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1574071318508-1cdbab80d002",
+    "groups": [],
+    "sizes": {
+      "broto": 35,
+      "grande": 45
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-30",
+    "code": "30",
+    "name": "Tomate seco",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano, tomate seco e parmesão",
+    "price": 35,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1628840042765-356cda07504e",
+    "groups": [],
+    "sizes": {
+      "broto": 35,
+      "grande": 46
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-31",
+    "code": "31",
+    "name": "Atum",
+    "description": "Molho de tomate, azeitonas, orégano, atum e cebola",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1594007654729-407eedc4be65",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-32",
+    "code": "32",
+    "name": "Strogonoff",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano, frango desfiado, cebola e champignon",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1590947132387-155cc02f3212",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-33",
+    "code": "33",
+    "name": "Catupiry",
+    "description": "Molho de tomate, azeitonas, orégano e catupiry",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1534308983496-4fabb1a015ee",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-34",
+    "code": "34",
+    "name": "Caipira",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano, frango desfiado, milho e cebola",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1541745537411-b8046dc6d66c",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-35",
+    "code": "35",
+    "name": "Champignon",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano, champignon e milho",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1601924582970-9238bcb495d9",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-36",
+    "code": "36",
+    "name": "Frango",
+    "description": "Molho de tomate, azeitonas, orégano, frango desfiado e catupiry",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1585238342024-78d387f4a707",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-37",
+    "code": "37",
+    "name": "Gorgonzola",
+    "description": "Molho de tomate, azeitonas, orégano, gorgonzola, tomate fatiado e cebola",
+    "price": 37,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1576458088443-04a19bb13da6",
+    "groups": [],
+    "sizes": {
+      "broto": 37,
+      "grande": 47
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-38",
+    "code": "38",
+    "name": "Jardineira",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano, calabresa, atum, champignon, ervilha e parmesão",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1598023696416-0193a0bcd302",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-39",
+    "code": "39",
+    "name": "Lombo II",
+    "description": "Molho de tomate, azeitonas, orégano, lombo defumado, milho e catupiry",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1593560708920-61dd98c46a4e",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-40",
+    "code": "40",
+    "name": "Pepperoni",
+    "description": "Molho de tomate, azeitonas, orégano e pepperoni, com mussarela ou catupiry (diga qual nas observações)",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1513104890138-7c749659a591",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-41",
+    "code": "41",
+    "name": "Palmito II",
+    "description": "Molho de tomate, azeitonas, orégano, palmito e catupiry",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1565299624946-b28f40a0ae38",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-42",
+    "code": "42",
+    "name": "Palha",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano, frango, cebola, milho e batata palha",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1574071318508-1cdbab80d002",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-43",
+    "code": "43",
+    "name": "Provolone",
+    "description": "Molho de tomate, azeitonas, orégano, provolone, tomate e parmesão",
+    "price": 37,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1628840042765-356cda07504e",
+    "groups": [],
+    "sizes": {
+      "broto": 37,
+      "grande": 47
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-44",
+    "code": "44",
+    "name": "Peruana",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano, atum, tomate em rodelas, ervilha e cebola",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1594007654729-407eedc4be65",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-45",
+    "code": "45",
+    "name": "Quatro queijos",
+    "description": "Molho de tomate, azeitonas, orégano, mussarela, parmesão, catupiry e provolone",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1590947132387-155cc02f3212",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "tradicional",
+    "featured": true
+  },
+  {
+    "id": "pizza-46",
+    "code": "46",
+    "name": "Siciliana",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano, champignon, milho verde e bacon",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1534308983496-4fabb1a015ee",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-47",
+    "code": "47",
+    "name": "Vegetariana",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano, escarola, milho, champignon, palmito e ervilha",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1541745537411-b8046dc6d66c",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-48",
+    "code": "48",
+    "name": "Atum II",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano, atum e cebola",
+    "price": 37,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1601924582970-9238bcb495d9",
+    "groups": [],
+    "sizes": {
+      "broto": 37,
+      "grande": 47
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-49",
+    "code": "49",
+    "name": "Baiacatu",
+    "description": "Molho de tomate, azeitonas, orégano, calabresa moída, cebola, ovo, bacon, pimenta e parmesão",
+    "price": 37,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1585238342024-78d387f4a707",
+    "groups": [],
+    "sizes": {
+      "broto": 37,
+      "grande": 47
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-50",
+    "code": "50",
+    "name": "Brócolis especial",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano, brócolis, catupiry, bacon e alho frito",
+    "price": 38,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1576458088443-04a19bb13da6",
+    "groups": [],
+    "sizes": {
+      "broto": 38,
+      "grande": 48
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-51",
+    "code": "51",
+    "name": "Calabresa especial",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano, calabresa fatiada, bacon e catupiry",
+    "price": 38,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1598023696416-0193a0bcd302",
+    "groups": [],
+    "sizes": {
+      "broto": 38,
+      "grande": 48
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-52",
+    "code": "52",
+    "name": "Catupiry II",
+    "description": "Molho de tomate, azeitonas, orégano e catupiry coberto com batata palha",
+    "price": 37,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1593560708920-61dd98c46a4e",
+    "groups": [],
+    "sizes": {
+      "broto": 37,
+      "grande": 47
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-53",
+    "code": "53",
+    "name": "Carijó",
+    "description": "Molho de tomate, azeitonas, orégano, frango, catupiry, palmito e tomate seco",
+    "price": 39,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1513104890138-7c749659a591",
+    "groups": [],
+    "sizes": {
+      "broto": 39,
+      "grande": 49
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-54",
+    "code": "54",
+    "name": "Cinco queijos",
+    "description": "Molho de tomate, azeitonas, orégano, mussarela, parmesão, catupiry, provolone e cheddar",
+    "price": 38,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1565299624946-b28f40a0ae38",
+    "groups": [],
+    "sizes": {
+      "broto": 38,
+      "grande": 48
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-55",
+    "code": "55",
+    "name": "Diplomata",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano, lombo, catupiry, palmito e bacon",
+    "price": 38,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1574071318508-1cdbab80d002",
+    "groups": [],
+    "sizes": {
+      "broto": 38,
+      "grande": 48
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-56",
+    "code": "56",
+    "name": "Feitiço",
+    "description": "Molho de tomate, azeitonas, orégano, frango, palmito, bacon, milho, catupiry e tomate seco",
+    "price": 38,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1628840042765-356cda07504e",
+    "groups": [],
+    "sizes": {
+      "broto": 38,
+      "grande": 48
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-57",
+    "code": "57",
+    "name": "Francesa",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano, presunto, bacon, tomate e ovo",
+    "price": 38,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1594007654729-407eedc4be65",
+    "groups": [],
+    "sizes": {
+      "broto": 38,
+      "grande": 48
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-58",
+    "code": "58",
+    "name": "Frango II",
+    "description": "Molho de tomate, azeitonas, orégano, frango desfiado, milho e catupiry",
+    "price": 38,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1590947132387-155cc02f3212",
+    "groups": [],
+    "sizes": {
+      "broto": 38,
+      "grande": 47
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-59",
+    "code": "59",
+    "name": "Frango especial",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano, frango desfiado, bacon e catupiry",
+    "price": 38,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1534308983496-4fabb1a015ee",
+    "groups": [],
+    "sizes": {
+      "broto": 38,
+      "grande": 48
+    },
+    "family": "tradicional"
+  },
+  {
+    "id": "pizza-60",
+    "code": "60",
+    "name": "Atum III",
+    "description": "Molho de tomate, azeitonas, orégano, atum, cebola e catupiry",
+    "price": 43,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1541745537411-b8046dc6d66c",
+    "groups": [],
+    "sizes": {
+      "broto": 43,
+      "grande": 53
+    },
+    "family": "especial"
+  },
+  {
+    "id": "pizza-61",
+    "code": "61",
+    "name": "Light",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano, peito de peru, brócolis, palmito e milho",
+    "price": 43,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1601924582970-9238bcb495d9",
+    "groups": [],
+    "sizes": {
+      "broto": 43,
+      "grande": 53
+    },
+    "family": "especial"
+  },
+  {
+    "id": "pizza-62",
+    "code": "62",
+    "name": "Portuguesa II",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano, presunto moído, cebola, palmito, ervilha, milho e ovos",
+    "price": 43,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1585238342024-78d387f4a707",
+    "groups": [],
+    "sizes": {
+      "broto": 43,
+      "grande": 53
+    },
+    "family": "especial"
+  },
+  {
+    "id": "pizza-63",
+    "code": "63",
+    "name": "Seis queijos",
+    "description": "Molho de tomate, azeitonas, orégano, mussarela, catupiry, parmesão, gorgonzola, cheddar e provolone",
+    "price": 43,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1576458088443-04a19bb13da6",
+    "groups": [],
+    "sizes": {
+      "broto": 43,
+      "grande": 53
+    },
+    "family": "especial"
+  },
+  {
+    "id": "pizza-64",
+    "code": "64",
+    "name": "Abbondanza",
+    "description": "Molho de tomate, azeitonas, orégano, frango, catupiry, pepperoni, alho, bacon e tomate seco",
+    "price": 43,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1598023696416-0193a0bcd302",
+    "groups": [],
+    "sizes": {
+      "broto": 43,
+      "grande": 53
+    },
+    "family": "especial",
+    "featured": true
+  },
+  {
+    "id": "pizza-65",
+    "code": "65",
+    "name": "Peito de peru",
+    "description": "Molho de tomate, azeitonas, orégano, peito de peru e cebola, com mussarela ou catupiry (diga qual nas observações)",
+    "price": 43,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1593560708920-61dd98c46a4e",
+    "groups": [],
+    "sizes": {
+      "broto": 43,
+      "grande": 53
+    },
+    "family": "especial"
+  },
+  {
+    "id": "pizza-66",
+    "code": "66",
+    "name": "Peru especial",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano, peito de peru, catupiry, cebola e palmito",
+    "price": 43,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1513104890138-7c749659a591",
+    "groups": [],
+    "sizes": {
+      "broto": 43,
+      "grande": 53
+    },
+    "family": "especial"
+  },
+  {
+    "id": "pizza-67",
+    "code": "67",
+    "name": "Camarão",
+    "description": "Molho de tomate, azeitonas, orégano e camarão, com mussarela ou catupiry (diga qual nas observações)",
+    "price": 60,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1565299624946-b28f40a0ae38",
+    "groups": [],
+    "sizes": {
+      "broto": 60,
+      "grande": 70
+    },
+    "family": "especial"
+  },
+  {
+    "id": "pizza-68",
+    "code": "68",
+    "name": "Carne seca",
+    "description": "Molho de tomate, azeitonas, orégano, carne seca e cebola, com mussarela ou catupiry (diga qual nas observações)",
+    "price": 45,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1574071318508-1cdbab80d002",
+    "groups": [],
+    "sizes": {
+      "broto": 45,
+      "grande": 55
+    },
+    "family": "especial"
+  },
+  {
+    "id": "pizza-69",
+    "code": "69",
+    "name": "Monte sua pizza",
+    "description": "Peça até 5 ingredientes da sua escolha nas observações",
+    "price": 45,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1628840042765-356cda07504e",
+    "groups": [],
+    "sizes": {
+      "broto": 45,
+      "grande": 55
+    },
+    "family": "especial"
+  },
+  {
+    "id": "pizza-70",
+    "code": "70",
+    "name": "Nordestina",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano, carne seca, pimenta, cebola e ovo",
+    "price": 45,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1594007654729-407eedc4be65",
+    "groups": [],
+    "sizes": {
+      "broto": 45,
+      "grande": 55
+    },
+    "family": "especial"
+  },
+  {
+    "id": "pizza-71",
+    "code": "71",
+    "name": "Romana",
+    "description": "Molho de tomate, mussarela, azeitonas, orégano, aliche, tomate e parmesão",
+    "price": 45,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1590947132387-155cc02f3212",
+    "groups": [],
+    "sizes": {
+      "broto": 45,
+      "grande": 55
+    },
+    "family": "especial"
+  },
+  {
+    "id": "pizza-81",
+    "code": "81",
+    "name": "Baiacatu II",
+    "description": "Calabresa moída, ovo, catupiry e cebola",
+    "price": 35,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1534308983496-4fabb1a015ee",
+    "groups": [],
+    "sizes": {
+      "broto": 35,
+      "grande": 45
+    },
+    "family": "novidade"
+  },
+  {
+    "id": "pizza-82",
+    "code": "82",
+    "name": "4 queijos especial",
+    "description": "Mussarela, catupiry, provolone e gorgonzola",
+    "price": 41,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1541745537411-b8046dc6d66c",
+    "groups": [],
+    "sizes": {
+      "broto": 41,
+      "grande": 51
+    },
+    "family": "novidade"
+  },
+  {
+    "id": "pizza-83",
+    "code": "83",
+    "name": "Calabresa especial II",
+    "description": "Calabresa, catupiry, mussarela, provolone, parmesão, cheddar e bacon",
+    "price": 41,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1601924582970-9238bcb495d9",
+    "groups": [],
+    "sizes": {
+      "broto": 41,
+      "grande": 51
+    },
+    "family": "novidade"
+  },
+  {
+    "id": "pizza-84",
+    "code": "84",
+    "name": "Chilena",
+    "description": "Frango, milho, cheddar e bacon",
+    "price": 40,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1585238342024-78d387f4a707",
+    "groups": [],
+    "sizes": {
+      "broto": 40,
+      "grande": 50
+    },
+    "family": "novidade"
+  },
+  {
+    "id": "pizza-85",
+    "code": "85",
+    "name": "Americana",
+    "description": "Atum, palmito, mussarela, ovo, ervilha e bacon",
+    "price": 40,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1576458088443-04a19bb13da6",
+    "groups": [],
+    "sizes": {
+      "broto": 40,
+      "grande": 50
+    },
+    "family": "novidade"
+  },
+  {
+    "id": "pizza-86",
+    "code": "86",
+    "name": "Premium light",
+    "description": "Peito de peru, mussarela de búfala, rúcula, palmito e tomate seco",
+    "price": 45,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1598023696416-0193a0bcd302",
+    "groups": [],
+    "sizes": {
+      "broto": 45,
+      "grande": 55
+    },
+    "family": "novidade"
+  },
+  {
+    "id": "pizza-90",
+    "code": "90",
+    "name": "Peppercheddar",
+    "description": "Pepperoni, cheddar, bacon e mussarela",
+    "price": 38,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1593560708920-61dd98c46a4e",
+    "groups": [],
+    "sizes": {
+      "broto": 38,
+      "grande": 48
+    },
+    "family": "novidade"
+  },
+  {
+    "id": "pizza-91",
+    "code": "91",
+    "name": "Bacon barbecue",
+    "description": "Bacon, mussarela e barbecue",
+    "price": 38,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1513104890138-7c749659a591",
+    "groups": [],
+    "sizes": {
+      "broto": 38,
+      "grande": 48
+    },
+    "family": "novidade"
+  },
+  {
+    "id": "pizza-99",
+    "code": "99",
+    "name": "Baiana II",
+    "description": "Calabresa moída, ovo, cebola e pimenta biquinho",
+    "price": 35,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1565299624946-b28f40a0ae38",
+    "groups": [],
+    "sizes": {
+      "broto": 35,
+      "grande": 45
+    },
+    "family": "novidade"
+  },
+  {
+    "id": "pizza-101",
+    "code": "101",
+    "name": "Larica",
+    "description": "Batata frita, mussarela, calabresa, cheddar, bacon e parmesão",
+    "price": 41,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1574071318508-1cdbab80d002",
+    "groups": [],
+    "sizes": {
+      "broto": 41,
+      "grande": 51
+    },
+    "family": "novidade",
+    "featured": true
+  },
+  {
+    "id": "pizza-103",
+    "code": "103",
+    "name": "Frango especial II",
+    "description": "Frango, catupiry, cheddar e bacon",
+    "price": 38,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1628840042765-356cda07504e",
+    "groups": [],
+    "sizes": {
+      "broto": 38,
+      "grande": 48
+    },
+    "family": "novidade"
+  },
+  {
+    "id": "pizza-104",
+    "code": "104",
+    "name": "Pepperoni especial",
+    "description": "Pepperoni, mussarela, pimentão e cebola",
+    "price": 39,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1594007654729-407eedc4be65",
+    "groups": [],
+    "sizes": {
+      "broto": 39,
+      "grande": 49
+    },
+    "family": "novidade"
+  },
+  {
+    "id": "pizza-105",
+    "code": "105",
+    "name": "Abobrinha",
+    "description": "Abobrinha, mussarela e alho frito",
+    "price": 35,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1590947132387-155cc02f3212",
+    "groups": [],
+    "sizes": {
+      "broto": 35,
+      "grande": 45
+    },
+    "family": "novidade"
+  },
+  {
+    "id": "pizza-109",
+    "code": "109",
+    "name": "Primavera",
+    "description": "Frango, catupiry, milho, palmito e ervilha",
+    "price": 37,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1534308983496-4fabb1a015ee",
+    "groups": [],
+    "sizes": {
+      "broto": 37,
+      "grande": 47
+    },
+    "family": "novidade"
+  },
+  {
+    "id": "pizza-117",
+    "code": "117",
+    "name": "Frango Supreme",
+    "description": "Frango, catupiry, barbecue, bacon e palmito",
+    "price": 39,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1541745537411-b8046dc6d66c",
+    "groups": [],
+    "sizes": {
+      "broto": 39,
+      "grande": 49
+    },
+    "family": "novidade"
+  },
+  {
+    "id": "pizza-118",
+    "code": "118",
+    "name": "Doritos",
+    "description": "Frango, cheddar, mussarela e Doritos",
+    "price": 41,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1601924582970-9238bcb495d9",
+    "groups": [],
+    "sizes": {
+      "broto": 41,
+      "grande": 51
+    },
+    "family": "novidade"
+  },
+  {
+    "id": "pizza-119",
+    "code": "119",
+    "name": "Bacalhau",
+    "description": "Bacalhau com mussarela ou catupiry",
+    "price": 48,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1585238342024-78d387f4a707",
+    "groups": [],
+    "sizes": {
+      "broto": 48,
+      "grande": 58
+    },
+    "family": "novidade"
+  },
+  {
+    "id": "pizza-120",
+    "code": "120",
+    "name": "Costela",
+    "description": "Costela bovina desfiada, cebola, mussarela e pimenta biquinho",
+    "price": 44,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1576458088443-04a19bb13da6",
+    "groups": [],
+    "sizes": {
+      "broto": 44,
+      "grande": 54
+    },
+    "family": "novidade"
+  },
+  {
+    "id": "pizza-127",
+    "code": "127",
+    "name": "Banana da terra",
+    "description": "Banana da terra, carne seca, mussarela, catupiry e cebola",
+    "price": 49,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1598023696416-0193a0bcd302",
+    "groups": [],
+    "sizes": {
+      "broto": 49,
+      "grande": 59
+    },
+    "family": "novidade"
+  },
+  {
+    "id": "pizza-128",
+    "code": "128",
+    "name": "Brócolis especial II",
+    "description": "Brócolis, catupiry, bacon e peito de peru",
+    "price": 42,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1593560708920-61dd98c46a4e",
+    "groups": [],
+    "sizes": {
+      "broto": 42,
+      "grande": 52
+    },
+    "family": "novidade"
+  },
+  {
+    "id": "pizza-129",
+    "code": "129",
+    "name": "Temaki",
+    "description": "Atum, gergelim, molho tarê, cream cheese e cebolinha",
+    "price": 42,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1513104890138-7c749659a591",
+    "groups": [],
+    "sizes": {
+      "broto": 42,
+      "grande": 54
+    },
+    "family": "novidade"
+  },
+  {
+    "id": "pizza-131",
+    "code": "131",
+    "name": "Pernil",
+    "description": "Pernil suíno desfiado, cebola, barbecue e catupiry",
+    "price": 42,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1565299624946-b28f40a0ae38",
+    "groups": [],
+    "sizes": {
+      "broto": 42,
+      "grande": 52
+    },
+    "family": "novidade"
+  },
+  {
+    "id": "pizza-72",
+    "code": "72",
+    "name": "Amendoim",
+    "description": "Chocolate ao leite e amendoim",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1606313564200-e75d5e30476c",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "doce"
+  },
+  {
+    "id": "pizza-73",
+    "code": "73",
+    "name": "Banana",
+    "description": "Banana, canela e leite condensado",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1606313564200-e75d5e30476c",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "doce"
+  },
+  {
+    "id": "pizza-74",
+    "code": "74",
+    "name": "Brigadeiro",
+    "description": "Chocolate ao leite e granulado",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1606313564200-e75d5e30476c",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "doce"
+  },
+  {
+    "id": "pizza-75",
+    "code": "75",
+    "name": "Chocobana",
+    "description": "Banana e chocolate ao leite",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1606313564200-e75d5e30476c",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "doce"
+  },
+  {
+    "id": "pizza-76",
+    "code": "76",
+    "name": "Crocante",
+    "description": "Chocolate ao leite e bolinhas de cereal crocante",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1606313564200-e75d5e30476c",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "doce"
+  },
+  {
+    "id": "pizza-77",
+    "code": "77",
+    "name": "Confete",
+    "description": "Chocolate ao leite e confete",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1606313564200-e75d5e30476c",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "doce"
+  },
+  {
+    "id": "pizza-78",
+    "code": "78",
+    "name": "Prestígio",
+    "description": "Chocolate ao leite, leite condensado e coco ralado",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1606313564200-e75d5e30476c",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "doce"
+  },
+  {
+    "id": "pizza-79",
+    "code": "79",
+    "name": "Romeu e Julieta",
+    "description": "Goiabada com mussarela",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1606313564200-e75d5e30476c",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "doce"
+  },
+  {
+    "id": "pizza-80",
+    "code": "80",
+    "name": "Sensação",
+    "description": "Chocolate ao leite, morango e granulado de chocolate",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1606313564200-e75d5e30476c",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "doce",
+    "featured": true
+  },
+  {
+    "id": "pizza-87",
+    "code": "87",
+    "name": "Chocolate",
+    "description": "Chocolate ao leite",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1606313564200-e75d5e30476c",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "doce"
+  },
+  {
+    "id": "pizza-89",
+    "code": "89",
+    "name": "Mesclada",
+    "description": "Chocolate branco e chocolate ao leite",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1606313564200-e75d5e30476c",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "doce"
+  },
+  {
+    "id": "pizza-92",
+    "code": "92",
+    "name": "Sensação branco",
+    "description": "Chocolate branco com morango",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1606313564200-e75d5e30476c",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "doce"
+  },
+  {
+    "id": "pizza-93",
+    "code": "93",
+    "name": "Chocouva",
+    "description": "Uva verde e chocolate ao leite",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1606313564200-e75d5e30476c",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "doce"
+  },
+  {
+    "id": "pizza-94",
+    "code": "94",
+    "name": "Morangresco",
+    "description": "Chocolate branco, farofa de Negresco e morango",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1606313564200-e75d5e30476c",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "doce"
+  },
+  {
+    "id": "pizza-95",
+    "code": "95",
+    "name": "Três desejos",
+    "description": "Chocolate ao leite, chocolate branco e doce de leite",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1606313564200-e75d5e30476c",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "doce"
+  },
+  {
+    "id": "pizza-96",
+    "code": "96",
+    "name": "Paçoca",
+    "description": "Chocolate ao leite e paçoca",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1606313564200-e75d5e30476c",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "doce"
+  },
+  {
+    "id": "pizza-100",
+    "code": "100",
+    "name": "Kit Kat",
+    "description": "Chocolate ao leite, chocolate branco e barrinhas de Kit Kat branco",
+    "price": 41,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1606313564200-e75d5e30476c",
+    "groups": [],
+    "sizes": {
+      "broto": 41,
+      "grande": 51
+    },
+    "family": "doce"
+  },
+  {
+    "id": "pizza-102",
+    "code": "102",
+    "name": "Gotas de chocolate",
+    "description": "Chocolate branco e gotas de chocolate",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1606313564200-e75d5e30476c",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "doce"
+  },
+  {
+    "id": "pizza-106",
+    "code": "106",
+    "name": "Bis",
+    "description": "Bis, chocolate ao leite e chocolate branco",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1606313564200-e75d5e30476c",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "doce"
+  },
+  {
+    "id": "pizza-107",
+    "code": "107",
+    "name": "Brigadeiro colorido",
+    "description": "Chocolate branco e granulado colorido",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1606313564200-e75d5e30476c",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "doce"
+  },
+  {
+    "id": "pizza-108",
+    "code": "108",
+    "name": "Sensação duo",
+    "description": "Chocolate branco, chocolate ao leite e morango",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1606313564200-e75d5e30476c",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "doce"
+  },
+  {
+    "id": "pizza-113",
+    "code": "113",
+    "name": "Doce de leite II",
+    "description": "Doce de leite, mussarela e coco ralado",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1606313564200-e75d5e30476c",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "doce"
+  },
+  {
+    "id": "pizza-114",
+    "code": "114",
+    "name": "Uvagresco",
+    "description": "Chocolate branco, uva, farofa de Negresco e leite condensado",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1606313564200-e75d5e30476c",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "doce"
+  },
+  {
+    "id": "pizza-115",
+    "code": "115",
+    "name": "Chocolate branco",
+    "description": "Chocolate branco",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1606313564200-e75d5e30476c",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "doce"
+  },
+  {
+    "id": "pizza-116",
+    "code": "116",
+    "name": "Chokito",
+    "description": "Chocolate ao leite, doce de leite e bolinhas de arroz",
+    "price": 36,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1606313564200-e75d5e30476c",
+    "groups": [],
+    "sizes": {
+      "broto": 36,
+      "grande": 46
+    },
+    "family": "doce"
+  },
+  {
+    "id": "pizza-121",
+    "code": "121",
+    "name": "Caribe",
+    "description": "Mussarela, abacaxi, doce de leite e coco ralado",
+    "price": 37,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1606313564200-e75d5e30476c",
+    "groups": [],
+    "sizes": {
+      "broto": 37,
+      "grande": 48
+    },
+    "family": "doce"
+  },
+  {
+    "id": "pizza-122",
+    "code": "122",
+    "name": "Rocks",
+    "description": "Chocolate ao leite, chocolate branco e rocks de Ovomaltine",
+    "price": 42,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1606313564200-e75d5e30476c",
+    "groups": [],
+    "sizes": {
+      "broto": 42,
+      "grande": 52
+    },
+    "family": "doce"
+  },
+  {
+    "id": "pizza-126",
+    "code": "126",
+    "name": "Pistache",
+    "description": "Pistache, chocolate branco e amendoim",
+    "price": 40,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1606313564200-e75d5e30476c",
+    "groups": [],
+    "sizes": {
+      "broto": 40,
+      "grande": 50
+    },
+    "family": "doce"
+  },
+  {
+    "id": "pizza-130",
+    "code": "130",
+    "name": "Ouro Branco",
+    "description": "Chocolate branco, bombom Ouro Branco e chocolate ao leite",
+    "price": 40,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1606313564200-e75d5e30476c",
+    "groups": [],
+    "sizes": {
+      "broto": 40,
+      "grande": 50
+    },
+    "family": "doce"
+  },
+  {
+    "id": "pizza-133",
+    "code": "133",
+    "name": "Banana nevada",
+    "description": "Banana, creme de leite, chocolate branco gratinado e mussarela",
+    "price": 39,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1606313564200-e75d5e30476c",
+    "groups": [],
+    "sizes": {
+      "broto": 39,
+      "grande": 49
+    },
+    "family": "doce"
+  },
+  {
+    "id": "pizza-134",
+    "code": "134",
+    "name": "Churros",
+    "description": "Doce de leite, cookies granulado, churros com doce de leite, toque de chocolate ao leite, açúcar e canela",
+    "price": 48,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1606313564200-e75d5e30476c",
+    "groups": [],
+    "sizes": {
+      "broto": 48,
+      "grande": 58
+    },
+    "family": "doce"
+  },
+  {
+    "id": "pizza-135",
+    "code": "135",
+    "name": "Uva com Ninho",
+    "description": "Uva, leite Ninho e chocolate branco",
+    "price": 38,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1606313564200-e75d5e30476c",
+    "groups": [],
+    "sizes": {
+      "broto": 38,
+      "grande": 48
+    },
+    "family": "doce"
+  },
+  {
+    "id": "pizza-136",
+    "code": "136",
+    "name": "Kinder Bueno",
+    "description": "Creme de leite e avelã, Kinder Bueno, morango e chocolate ao leite",
+    "price": 48,
+    "categoryId": "pizzas",
+    "available": true,
+    "image": "1606313564200-e75d5e30476c",
+    "groups": [],
+    "sizes": {
+      "broto": 48,
+      "grande": 58
+    },
+    "family": "doce"
+  },
+  {
+    "id": "bebidas-coca-cola-lata",
+    "name": "Coca-Cola lata",
+    "description": "",
+    "price": 8,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1622483767028-3f66f32aef97",
+    "groups": [],
+    "tag": "Lata"
+  },
+  {
+    "id": "bebidas-coca-cola-zero-lata",
+    "name": "Coca-Cola Zero lata",
+    "description": "",
+    "price": 8,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1622483767028-3f66f32aef97",
+    "groups": [],
+    "tag": "Lata"
+  },
+  {
+    "id": "bebidas-fanta-laranja-lata",
+    "name": "Fanta Laranja lata",
+    "description": "",
+    "price": 8,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1622483767028-3f66f32aef97",
+    "groups": [],
+    "tag": "Lata"
+  },
+  {
+    "id": "bebidas-fanta-uva-lata",
+    "name": "Fanta Uva lata",
+    "description": "",
+    "price": 8,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1622483767028-3f66f32aef97",
+    "groups": [],
+    "tag": "Lata"
+  },
+  {
+    "id": "bebidas-guarana-antarctica-lata",
+    "name": "Guaraná Antarctica lata",
+    "description": "",
+    "price": 8,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1622483767028-3f66f32aef97",
+    "groups": [],
+    "tag": "Lata"
+  },
+  {
+    "id": "bebidas-sprite-lata",
+    "name": "Sprite lata",
+    "description": "",
+    "price": 8,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1622483767028-3f66f32aef97",
+    "groups": [],
+    "tag": "Lata"
+  },
+  {
+    "id": "bebidas-soda-lata",
+    "name": "Soda lata",
+    "description": "",
+    "price": 8,
+    "categoryId": "bebidas",
+    "available": false,
+    "image": "1622483767028-3f66f32aef97",
+    "groups": [],
+    "tag": "Lata"
+  },
+  {
+    "id": "bebidas-tonica-lata",
+    "name": "Tônica lata",
+    "description": "",
+    "price": 10,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1622483767028-3f66f32aef97",
+    "groups": [],
+    "tag": "Lata"
+  },
+  {
+    "id": "bebidas-schweppes-citrus-lata",
+    "name": "Schweppes Citrus lata",
+    "description": "",
+    "price": 10,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1622483767028-3f66f32aef97",
+    "groups": [],
+    "tag": "Lata"
+  },
+  {
+    "id": "bebidas-coca-cola-600ml",
+    "name": "Coca-Cola 600ml",
+    "description": "",
+    "price": 10,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1622483767028-3f66f32aef97",
+    "groups": [],
+    "tag": "600ml"
+  },
+  {
+    "id": "bebidas-coca-cola-zero-600ml",
+    "name": "Coca-Cola Zero 600ml",
+    "description": "",
+    "price": 10,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1622483767028-3f66f32aef97",
+    "groups": [],
+    "tag": "600ml"
+  },
+  {
+    "id": "bebidas-fanta-laranja-600ml",
+    "name": "Fanta Laranja 600ml",
+    "description": "",
+    "price": 10,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1622483767028-3f66f32aef97",
+    "groups": [],
+    "tag": "600ml"
+  },
+  {
+    "id": "bebidas-sprite-600ml",
+    "name": "Sprite 600ml",
+    "description": "",
+    "price": 10,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1622483767028-3f66f32aef97",
+    "groups": [],
+    "tag": "600ml"
+  },
+  {
+    "id": "bebidas-guarana-antarctica-600ml",
+    "name": "Guaraná Antarctica 600ml",
+    "description": "",
+    "price": 10,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1622483767028-3f66f32aef97",
+    "groups": [],
+    "tag": "600ml"
+  },
+  {
+    "id": "bebidas-guarana-zero-600ml",
+    "name": "Guaraná Zero 600ml",
+    "description": "",
+    "price": 10,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1622483767028-3f66f32aef97",
+    "groups": [],
+    "tag": "600ml"
+  },
+  {
+    "id": "bebidas-h2oh-limao-500ml",
+    "name": "H2OH! Limão 500ml",
+    "description": "",
+    "price": 9,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1622483767028-3f66f32aef97",
+    "groups": [],
+    "tag": "600ml"
+  },
+  {
+    "id": "bebidas-h2oh-limoneto-500ml",
+    "name": "H2OH! Limoneto 500ml",
+    "description": "",
+    "price": 9,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1622483767028-3f66f32aef97",
+    "groups": [],
+    "tag": "600ml"
+  },
+  {
+    "id": "bebidas-guarana-antarctica-1l",
+    "name": "Guaraná Antarctica 1L",
+    "description": "",
+    "price": 12,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1622483767028-3f66f32aef97",
+    "groups": [],
+    "tag": "1 litro"
+  },
+  {
+    "id": "bebidas-coca-cola-1l",
+    "name": "Coca-Cola 1L",
+    "description": "",
+    "price": 12,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1622483767028-3f66f32aef97",
+    "groups": [],
+    "tag": "1 litro"
+  },
+  {
+    "id": "bebidas-coca-cola-zero-1l",
+    "name": "Coca-Cola Zero 1L",
+    "description": "",
+    "price": 12,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1622483767028-3f66f32aef97",
+    "groups": [],
+    "tag": "1 litro"
+  },
+  {
+    "id": "bebidas-sprite-lemon-fresh-1-5l",
+    "name": "Sprite Lemon Fresh 1,5L",
+    "description": "",
+    "price": 11,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1622483767028-3f66f32aef97",
+    "groups": [],
+    "tag": "1 litro"
+  },
+  {
+    "id": "bebidas-coca-cola-2l",
+    "name": "Coca-Cola 2L",
+    "description": "",
+    "price": 18,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1622483767028-3f66f32aef97",
+    "groups": [],
+    "tag": "2 litros"
+  },
+  {
+    "id": "bebidas-coca-cola-zero-2l",
+    "name": "Coca-Cola Zero 2L",
+    "description": "",
+    "price": 20,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1622483767028-3f66f32aef97",
+    "groups": [],
+    "tag": "2 litros"
+  },
+  {
+    "id": "bebidas-fanta-laranja-2l",
+    "name": "Fanta Laranja 2L",
+    "description": "",
+    "price": 18,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1622483767028-3f66f32aef97",
+    "groups": [],
+    "tag": "2 litros"
+  },
+  {
+    "id": "bebidas-fanta-uva-2l",
+    "name": "Fanta Uva 2L",
+    "description": "",
+    "price": 18,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1622483767028-3f66f32aef97",
+    "groups": [],
+    "tag": "2 litros"
+  },
+  {
+    "id": "bebidas-guarana-antarctica-2l",
+    "name": "Guaraná Antarctica 2L",
+    "description": "",
+    "price": 18,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1622483767028-3f66f32aef97",
+    "groups": [],
+    "tag": "2 litros"
+  },
+  {
+    "id": "bebidas-guarana-antarctica-zero-2l",
+    "name": "Guaraná Antarctica Zero 2L",
+    "description": "",
+    "price": 19,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1622483767028-3f66f32aef97",
+    "groups": [],
+    "tag": "2 litros"
+  },
+  {
+    "id": "bebidas-sprite-2l",
+    "name": "Sprite 2L",
+    "description": "",
+    "price": 18,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1622483767028-3f66f32aef97",
+    "groups": [],
+    "tag": "2 litros"
+  },
+  {
+    "id": "bebidas-kuat-2l",
+    "name": "Kuat 2L",
+    "description": "",
+    "price": 15,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1622483767028-3f66f32aef97",
+    "groups": [],
+    "tag": "2 litros"
+  },
+  {
+    "id": "bebidas-dolly-limao-2l",
+    "name": "Dolly Limão 2L",
+    "description": "",
+    "price": 12,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1622483767028-3f66f32aef97",
+    "groups": [],
+    "tag": "2 litros"
+  },
+  {
+    "id": "bebidas-dolly-guarana-2l",
+    "name": "Dolly Guaraná 2L",
+    "description": "",
+    "price": 12,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1622483767028-3f66f32aef97",
+    "groups": [],
+    "tag": "2 litros"
+  },
+  {
+    "id": "bebidas-suco-natural-de-laranja-500ml",
+    "name": "Suco natural de laranja 500ml",
+    "description": "",
+    "price": 15,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1600271886742-f049cd451bba",
+    "groups": [],
+    "tag": "Sucos e água"
+  },
+  {
+    "id": "bebidas-suco-natural-de-limao-500ml",
+    "name": "Suco natural de limão 500ml",
+    "description": "",
+    "price": 15,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1600271886742-f049cd451bba",
+    "groups": [],
+    "tag": "Sucos e água"
+  },
+  {
+    "id": "bebidas-suco-natural-de-laranja-1l",
+    "name": "Suco natural de laranja 1L",
+    "description": "",
+    "price": 20,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1600271886742-f049cd451bba",
+    "groups": [],
+    "tag": "Sucos e água"
+  },
+  {
+    "id": "bebidas-suco-natural-de-limao-1l",
+    "name": "Suco natural de limão 1L",
+    "description": "",
+    "price": 20,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1600271886742-f049cd451bba",
+    "groups": [],
+    "tag": "Sucos e água"
+  },
+  {
+    "id": "bebidas-del-valle-uva-1l",
+    "name": "Del Valle Uva 1L",
+    "description": "",
+    "price": 10,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1600271886742-f049cd451bba",
+    "groups": [],
+    "tag": "Sucos e água"
+  },
+  {
+    "id": "bebidas-del-valle-laranja-1l",
+    "name": "Del Valle Laranja 1L",
+    "description": "",
+    "price": 10,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1600271886742-f049cd451bba",
+    "groups": [],
+    "tag": "Sucos e água"
+  },
+  {
+    "id": "bebidas-suco-lata-goiaba",
+    "name": "Suco lata goiaba",
+    "description": "",
+    "price": 8,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1600271886742-f049cd451bba",
+    "groups": [],
+    "tag": "Sucos e água"
+  },
+  {
+    "id": "bebidas-suco-lata-pessego",
+    "name": "Suco lata pêssego",
+    "description": "",
+    "price": 8,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1600271886742-f049cd451bba",
+    "groups": [],
+    "tag": "Sucos e água"
+  },
+  {
+    "id": "bebidas-suco-lata-uva",
+    "name": "Suco lata uva",
+    "description": "",
+    "price": 8,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1600271886742-f049cd451bba",
+    "groups": [],
+    "tag": "Sucos e água"
+  },
+  {
+    "id": "bebidas-limonada",
+    "name": "Limonada",
+    "description": "",
+    "price": 8,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1600271886742-f049cd451bba",
+    "groups": [],
+    "tag": "Sucos e água"
+  },
+  {
+    "id": "bebidas-limonada-pink",
+    "name": "Limonada pink",
+    "description": "",
+    "price": 8,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1600271886742-f049cd451bba",
+    "groups": [],
+    "tag": "Sucos e água"
+  },
+  {
+    "id": "bebidas-limonada-tropical",
+    "name": "Limonada tropical",
+    "description": "",
+    "price": 8,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1600271886742-f049cd451bba",
+    "groups": [],
+    "tag": "Sucos e água"
+  },
+  {
+    "id": "bebidas-agua-sem-gas-500ml",
+    "name": "Água sem gás 500ml",
+    "description": "",
+    "price": 3.5,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1600271886742-f049cd451bba",
+    "groups": [],
+    "tag": "Sucos e água"
+  },
+  {
+    "id": "bebidas-agua-com-gas-500ml",
+    "name": "Água com gás 500ml",
+    "description": "",
+    "price": 5,
+    "categoryId": "bebidas",
+    "available": true,
+    "image": "1600271886742-f049cd451bba",
+    "groups": [],
+    "tag": "Sucos e água"
+  },
+  {
+    "id": "cervejas-heineken-long-neck",
+    "name": "Heineken long neck",
+    "description": "",
+    "price": 10,
+    "categoryId": "cervejas",
+    "available": true,
+    "image": "1608270586620-248524c67de9",
+    "groups": [],
+    "tag": "Long neck"
+  },
+  {
+    "id": "cervejas-corona-long-neck",
+    "name": "Corona long neck",
+    "description": "",
+    "price": 10,
+    "categoryId": "cervejas",
+    "available": true,
+    "image": "1535958636474-b021ee887b13",
+    "groups": [],
+    "tag": "Long neck"
+  },
+  {
+    "id": "cervejas-budweiser-long-neck",
+    "name": "Budweiser long neck",
+    "description": "",
+    "price": 10,
+    "categoryId": "cervejas",
+    "available": true,
+    "image": "1608270586620-248524c67de9",
+    "groups": [],
+    "tag": "Long neck"
+  },
+  {
+    "id": "cervejas-heineken-269ml",
+    "name": "Heineken 269ml",
+    "description": "",
+    "price": 7,
+    "categoryId": "cervejas",
+    "available": true,
+    "image": "1535958636474-b021ee887b13",
+    "groups": [],
+    "tag": "Lata"
+  },
+  {
+    "id": "cervejas-brahma-duplo-malte-269ml",
+    "name": "Brahma Duplo Malte 269ml",
+    "description": "",
+    "price": 6,
+    "categoryId": "cervejas",
+    "available": true,
+    "image": "1608270586620-248524c67de9",
+    "groups": [],
+    "tag": "Lata"
+  },
+  {
+    "id": "cervejas-budweiser-269ml",
+    "name": "Budweiser 269ml",
+    "description": "",
+    "price": 6,
+    "categoryId": "cervejas",
+    "available": true,
+    "image": "1535958636474-b021ee887b13",
+    "groups": [],
+    "tag": "Lata"
+  },
+  {
+    "id": "cervejas-heineken-350ml",
+    "name": "Heineken 350ml",
+    "description": "",
+    "price": 8,
+    "categoryId": "cervejas",
+    "available": true,
+    "image": "1608270586620-248524c67de9",
+    "groups": [],
+    "tag": "Lata"
+  },
+  {
+    "id": "cervejas-budweiser-350ml",
+    "name": "Budweiser 350ml",
+    "description": "",
+    "price": 7,
+    "categoryId": "cervejas",
+    "available": true,
+    "image": "1535958636474-b021ee887b13",
+    "groups": [],
+    "tag": "Lata"
+  },
+  {
+    "id": "cervejas-skol-350ml",
+    "name": "Skol 350ml",
+    "description": "",
+    "price": 6,
+    "categoryId": "cervejas",
+    "available": false,
+    "image": "1608270586620-248524c67de9",
+    "groups": [],
+    "tag": "Lata"
+  }
+]

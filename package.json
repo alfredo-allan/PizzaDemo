@@ -1,0 +1,31 @@
+{
+  "name": "abbondanza-delivery",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "mocks": "node scripts/build-mocks.mjs"
+  },
+  "dependencies": {
+    "@fontsource-variable/archivo": "^5.1.0",
+    "@gsap/react": "^2.1.1",
+    "gsap": "^3.12.5",
+    "lucide-react": "^0.460.0",
+    "next": "^15.1.0",
+    "nodemailer": "^6.9.16",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "@types/nodemailer": "^6.4.17",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.16",
+    "typescript": "^5.7.2"
+  }
+}

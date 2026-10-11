@@ -1,0 +1,126 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --bg: 251 250 248;
+    --surface: 255 255 255;
+    --sunken: 242 239 233;
+    --ink: 30 26 23;
+    --muted: 107 98 91;
+    --line: 228 223 214;
+    --molho: 212 42 28;
+    --molho-ink: 255 255 255;
+    --basil: 23 104 66;
+    --gema: 255 196 46;
+    color-scheme: light;
+  }
+  .dark {
+    --bg: 23 19 17;
+    --surface: 33 28 25;
+    --sunken: 43 37 33;
+    --ink: 246 241 234;
+    --muted: 172 162 153;
+    --line: 60 52 47;
+    --molho: 240 69 47;
+    --molho-ink: 255 255 255;
+    --basil: 92 184 134;
+    --gema: 255 196 46;
+    color-scheme: dark;
+  }
+
+  html {
+    scroll-padding-top: 9rem;
+    -webkit-text-size-adjust: 100%;
+  }
+  body {
+    @apply bg-bg text-ink antialiased;
+    font-family: 'Archivo Variable', system-ui, sans-serif;
+    font-feature-settings: 'tnum' 1;
+  }
+  ::selection {
+    background: rgb(var(--gema));
+    color: #1e1a17;
+  }
+  :focus-visible {
+    outline: 3px solid rgb(var(--gema));
+    outline-offset: 2px;
+    border-radius: 6px;
+  }
+  input, select, textarea {
+    font: inherit;
+  }
+}
+
+@layer components {
+  /* Letreiro: a mesma família, comprimida e pesada. É a voz dos títulos. */
+  .letreiro {
+    font-stretch: 62%;
+    font-weight: 800;
+    line-height: 0.92;
+    letter-spacing: -0.012em;
+    text-wrap: balance;
+  }
+  .numero {
+    font-stretch: 62%;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .btn {
+    @apply inline-flex min-h-11 items-center justify-center gap-2 rounded-full px-5 text-[15px] font-semibold transition-[transform,background-color,color,box-shadow] duration-150 active:scale-[0.97] disabled:pointer-events-none disabled:opacity-45;
+  }
+  .btn-primary {
+    @apply btn bg-molho text-molho-ink hover:brightness-110;
+  }
+  .btn-ink {
+    @apply btn bg-ink text-bg hover:opacity-90;
+  }
+  .btn-ghost {
+    @apply btn border border-line bg-surface text-ink hover:border-ink;
+  }
+  .btn-gema {
+    @apply btn bg-gema text-[#1e1a17] hover:brightness-105;
+  }
+
+  .field {
+    @apply h-12 w-full rounded-field border border-line bg-surface px-3.5 text-[15px] text-ink placeholder:text-muted/70 transition-colors focus:border-ink focus:outline-none;
+  }
+  .field-label {
+    @apply mb-1.5 block text-sm font-medium text-ink;
+  }
+  .card {
+    @apply rounded-card border border-line bg-surface;
+  }
+  .chip {
+    @apply inline-flex items-center gap-1.5 whitespace-nowrap rounded-full px-2.5 py-1 text-xs font-semibold;
+  }
+  .page {
+    @apply mx-auto w-full max-w-page px-4 sm:px-6;
+  }
+}
+
+@layer utilities {
+  .no-scrollbar::-webkit-scrollbar { display: none; }
+  .no-scrollbar { scrollbar-width: none; }
+  .pb-safe { padding-bottom: max(1rem, env(safe-area-inset-bottom)); }
+}
+
+/* Entradas de painéis: respondem a uma ação da pessoa. */
+@keyframes sheet-in { from { transform: translateX(100%); } to { transform: translateX(0); } }
+@keyframes rise-in { from { transform: translateY(24px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
+@keyframes fade-in { from { opacity: 0; } to { opacity: 1; } }
+@keyframes bump { 0% { transform: scale(1); } 40% { transform: scale(1.35); } 100% { transform: scale(1); } }
+.anim-sheet { animation: sheet-in 0.32s cubic-bezier(0.2, 0.8, 0.2, 1); }
+.anim-rise { animation: rise-in 0.3s cubic-bezier(0.2, 0.8, 0.2, 1); }
+.anim-fade { animation: fade-in 0.2s ease-out; }
+.anim-bump { animation: bump 0.4s ease-out; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

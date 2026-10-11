@@ -1,0 +1,88 @@
+[
+  {
+    "id": "promocoes",
+    "name": "Promoções",
+    "kind": "grid",
+    "note": "Válidas no dia indicado, exceto vésperas e feriados."
+  },
+  {
+    "id": "pizzas",
+    "name": "Pizzas",
+    "kind": "pizza",
+    "note": "Grande com 8 fatias ou broto com 4. Até 2 sabores por pizza."
+  },
+  {
+    "id": "esfihas-salgadas",
+    "name": "Esfihas salgadas",
+    "kind": "compact"
+  },
+  {
+    "id": "esfihas-doces",
+    "name": "Esfihas doces",
+    "kind": "compact"
+  },
+  {
+    "id": "lanches",
+    "name": "Lanches",
+    "kind": "grid",
+    "note": "Maionese da casa temperada com alho, cebola e salsa."
+  },
+  {
+    "id": "lanches-artesanais",
+    "name": "Artesanais",
+    "kind": "grid",
+    "note": "Hambúrguer artesanal de 130g, pão selado na manteiga."
+  },
+  {
+    "id": "beirutes",
+    "name": "Beirutes",
+    "kind": "grid"
+  },
+  {
+    "id": "porcoes",
+    "name": "Porções",
+    "kind": "grid"
+  },
+  {
+    "id": "combos",
+    "name": "Combos",
+    "kind": "grid"
+  },
+  {
+    "id": "combos-artesanais",
+    "name": "Combos artesanais",
+    "kind": "grid"
+  },
+  {
+    "id": "marmitex",
+    "name": "Marmitex",
+    "kind": "grid",
+    "note": "Servido no almoço, das 10h30 às 14h30."
+  },
+  {
+    "id": "prato-do-dia",
+    "name": "Prato do dia",
+    "kind": "compact",
+    "note": "Um cardápio para cada dia da semana, no almoço."
+  },
+  {
+    "id": "sobremesas",
+    "name": "Sobremesas",
+    "kind": "grid"
+  },
+  {
+    "id": "bebidas",
+    "name": "Bebidas",
+    "kind": "compact"
+  },
+  {
+    "id": "cervejas",
+    "name": "Cervejas",
+    "kind": "compact"
+  },
+  {
+    "id": "vinhos",
+    "name": "Vinhos",
+    "kind": "compact"
+  }
+]

@@ -1,0 +1,1007 @@
+[
+  {
+    "id": "o-1841",
+    "number": 1841,
+    "customerId": "u-9",
+    "customerName": "Bianca Leme",
+    "phone": "11978801456",
+    "items": [
+      {
+        "productId": "pizza-04",
+        "name": "Pizza grande Calabresa + Marguerita",
+        "qty": 1,
+        "unitPrice": 44,
+        "details": [
+          "Borda de catupiry"
+        ],
+        "image": "1628840042765-356cda07504e"
+      },
+      {
+        "productId": "bebidas-coca-cola-2l",
+        "name": "Coca-Cola 2L",
+        "qty": 1,
+        "unitPrice": 18,
+        "details": [],
+        "image": "1622483767028-3f66f32aef97"
+      }
+    ],
+    "subtotal": 62,
+    "deliveryFee": 8,
+    "total": 70,
+    "mode": "entrega",
+    "address": {
+      "id": "a1",
+      "label": "República",
+      "cep": "04266060",
+      "street": "Rua Silva Bueno",
+      "number": "1811",
+      "complement": "Fundos",
+      "district": "Ipiranga",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "payment": {
+      "method": "pix",
+      "status": "aprovado"
+    },
+    "status": "recebido",
+    "minutesAgo": 6,
+    "history": [
+      {
+        "status": "recebido",
+        "minutesAgo": 6
+      }
+    ]
+  },
+  {
+    "id": "o-1842",
+    "number": 1842,
+    "customerId": "u-6",
+    "customerName": "Thiago Brandão",
+    "phone": "11983326610",
+    "items": [
+      {
+        "productId": "lanches-artesanais-590",
+        "name": "Bacon Turbo",
+        "qty": 2,
+        "unitPrice": 27,
+        "details": [
+          "Brioche",
+          "Ao ponto"
+        ],
+        "image": "1565299507177-b0ac66763828"
+      },
+      {
+        "productId": "porcoes-253",
+        "name": "Batata frita 400g",
+        "qty": 1,
+        "unitPrice": 22,
+        "details": [],
+        "image": "1573080496219-bb080dd4f877"
+      }
+    ],
+    "subtotal": 76,
+    "deliveryFee": 8,
+    "total": 84,
+    "mode": "entrega",
+    "address": {
+      "id": "a1",
+      "label": "Casa",
+      "cep": "04230000",
+      "street": "Avenida Almirante Delamare",
+      "number": "1574",
+      "complement": "Bloco B, apto 14",
+      "district": "Cidade Nova Heliópolis",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "payment": {
+      "method": "cartao",
+      "status": "aprovado",
+      "brand": "Mastercard",
+      "last4": "5682"
+    },
+    "status": "recebido",
+    "minutesAgo": 14,
+    "history": [
+      {
+        "status": "recebido",
+        "minutesAgo": 14
+      }
+    ]
+  },
+  {
+    "id": "o-1843",
+    "number": 1843,
+    "customerId": "u-3",
+    "customerName": "Marina Tavares",
+    "phone": "11991230045",
+    "items": [
+      {
+        "productId": "combos-450",
+        "name": "Combo Casal",
+        "qty": 1,
+        "unitPrice": 52,
+        "details": [
+          "Brigadeiro",
+          "Prestígio"
+        ],
+        "image": "1594212699903-ec8a3eca50f5"
+      },
+      {
+        "productId": "esfihas-salgadas-329",
+        "name": "Carne",
+        "qty": 6,
+        "unitPrice": 4.25,
+        "details": [],
+        "image": "1548369937-47519962c11a"
+      }
+    ],
+    "subtotal": 77.5,
+    "deliveryFee": 6,
+    "total": 83.5,
+    "mode": "entrega",
+    "address": {
+      "id": "a1",
+      "label": "Casa",
+      "cep": "04243000",
+      "street": "Rua Padre Arlindo Vieira",
+      "number": "215",
+      "complement": "",
+      "district": "Vila Vermelha",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "payment": {
+      "method": "maquininha",
+      "status": "na entrega"
+    },
+    "status": "preparo",
+    "minutesAgo": 22,
+    "history": [
+      {
+        "status": "recebido",
+        "minutesAgo": 22
+      },
+      {
+        "status": "preparo",
+        "minutesAgo": 8
+      }
+    ]
+  },
+  {
+    "id": "o-1844",
+    "number": 1844,
+    "customerId": "u-cliente",
+    "customerName": "Cliente Demo",
+    "phone": "11987650001",
+    "items": [
+      {
+        "productId": "pizza-64",
+        "name": "Pizza grande Abbondanza",
+        "qty": 1,
+        "unitPrice": 53,
+        "details": [],
+        "image": "1598023696416-0193a0bcd302"
+      },
+      {
+        "productId": "pizza-80",
+        "name": "Pizza broto Sensação",
+        "qty": 1,
+        "unitPrice": 36,
+        "details": [],
+        "image": "1606313564200-e75d5e30476c"
+      },
+      {
+        "productId": "bebidas-guarana-antarctica-2l",
+        "name": "Guaraná Antarctica 2L",
+        "qty": 1,
+        "unitPrice": 18,
+        "details": [],
+        "image": "1622483767028-3f66f32aef97"
+      }
+    ],
+    "subtotal": 107,
+    "deliveryFee": 5,
+    "total": 112,
+    "mode": "entrega",
+    "address": {
+      "id": "a1",
+      "label": "Casa",
+      "cep": "04255000",
+      "street": "Rua São João Clímaco",
+      "number": "480",
+      "complement": "Apto 32",
+      "district": "São João Clímaco",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "payment": {
+      "method": "pix",
+      "status": "aprovado"
+    },
+    "status": "preparo",
+    "minutesAgo": 31,
+    "history": [
+      {
+        "status": "recebido",
+        "minutesAgo": 31
+      },
+      {
+        "status": "preparo",
+        "minutesAgo": 17
+      }
+    ]
+  },
+  {
+    "id": "o-1845",
+    "number": 1845,
+    "customerId": "u-5",
+    "customerName": "Dona Cida Ferraz",
+    "phone": "11955507731",
+    "items": [
+      {
+        "productId": "beirutes-252",
+        "name": "Beirute Contra filé",
+        "qty": 1,
+        "unitPrice": 31,
+        "details": [],
+        "image": "1553909489-cd47e0907980"
+      },
+      {
+        "productId": "bebidas-suco-natural-de-laranja-500ml",
+        "name": "Suco natural de laranja 500ml",
+        "qty": 1,
+        "unitPrice": 15,
+        "details": [],
+        "image": "1600271886742-f049cd451bba"
+      }
+    ],
+    "subtotal": 46,
+    "deliveryFee": 5,
+    "total": 51,
+    "mode": "entrega",
+    "address": {
+      "id": "a1",
+      "label": "Casa",
+      "cep": "04240010",
+      "street": "Rua Luís Abbondanza",
+      "number": "112",
+      "complement": "",
+      "district": "São João Clímaco",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "payment": {
+      "method": "dinheiro",
+      "status": "na entrega",
+      "changeFor": 100
+    },
+    "status": "entrega",
+    "minutesAgo": 38,
+    "history": [
+      {
+        "status": "recebido",
+        "minutesAgo": 38
+      },
+      {
+        "status": "preparo",
+        "minutesAgo": 24
+      },
+      {
+        "status": "entrega",
+        "minutesAgo": 10
+      }
+    ]
+  },
+  {
+    "id": "o-1846",
+    "number": 1846,
+    "customerId": "u-8",
+    "customerName": "Seu Agenor Pinto",
+    "phone": "11940028922",
+    "items": [
+      {
+        "productId": "esfihas-salgadas-330",
+        "name": "Queijo",
+        "qty": 8,
+        "unitPrice": 4.5,
+        "details": [],
+        "image": "1548369937-47519962c11a"
+      },
+      {
+        "productId": "esfihas-salgadas-333",
+        "name": "Frango com catupiry",
+        "qty": 6,
+        "unitPrice": 4.5,
+        "details": [],
+        "image": "1548369937-47519962c11a"
+      },
+      {
+        "productId": "esfihas-doces-337",
+        "name": "Brigadeiro",
+        "qty": 4,
+        "unitPrice": 5.25,
+        "details": [],
+        "image": "1548369937-47519962c11a"
+      },
+      {
+        "productId": "bebidas-guarana-antarctica-1l",
+        "name": "Guaraná Antarctica 1L",
+        "qty": 1,
+        "unitPrice": 12,
+        "details": [],
+        "image": "1622483767028-3f66f32aef97"
+      }
+    ],
+    "subtotal": 96,
+    "deliveryFee": 6,
+    "total": 102,
+    "mode": "entrega",
+    "address": {
+      "id": "a1",
+      "label": "Casa",
+      "cep": "04253000",
+      "street": "Rua Vergueiro",
+      "number": "8800",
+      "complement": "",
+      "district": "Vila Firmiano Pinto",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "payment": {
+      "method": "maquininha",
+      "status": "na entrega"
+    },
+    "status": "entrega",
+    "minutesAgo": 47,
+    "history": [
+      {
+        "status": "recebido",
+        "minutesAgo": 47
+      },
+      {
+        "status": "preparo",
+        "minutesAgo": 33
+      },
+      {
+        "status": "entrega",
+        "minutesAgo": 19
+      }
+    ]
+  },
+  {
+    "id": "o-1847",
+    "number": 1847,
+    "customerId": "u-4",
+    "customerName": "Rogério Nakamura",
+    "phone": "11974410882",
+    "items": [
+      {
+        "productId": "lanches-245",
+        "name": "X-Abbondanza",
+        "qty": 2,
+        "unitPrice": 26,
+        "details": [
+          "Com gergelim"
+        ],
+        "image": "1568901346375-23c9450c58cd"
+      },
+      {
+        "productId": "porcoes-351",
+        "name": "Anéis de cebola 500g",
+        "qty": 1,
+        "unitPrice": 27,
+        "details": [],
+        "image": "1639024471283-03518883512d"
+      },
+      {
+        "productId": "cervejas-heineken-long-neck",
+        "name": "Heineken long neck",
+        "qty": 4,
+        "unitPrice": 10,
+        "details": [],
+        "image": "1608270586620-248524c67de9"
+      }
+    ],
+    "subtotal": 119,
+    "deliveryFee": 0,
+    "total": 119,
+    "mode": "retirada",
+    "address": null,
+    "payment": {
+      "method": "cartao",
+      "status": "aprovado",
+      "brand": "Mastercard",
+      "last4": "5682"
+    },
+    "status": "entregue",
+    "minutesAgo": 95,
+    "history": [
+      {
+        "status": "recebido",
+        "minutesAgo": 95
+      },
+      {
+        "status": "preparo",
+        "minutesAgo": 81
+      },
+      {
+        "status": "entrega",
+        "minutesAgo": 67
+      },
+      {
+        "status": "entregue",
+        "minutesAgo": 53
+      }
+    ]
+  },
+  {
+    "id": "o-1848",
+    "number": 1848,
+    "customerId": "u-7",
+    "customerName": "Larissa Okoye",
+    "phone": "11996647120",
+    "items": [
+      {
+        "productId": "pizza-45",
+        "name": "Pizza grande Quatro queijos + Calabresa II",
+        "qty": 1,
+        "unitPrice": 46,
+        "details": [
+          "Borda de cheddar"
+        ],
+        "image": "1590947132387-155cc02f3212"
+      },
+      {
+        "productId": "sobremesas-273",
+        "name": "Torta holandesa 80g",
+        "qty": 2,
+        "unitPrice": 9.99,
+        "details": [],
+        "image": "1563805042-7684c019e1cb"
+      }
+    ],
+    "subtotal": 65.98,
+    "deliveryFee": 12,
+    "total": 77.98,
+    "mode": "entrega",
+    "address": {
+      "id": "a1",
+      "label": "Casa",
+      "cep": "09550000",
+      "street": "Rua Visconde de Inhaúma",
+      "number": "87",
+      "complement": "",
+      "district": "Oswaldo Cruz",
+      "city": "São Caetano do Sul",
+      "state": "SP"
+    },
+    "payment": {
+      "method": "pix",
+      "status": "aprovado"
+    },
+    "status": "entregue",
+    "minutesAgo": 160,
+    "history": [
+      {
+        "status": "recebido",
+        "minutesAgo": 160
+      },
+      {
+        "status": "preparo",
+        "minutesAgo": 146
+      },
+      {
+        "status": "entrega",
+        "minutesAgo": 132
+      },
+      {
+        "status": "entregue",
+        "minutesAgo": 118
+      }
+    ]
+  },
+  {
+    "id": "o-1849",
+    "number": 1849,
+    "customerId": "u-cliente",
+    "customerName": "Cliente Demo",
+    "phone": "11987650001",
+    "items": [
+      {
+        "productId": "combos-artesanais-598",
+        "name": "Combo Family",
+        "qty": 1,
+        "unitPrice": 103,
+        "details": [],
+        "image": "1594212699903-ec8a3eca50f5"
+      },
+      {
+        "productId": "sobremesas-279",
+        "name": "Torta de abacaxi 80g",
+        "qty": 1,
+        "unitPrice": 9.99,
+        "details": [],
+        "image": "1488477181946-6428a0291777"
+      }
+    ],
+    "subtotal": 112.99,
+    "deliveryFee": 5,
+    "total": 117.99,
+    "mode": "entrega",
+    "address": {
+      "id": "a1",
+      "label": "Casa",
+      "cep": "04255000",
+      "street": "Rua São João Clímaco",
+      "number": "480",
+      "complement": "Apto 32",
+      "district": "São João Clímaco",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "payment": {
+      "method": "cartao",
+      "status": "aprovado",
+      "brand": "Mastercard",
+      "last4": "5682"
+    },
+    "status": "entregue",
+    "minutesAgo": 1480,
+    "history": [
+      {
+        "status": "recebido",
+        "minutesAgo": 1480
+      },
+      {
+        "status": "preparo",
+        "minutesAgo": 1466
+      },
+      {
+        "status": "entrega",
+        "minutesAgo": 1452
+      },
+      {
+        "status": "entregue",
+        "minutesAgo": 1438
+      }
+    ]
+  },
+  {
+    "id": "o-1850",
+    "number": 1850,
+    "customerId": "u-3",
+    "customerName": "Marina Tavares",
+    "phone": "11991230045",
+    "items": [
+      {
+        "productId": "marmitex-contra-file",
+        "name": "Contra filé",
+        "qty": 2,
+        "unitPrice": 30,
+        "details": [
+          "Batata frita"
+        ],
+        "image": "1432139555190-58524dae6a55"
+      },
+      {
+        "productId": "bebidas-coca-cola-lata",
+        "name": "Coca-Cola lata",
+        "qty": 2,
+        "unitPrice": 8,
+        "details": [],
+        "image": "1622483767028-3f66f32aef97"
+      }
+    ],
+    "subtotal": 76,
+    "deliveryFee": 6,
+    "total": 82,
+    "mode": "entrega",
+    "address": {
+      "id": "a1",
+      "label": "Casa",
+      "cep": "04243000",
+      "street": "Rua Padre Arlindo Vieira",
+      "number": "215",
+      "complement": "",
+      "district": "Vila Vermelha",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "payment": {
+      "method": "pix",
+      "status": "aprovado"
+    },
+    "status": "entregue",
+    "minutesAgo": 1560,
+    "history": [
+      {
+        "status": "recebido",
+        "minutesAgo": 1560
+      },
+      {
+        "status": "preparo",
+        "minutesAgo": 1546
+      },
+      {
+        "status": "entrega",
+        "minutesAgo": 1532
+      },
+      {
+        "status": "entregue",
+        "minutesAgo": 1518
+      }
+    ]
+  },
+  {
+    "id": "o-1851",
+    "number": 1851,
+    "customerId": "u-6",
+    "customerName": "Thiago Brandão",
+    "phone": "11983326610",
+    "items": [
+      {
+        "productId": "pizza-67",
+        "name": "Pizza grande Camarão",
+        "qty": 1,
+        "unitPrice": 70,
+        "details": [],
+        "image": "1565299624946-b28f40a0ae38"
+      }
+    ],
+    "subtotal": 70,
+    "deliveryFee": 8,
+    "total": 78,
+    "mode": "entrega",
+    "address": {
+      "id": "a1",
+      "label": "Casa",
+      "cep": "04230000",
+      "street": "Avenida Almirante Delamare",
+      "number": "1574",
+      "complement": "Bloco B, apto 14",
+      "district": "Cidade Nova Heliópolis",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "payment": {
+      "method": "pix",
+      "status": "aprovado"
+    },
+    "status": "cancelado",
+    "minutesAgo": 1640,
+    "history": [
+      {
+        "status": "recebido",
+        "minutesAgo": 1640
+      },
+      {
+        "status": "cancelado",
+        "minutesAgo": 1626
+      }
+    ]
+  },
+  {
+    "id": "o-1852",
+    "number": 1852,
+    "customerId": "u-5",
+    "customerName": "Dona Cida Ferraz",
+    "phone": "11955507731",
+    "items": [
+      {
+        "productId": "porcoes-254",
+        "name": "Frango a passarinho 500g",
+        "qty": 1,
+        "unitPrice": 39,
+        "details": [],
+        "image": "1562967914-608f82629710"
+      },
+      {
+        "productId": "porcoes-253",
+        "name": "Batata frita 400g",
+        "qty": 1,
+        "unitPrice": 22,
+        "details": [],
+        "image": "1573080496219-bb080dd4f877"
+      },
+      {
+        "productId": "bebidas-coca-cola-2l",
+        "name": "Coca-Cola 2L",
+        "qty": 1,
+        "unitPrice": 18,
+        "details": [],
+        "image": "1622483767028-3f66f32aef97"
+      }
+    ],
+    "subtotal": 79,
+    "deliveryFee": 5,
+    "total": 84,
+    "mode": "entrega",
+    "address": {
+      "id": "a1",
+      "label": "Casa",
+      "cep": "04240010",
+      "street": "Rua Luís Abbondanza",
+      "number": "112",
+      "complement": "",
+      "district": "São João Clímaco",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "payment": {
+      "method": "dinheiro",
+      "status": "na entrega",
+      "changeFor": 80
+    },
+    "status": "entregue",
+    "minutesAgo": 2910,
+    "history": [
+      {
+        "status": "recebido",
+        "minutesAgo": 2910
+      },
+      {
+        "status": "preparo",
+        "minutesAgo": 2896
+      },
+      {
+        "status": "entrega",
+        "minutesAgo": 2882
+      },
+      {
+        "status": "entregue",
+        "minutesAgo": 2868
+      }
+    ]
+  },
+  {
+    "id": "o-1853",
+    "number": 1853,
+    "customerId": "u-4",
+    "customerName": "Rogério Nakamura",
+    "phone": "11974410882",
+    "items": [
+      {
+        "productId": "pizza-101",
+        "name": "Pizza grande Larica + Calabresa especial II",
+        "qty": 1,
+        "unitPrice": 51,
+        "details": [],
+        "image": "1574071318508-1cdbab80d002"
+      },
+      {
+        "productId": "vinhos-vinho-dom-bosco-suave-700ml",
+        "name": "Vinho Dom Bosco suave 700ml",
+        "qty": 1,
+        "unitPrice": 24,
+        "details": [],
+        "image": "1510812431401-41d2bd2722f3"
+      }
+    ],
+    "subtotal": 75,
+    "deliveryFee": 8,
+    "total": 83,
+    "mode": "entrega",
+    "address": {
+      "id": "a1",
+      "label": "Casa",
+      "cep": "04180000",
+      "street": "Estrada das Lágrimas",
+      "number": "2310",
+      "complement": "Casa 2",
+      "district": "Jardim Maria Estela",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "payment": {
+      "method": "cartao",
+      "status": "aprovado",
+      "brand": "Mastercard",
+      "last4": "5682"
+    },
+    "status": "entregue",
+    "minutesAgo": 4395,
+    "history": [
+      {
+        "status": "recebido",
+        "minutesAgo": 4395
+      },
+      {
+        "status": "preparo",
+        "minutesAgo": 4381
+      },
+      {
+        "status": "entrega",
+        "minutesAgo": 4367
+      },
+      {
+        "status": "entregue",
+        "minutesAgo": 4353
+      }
+    ]
+  },
+  {
+    "id": "o-1854",
+    "number": 1854,
+    "customerId": "u-7",
+    "customerName": "Larissa Okoye",
+    "phone": "11996647120",
+    "items": [
+      {
+        "productId": "lanches-artesanais-556",
+        "name": "Cheddar Onion Duplo",
+        "qty": 1,
+        "unitPrice": 26,
+        "details": [],
+        "image": "1550317138-10000687a72b"
+      },
+      {
+        "productId": "lanches-artesanais-552",
+        "name": "Cheese Salada",
+        "qty": 1,
+        "unitPrice": 21,
+        "details": [],
+        "image": "1571091718767-18b5b1457add"
+      },
+      {
+        "productId": "porcoes-meia-batata-frita-230g",
+        "name": "Meia batata frita 230g",
+        "qty": 1,
+        "unitPrice": 16,
+        "details": [],
+        "image": "1630384060421-cb20d0e0649d"
+      }
+    ],
+    "subtotal": 63,
+    "deliveryFee": 0,
+    "total": 63,
+    "mode": "retirada",
+    "address": null,
+    "payment": {
+      "method": "pix",
+      "status": "aprovado"
+    },
+    "status": "entregue",
+    "minutesAgo": 5775,
+    "history": [
+      {
+        "status": "recebido",
+        "minutesAgo": 5775
+      },
+      {
+        "status": "preparo",
+        "minutesAgo": 5761
+      },
+      {
+        "status": "entrega",
+        "minutesAgo": 5747
+      },
+      {
+        "status": "entregue",
+        "minutesAgo": 5733
+      }
+    ]
+  },
+  {
+    "id": "o-1855",
+    "number": 1855,
+    "customerId": "u-cliente",
+    "customerName": "Cliente Demo",
+    "phone": "11987650001",
+    "items": [
+      {
+        "productId": "pizza-06",
+        "name": "Pizza grande Marguerita",
+        "qty": 1,
+        "unitPrice": 44,
+        "details": [],
+        "image": "1590947132387-155cc02f3212"
+      },
+      {
+        "productId": "esfihas-doces-503",
+        "name": "Kit Kat",
+        "qty": 4,
+        "unitPrice": 5.25,
+        "details": [],
+        "image": "1548369937-47519962c11a"
+      }
+    ],
+    "subtotal": 65,
+    "deliveryFee": 5,
+    "total": 70,
+    "mode": "entrega",
+    "address": {
+      "id": "a1",
+      "label": "Casa",
+      "cep": "04255000",
+      "street": "Rua São João Clímaco",
+      "number": "480",
+      "complement": "Apto 32",
+      "district": "São João Clímaco",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "payment": {
+      "method": "maquininha",
+      "status": "na entrega"
+    },
+    "status": "entregue",
+    "minutesAgo": 8695,
+    "history": [
+      {
+        "status": "recebido",
+        "minutesAgo": 8695
+      },
+      {
+        "status": "preparo",
+        "minutesAgo": 8681
+      },
+      {
+        "status": "entrega",
+        "minutesAgo": 8667
+      },
+      {
+        "status": "entregue",
+        "minutesAgo": 8653
+      }
+    ]
+  },
+  {
+    "id": "o-1856",
+    "number": 1856,
+    "customerId": "u-8",
+    "customerName": "Seu Agenor Pinto",
+    "phone": "11940028922",
+    "items": [
+      {
+        "productId": "combos-388",
+        "name": "Combo 1",
+        "qty": 1,
+        "unitPrice": 76.9,
+        "details": [],
+        "image": "1561758033-d89a9ad46330"
+      }
+    ],
+    "subtotal": 76.9,
+    "deliveryFee": 6,
+    "total": 82.9,
+    "mode": "entrega",
+    "address": {
+      "id": "a1",
+      "label": "Casa",
+      "cep": "04253000",
+      "street": "Rua Vergueiro",
+      "number": "8800",
+      "complement": "",
+      "district": "Vila Firmiano Pinto",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "payment": {
+      "method": "dinheiro",
+      "status": "na entrega",
+      "changeFor": 100
+    },
+    "status": "entregue",
+    "minutesAgo": 3180,
+    "history": [
+      {
+        "status": "recebido",
+        "minutesAgo": 3180
+      },
+      {
+        "status": "preparo",
+        "minutesAgo": 3166
+      },
+      {
+        "status": "entrega",
+        "minutesAgo": 3152
+      },
+      {
+        "status": "entregue",
+        "minutesAgo": 3138
+      }
+    ]
+  }
+]

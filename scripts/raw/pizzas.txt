@@ -1,0 +1,131 @@
+# Formato: código - nome | grande | broto | descrição
+## tradicional
+01 - Alho frito | 44 | 34 | Molho de tomate, mussarela, azeitonas, orégano e alho frito
+02 - Baiana | 43 | 33 | Molho de tomate, mussarela, azeitonas, orégano, calabresa moída, pimenta, ovos e cebola
+03 - Bauru | 43 | 33 | Molho de tomate, mussarela, azeitonas, orégano, presunto moído e rodelas de tomate
+04 - Calabresa | 43 | 33 | Molho de tomate, azeitonas, orégano, calabresa fatiada e cebola
+05 - Escarola | 43 | 33 | Molho de tomate, mussarela, azeitonas, orégano, escarola, cebola e bacon
+06 - Marguerita | 44 | 34 | Molho de tomate, mussarela, azeitonas, orégano, manjericão, rodelas de tomate e parmesão
+07 - Mussarela | 44 | 34 | Molho de tomate, azeitonas, mussarela e orégano
+08 - Milho verde | 43 | 33 | Molho de tomate, mussarela, azeitonas, orégano e milho
+09 - Napolitana | 44 | 34 | Molho de tomate, mussarela, azeitonas, orégano, rodelas de tomate e parmesão
+10 - Toscana | 43 | 33 | Molho de tomate, mussarela, azeitonas, orégano, calabresa moída, ovos e cebola
+11 - Bacon | 44 | 34 | Molho de tomate, mussarela, azeitonas, orégano, bacon e cebola
+12 - Brócolis | 44 | 34 | Molho de tomate, mussarela, azeitonas, orégano, brócolis e bacon
+13 - Calabresa II | 44 | 34 | Molho de tomate, mussarela, azeitonas, orégano, calabresa fatiada e cebola
+14 - Escarola II | 44 | 34 | Molho de tomate, mussarela, azeitonas, orégano, escarola, cebola, bacon e alho
+15 - Rúcula | 44 | 34 | Molho de tomate, mussarela, azeitonas, orégano, rúcula e tomate seco
+16 - À moda | 45 | 35 | Molho de tomate, azeitonas, orégano, presunto moído, ervilha, bacon, catupiry e tomate em rodelas
+17 - Bacon II | 45 | 35 | Molho de tomate, azeitonas, orégano, bacon, cebola e catupiry
+18 - Berinjela | 45 | 35 | Molho de tomate, mussarela, azeitonas, orégano, berinjela e cebola
+19 - Brócolis II | 45 | 35 | Molho de tomate, azeitonas, orégano, brócolis, catupiry e bacon
+20 - Calabresa III | 45 | 35 | Molho de tomate, azeitonas, orégano, calabresa fatiada, cebola e catupiry
+21 - Cheddar | 45 | 35 | Molho de tomate, azeitonas, orégano, cheddar, tomate fatiado e bacon
+22 - Dois queijos | 44 | 34 | Molho de tomate, mussarela, catupiry, azeitonas e orégano
+23 - Lombo | 45 | 35 | Molho de tomate, mussarela, azeitonas, orégano, lombo, cebola e milho
+24 - Milho verde II | 45 | 35 | Molho de tomate, azeitonas, orégano, milho verde e catupiry
+25 - Namorados | 45 | 35 | Molho de tomate, mussarela, azeitonas, orégano, champignon, cebola e palmito
+26 - Palmito | 45 | 35 | Molho de tomate, mussarela, azeitonas, orégano e palmito
+27 - Portuguesa | 45 | 35 | Molho de tomate, mussarela, azeitonas, orégano, presunto moído, cebola e ovos
+28 - Pomodoro | 45 | 35 | Molho de tomate, mussarela, azeitonas, orégano, tomate em fatias e alho frito
+29 - Três queijos | 45 | 35 | Molho de tomate, mussarela, azeitonas, orégano, catupiry e parmesão
+30 - Tomate seco | 46 | 35 | Molho de tomate, mussarela, azeitonas, orégano, tomate seco e parmesão
+31 - Atum | 46 | 36 | Molho de tomate, azeitonas, orégano, atum e cebola
+32 - Strogonoff | 46 | 36 | Molho de tomate, mussarela, azeitonas, orégano, frango desfiado, cebola e champignon
+33 - Catupiry | 46 | 36 | Molho de tomate, azeitonas, orégano e catupiry
+34 - Caipira | 46 | 36 | Molho de tomate, mussarela, azeitonas, orégano, frango desfiado, milho e cebola
+35 - Champignon | 46 | 36 | Molho de tomate, mussarela, azeitonas, orégano, champignon e milho
+36 - Frango | 46 | 36 | Molho de tomate, azeitonas, orégano, frango desfiado e catupiry
+37 - Gorgonzola | 47 | 37 | Molho de tomate, azeitonas, orégano, gorgonzola, tomate fatiado e cebola
+38 - Jardineira | 46 | 36 | Molho de tomate, mussarela, azeitonas, orégano, calabresa, atum, champignon, ervilha e parmesão
+39 - Lombo II | 46 | 36 | Molho de tomate, azeitonas, orégano, lombo defumado, milho e catupiry
+40 - Pepperoni | 46 | 36 | Molho de tomate, azeitonas, orégano e pepperoni, com mussarela ou catupiry (diga qual nas observações)
+41 - Palmito II | 46 | 36 | Molho de tomate, azeitonas, orégano, palmito e catupiry
+42 - Palha | 46 | 36 | Molho de tomate, mussarela, azeitonas, orégano, frango, cebola, milho e batata palha
+43 - Provolone | 47 | 37 | Molho de tomate, azeitonas, orégano, provolone, tomate e parmesão
+44 - Peruana | 46 | 36 | Molho de tomate, mussarela, azeitonas, orégano, atum, tomate em rodelas, ervilha e cebola
+45 - Quatro queijos | 46 | 36 | Molho de tomate, azeitonas, orégano, mussarela, parmesão, catupiry e provolone
+46 - Siciliana | 46 | 36 | Molho de tomate, mussarela, azeitonas, orégano, champignon, milho verde e bacon
+47 - Vegetariana | 46 | 36 | Molho de tomate, mussarela, azeitonas, orégano, escarola, milho, champignon, palmito e ervilha
+48 - Atum II | 47 | 37 | Molho de tomate, mussarela, azeitonas, orégano, atum e cebola
+49 - Baiacatu | 47 | 37 | Molho de tomate, azeitonas, orégano, calabresa moída, cebola, ovo, bacon, pimenta e parmesão
+50 - Brócolis especial | 48 | 38 | Molho de tomate, mussarela, azeitonas, orégano, brócolis, catupiry, bacon e alho frito
+51 - Calabresa especial | 48 | 38 | Molho de tomate, mussarela, azeitonas, orégano, calabresa fatiada, bacon e catupiry
+52 - Catupiry II | 47 | 37 | Molho de tomate, azeitonas, orégano e catupiry coberto com batata palha
+53 - Carijó | 49 | 39 | Molho de tomate, azeitonas, orégano, frango, catupiry, palmito e tomate seco
+54 - Cinco queijos | 48 | 38 | Molho de tomate, azeitonas, orégano, mussarela, parmesão, catupiry, provolone e cheddar
+55 - Diplomata | 48 | 38 | Molho de tomate, mussarela, azeitonas, orégano, lombo, catupiry, palmito e bacon
+56 - Feitiço | 48 | 38 | Molho de tomate, azeitonas, orégano, frango, palmito, bacon, milho, catupiry e tomate seco
+57 - Francesa | 48 | 38 | Molho de tomate, mussarela, azeitonas, orégano, presunto, bacon, tomate e ovo
+58 - Frango II | 47 | 38 | Molho de tomate, azeitonas, orégano, frango desfiado, milho e catupiry
+59 - Frango especial | 48 | 38 | Molho de tomate, mussarela, azeitonas, orégano, frango desfiado, bacon e catupiry
+## especial
+60 - Atum III | 53 | 43 | Molho de tomate, azeitonas, orégano, atum, cebola e catupiry
+61 - Light | 53 | 43 | Molho de tomate, mussarela, azeitonas, orégano, peito de peru, brócolis, palmito e milho
+62 - Portuguesa II | 53 | 43 | Molho de tomate, mussarela, azeitonas, orégano, presunto moído, cebola, palmito, ervilha, milho e ovos
+63 - Seis queijos | 53 | 43 | Molho de tomate, azeitonas, orégano, mussarela, catupiry, parmesão, gorgonzola, cheddar e provolone
+64 - Abbondanza | 53 | 43 | Molho de tomate, azeitonas, orégano, frango, catupiry, pepperoni, alho, bacon e tomate seco
+65 - Peito de peru | 53 | 43 | Molho de tomate, azeitonas, orégano, peito de peru e cebola, com mussarela ou catupiry (diga qual nas observações)
+66 - Peru especial | 53 | 43 | Molho de tomate, mussarela, azeitonas, orégano, peito de peru, catupiry, cebola e palmito
+67 - Camarão | 70 | 60 | Molho de tomate, azeitonas, orégano e camarão, com mussarela ou catupiry (diga qual nas observações)
+68 - Carne seca | 55 | 45 | Molho de tomate, azeitonas, orégano, carne seca e cebola, com mussarela ou catupiry (diga qual nas observações)
+69 - Monte sua pizza | 55 | 45 | Peça até 5 ingredientes da sua escolha nas observações
+70 - Nordestina | 55 | 45 | Molho de tomate, mussarela, azeitonas, orégano, carne seca, pimenta, cebola e ovo
+71 - Romana | 55 | 45 | Molho de tomate, mussarela, azeitonas, orégano, aliche, tomate e parmesão
+## novidade
+81 - Baiacatu II | 45 | 35 | Calabresa moída, ovo, catupiry e cebola
+82 - 4 queijos especial | 51 | 41 | Mussarela, catupiry, provolone e gorgonzola
+83 - Calabresa especial II | 51 | 41 | Calabresa, catupiry, mussarela, provolone, parmesão, cheddar e bacon
+84 - Chilena | 50 | 40 | Frango, milho, cheddar e bacon
+85 - Americana | 50 | 40 | Atum, palmito, mussarela, ovo, ervilha e bacon
+86 - Premium light | 55 | 45 | Peito de peru, mussarela de búfala, rúcula, palmito e tomate seco
+90 - Peppercheddar | 48 | 38 | Pepperoni, cheddar, bacon e mussarela
+91 - Bacon barbecue | 48 | 38 | Bacon, mussarela e barbecue
+99 - Baiana II | 45 | 35 | Calabresa moída, ovo, cebola e pimenta biquinho
+101 - Larica | 51 | 41 | Batata frita, mussarela, calabresa, cheddar, bacon e parmesão
+103 - Frango especial II | 48 | 38 | Frango, catupiry, cheddar e bacon
+104 - Pepperoni especial | 49 | 39 | Pepperoni, mussarela, pimentão e cebola
+105 - Abobrinha | 45 | 35 | Abobrinha, mussarela e alho frito
+109 - Primavera | 47 | 37 | Frango, catupiry, milho, palmito e ervilha
+117 - Frango Supreme | 49 | 39 | Frango, catupiry, barbecue, bacon e palmito
+118 - Doritos | 51 | 41 | Frango, cheddar, mussarela e Doritos
+119 - Bacalhau | 58 | 48 | Bacalhau com mussarela ou catupiry
+120 - Costela | 54 | 44 | Costela bovina desfiada, cebola, mussarela e pimenta biquinho
+127 - Banana da terra | 59 | 49 | Banana da terra, carne seca, mussarela, catupiry e cebola
+128 - Brócolis especial II | 52 | 42 | Brócolis, catupiry, bacon e peito de peru
+129 - Temaki | 54 | 42 | Atum, gergelim, molho tarê, cream cheese e cebolinha
+131 - Pernil | 52 | 42 | Pernil suíno desfiado, cebola, barbecue e catupiry
+## doce
+72 - Amendoim | 46 | 36 | Chocolate ao leite e amendoim
+73 - Banana | 46 | 36 | Banana, canela e leite condensado
+74 - Brigadeiro | 46 | 36 | Chocolate ao leite e granulado
+75 - Chocobana | 46 | 36 | Banana e chocolate ao leite
+76 - Crocante | 46 | 36 | Chocolate ao leite e bolinhas de cereal crocante
+77 - Confete | 46 | 36 | Chocolate ao leite e confete
+78 - Prestígio | 46 | 36 | Chocolate ao leite, leite condensado e coco ralado
+79 - Romeu e Julieta | 46 | 36 | Goiabada com mussarela
+80 - Sensação | 46 | 36 | Chocolate ao leite, morango e granulado de chocolate
+87 - Chocolate | 46 | 36 | Chocolate ao leite
+89 - Mesclada | 46 | 36 | Chocolate branco e chocolate ao leite
+92 - Sensação branco | 46 | 36 | Chocolate branco com morango
+93 - Chocouva | 46 | 36 | Uva verde e chocolate ao leite
+94 - Morangresco | 46 | 36 | Chocolate branco, farofa de Negresco e morango
+95 - Três desejos | 46 | 36 | Chocolate ao leite, chocolate branco e doce de leite
+96 - Paçoca | 46 | 36 | Chocolate ao leite e paçoca
+100 - Kit Kat | 51 | 41 | Chocolate ao leite, chocolate branco e barrinhas de Kit Kat branco
+102 - Gotas de chocolate | 46 | 36 | Chocolate branco e gotas de chocolate
+106 - Bis | 46 | 36 | Bis, chocolate ao leite e chocolate branco
+107 - Brigadeiro colorido | 46 | 36 | Chocolate branco e granulado colorido
+108 - Sensação duo | 46 | 36 | Chocolate branco, chocolate ao leite e morango
+113 - Doce de leite II | 46 | 36 | Doce de leite, mussarela e coco ralado
+114 - Uvagresco | 46 | 36 | Chocolate branco, uva, farofa de Negresco e leite condensado
+115 - Chocolate branco | 46 | 36 | Chocolate branco
+116 - Chokito | 46 | 36 | Chocolate ao leite, doce de leite e bolinhas de arroz
+121 - Caribe | 48 | 37 | Mussarela, abacaxi, doce de leite e coco ralado
+122 - Rocks | 52 | 42 | Chocolate ao leite, chocolate branco e rocks de Ovomaltine
+126 - Pistache | 50 | 40 | Pistache, chocolate branco e amendoim
+130 - Ouro Branco | 50 | 40 | Chocolate branco, bombom Ouro Branco e chocolate ao leite
+133 - Banana nevada | 49 | 39 | Banana, creme de leite, chocolate branco gratinado e mussarela
+134 - Churros | 58 | 48 | Doce de leite, cookies granulado, churros com doce de leite, toque de chocolate ao leite, açúcar e canela
+135 - Uva com Ninho | 48 | 38 | Uva, leite Ninho e chocolate branco
+136 - Kinder Bueno | 58 | 48 | Creme de leite e avelã, Kinder Bueno, morango e chocolate ao leite
